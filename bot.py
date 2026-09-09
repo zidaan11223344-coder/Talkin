@@ -159,7 +159,12 @@ DEBUG = os.getenv("DEBUG", "1") == "1"
 RAW_DIAGNOSTIC = os.getenv("RAW_DIAGNOSTIC", "1") == "1"
 ACK_ROOM_EVENTS = os.getenv("ACK_ROOM_EVENTS", "1") == "1"
 AUTO_HELP = os.getenv("AUTO_HELP", "1") == "1"
-AUTO_REJOIN = os.getenv("AUTO_REJOIN", "0") == "1"
+# Always restore saved rooms after a connection drop/restart unless explicitly disabled.
+AUTO_REJOIN = os.getenv("AUTO_REJOIN", "1") == "1"
+ROOMS_FILE = Path(os.getenv("ROOMS_FILE", str(Path(__file__).resolve().parent / "talkin_rooms.json")))
+MASTERS_FILE = Path(os.getenv("MASTERS_FILE", str(Path(__file__).resolve().parent / "talkin_masters.json")))
+REJOIN_DELAY = float(os.getenv("REJOIN_DELAY", "1.2"))
+HEARTBEAT_SECONDS = float(os.getenv("HEARTBEAT_SECONDS", "25"))
 BANNED_WORDS = {w.strip().lower() for w in os.getenv("BANNED_WORDS", "").split(",") if w.strip()}
 AUTO_BAN_WORDS = os.getenv("AUTO_BAN_WORDS", "0") == "1"
 
@@ -722,11 +727,89 @@ class TalkinBot:
         self.invite_sent = set()
         self.invite_thread = None
         self.invite_lock = threading.Lock()
-        self.invite_message_template = "{sender} يدعوك للغرفة {room}"
+        self.invite_message_template = "شريكك😍 يدعوك للانضمام إلى {room}"
         self.known_rooms = set()
+        self.masters = set()
+        self._load_persistent_state()
         self.banned_words = set(BANNED_WORDS)
         self.db = DatabaseBridge(self.log)
         self.db.sign_in()
+
+    # ----------------------- persistent bot state -----------------------
+    def _load_persistent_state(self):
+        """Load rooms, masters and invite template from local JSON files."""
+        try:
+            if ROOMS_FILE.exists():
+                raw = json.loads(ROOMS_FILE.read_text(encoding="utf-8"))
+                if isinstance(raw, list):
+                    self.known_rooms = {str(x).strip() for x in raw if str(x).strip()}
+                elif isinstance(raw, dict):
+                    self.known_rooms = {str(x).strip() for x in raw.get("rooms", []) if str(x).strip()}
+                    self.invite_message_template = str(raw.get("invite_message") or self.invite_message_template)
+        except Exception as e:
+            self.log("[STATE] rooms load failed:", repr(e))
+
+        try:
+            if MASTERS_FILE.exists():
+                raw = json.loads(MASTERS_FILE.read_text(encoding="utf-8"))
+                if isinstance(raw, list):
+                    self.masters = {str(x).strip() for x in raw if str(x).strip()}
+                elif isinstance(raw, dict):
+                    self.masters = {str(x).strip() for x in raw.get("masters", []) if str(x).strip()}
+                    self.invite_message_template = str(raw.get("invite_message") or self.invite_message_template)
+        except Exception as e:
+            self.log("[STATE] masters load failed:", repr(e))
+
+        if BOT_MASTER:
+            self.masters.add(BOT_MASTER)
+        self._save_persistent_state()
+
+    def _save_persistent_state(self):
+        """Atomically persist rooms/masters so reconnects restore all rooms."""
+        try:
+            ROOMS_FILE.parent.mkdir(parents=True, exist_ok=True)
+            payload = {
+                "rooms": sorted(r for r in self.known_rooms if r),
+                "invite_message": self.invite_message_template,
+                "updated_at": int(time.time()),
+            }
+            tmp = ROOMS_FILE.with_suffix(ROOMS_FILE.suffix + ".tmp")
+            tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+            tmp.replace(ROOMS_FILE)
+
+            MASTERS_FILE.parent.mkdir(parents=True, exist_ok=True)
+            mpayload = {
+                "masters": sorted(m for m in self.masters if m),
+                "invite_message": self.invite_message_template,
+                "updated_at": int(time.time()),
+            }
+            mtmp = MASTERS_FILE.with_suffix(MASTERS_FILE.suffix + ".tmp")
+            mtmp.write_text(json.dumps(mpayload, ensure_ascii=False, indent=2), encoding="utf-8")
+            mtmp.replace(MASTERS_FILE)
+        except Exception as e:
+            self.log("[STATE] save failed:", repr(e))
+
+    def remember_room(self, room: str):
+        room = str(room or "").strip()
+        if not room or room == BOT_MASTER:
+            return False
+        before = len(self.known_rooms)
+        self.known_rooms.add(room)
+        if len(self.known_rooms) != before:
+            self._save_persistent_state()
+            self.log("[ROOM] saved:", room)
+        return True
+
+    def forget_room(self, room: str):
+        room = str(room or "").strip()
+        if room in self.known_rooms:
+            self.known_rooms.discard(room)
+            self._save_persistent_state()
+            return True
+        return False
+
+    def is_master(self, username: str):
+        return bool(username and str(username).strip() in self.masters)
 
     def log(self, *args):
         if DEBUG:
@@ -1165,7 +1248,7 @@ class TalkinBot:
         body = str(event.get(6, ""))
         room = str(event.get(13, self.room))
         if room and room != BOT_MASTER:
-            self.known_rooms.add(room)
+            self.remember_room(room)
         event_id = str(event.get(41, ""))
         username = str(event.get(22, "") or "").strip()
         role = str(event.get(8, "") or "").strip().lower()
@@ -1189,8 +1272,9 @@ class TalkinBot:
             # These are server-side rejoin instructions, not a socket failure.
             # Rejoining is disabled by default to prevent leave/return loops.
             self.log(f"[ROOM] rejoin requested but disabled: {event_type}")
-            if AUTO_REJOIN:
+            if AUTO_REJOIN and room:
                 try:
+                    self.remember_room(room)
                     self.join_room(room)
                 except Exception as e:
                     self.log("[ROOM] rejoin request failed:", repr(e))
@@ -1222,11 +1306,11 @@ class TalkinBot:
         self.last_messages[room].append((frm, body, event_id))
         self.last_messages[room] = self.last_messages[room][-50:]
 
-        # Master-only administrative commands.
-        if BOT_MASTER and frm == BOT_MASTER:
+        # Master / multi-master administrative commands.
+        if self.is_master(frm):
             parts = body.strip().split()
             if parts:
-                cmd = parts[0].lower()
+                cmd = parts[0].casefold()
                 target = parts[1].lstrip("@").strip() if len(parts) >= 2 else ""
                 try:
                     if cmd in ("a@", "admin") and target:
@@ -1240,39 +1324,57 @@ class TalkinBot:
                     elif cmd in ("u@", "unban") and target:
                         self.send_admin(room, target, "member")
                     elif cmd in ("دخول", "join", "ادخل", "enter") and target:
-                        # Master can command the bot from private chat: "دخول اسم الغرفة".
-                        # Joining is done on the existing WebSocket; no reconnect is needed.
-                        # Keep every previously joined room. room_join is sent
-                        # for the new room without replacing the current room.
                         self.join_room(target)
-                        self.known_rooms.add(target)
-                        self.send_private_text(BOT_MASTER, f"✅ دخلت الغرفة: {target} | الغرف الحالية: {len(self.known_rooms)}")
-                    elif cmd in ("invmsg", "رسالةدعوة"):
-                        template = body.split(None, 1)[1].strip() if len(parts) >= 2 else "{sender} يدعوك للغرفة {room}"
+                        self.remember_room(target)
+                        self.send_private_text(frm, f"✅ دخلت الغرفة: {target} | الغرف المحفوظة: {len(self.known_rooms)}")
+                    elif cmd in ("اضف", "add") and len(parts) >= 3 and parts[1].casefold() in ("ماستر", "master"):
+                        new_master = parts[2].lstrip("@").strip()
+                        if new_master:
+                            self.masters.add(new_master)
+                            self._save_persistent_state()
+                            self.send_private_text(frm, f"✅ تمت إضافة الماستر: @{new_master}")
+                    elif cmd in ("حذف", "احذف", "remove", "del") and len(parts) >= 3 and parts[1].casefold() in ("ماستر", "master"):
+                        old_master = parts[2].lstrip("@").strip()
+                        if old_master == BOT_MASTER:
+                            self.send_private_text(frm, "❌ لا يمكن حذف الماستر الأساسي من داخل البوت.")
+                        elif old_master in self.masters:
+                            self.masters.discard(old_master)
+                            self._save_persistent_state()
+                            self.send_private_text(frm, f"✅ تم حذف الماستر: @{old_master}")
+                        else:
+                            self.send_private_text(frm, "❌ هذا المستخدم ليس ماستر.")
+                    elif cmd in ("الماسترز", "masters", "masterlist", "قائمة_الماستر"):
+                        names = "\n".join(f"• @{x}" for x in sorted(self.masters)) or "لا يوجد"
+                        self.send_private_text(frm, "👑 الماسترز:\n" + names)
+                    elif cmd in ("invmsg", "رسالةدعوة", "رساله_الدعوه", "رسالة_الدعوة"):
+                        template = body.split(None, 1)[1].strip() if len(parts) >= 2 else "شريكك😍 يدعوك للانضمام إلى {room}"
                         self.invite_message_template = template
-                        self.send_private_text(BOT_MASTER, f"✅ تم تغيير نص الدعوة إلى: {template}")
+                        self._save_persistent_state()
+                        self.send_private_text(frm, f"✅ تم تغيير نص الدعوة إلى: {template}")
                     elif cmd in ("inv", "دعوات", "invite"):
-                        # In a room: `inv` always uses THIS room's name in the invitation.
-                        # From private master chat: `inv اسم_الغرفة` targets that explicit room.
                         target_room = target if target else room
                         if target_room and target_room != BOT_MASTER:
+                            self.remember_room(target_room)
                             self.request_occupants(target_room)
-                            self.send_private_text(BOT_MASTER, f"📨 بدأت دعوات جميع الغرف النشطة. اسم الدعوة: {target_room}")
+                            self.send_private_text(frm, f"📨 بدأت الدعوات في الغرفة: {target_room}")
+                    elif cmd in ("rooms", "الغرف", "غرفي"):
+                        names = "\n".join(f"• {x}" for x in sorted(self.known_rooms)) or "لا توجد غرف محفوظة"
+                        self.send_private_text(frm, "🏠 الغرف المحفوظة:\n" + names)
                     elif cmd in ("say", "قل") and len(parts) >= 2:
                         self.send_room_text(room, body.split(None, 1)[1])
-                    elif cmd in ("help", "مساعدة") and AUTO_HELP:
-                        self.send_room_text(room, "أوامر البوت: k@ اسم للطرد، b@ اسم للحظر، a@ اسم مشرف، o@ اسم مالك، inv لدعوة مستخدمي الغرفة، say النص")
+                    elif cmd in ("help", "مساعدة", "اوامر", "الأوامر") and AUTO_HELP:
+                        self.send_room_text(room, self.full_help_text())
                     else:
                         return
                     self.log("[ADMIN/MASTER]", cmd, target)
                     if cmd in ("k@", "kick", "b@", "ban") and target:
                         try:
                             action_ar = "الطرد" if cmd in ("k@", "kick") else "الحظر"
-                            self.send_private_text(BOT_MASTER, f"✅ تم إرسال أمر {action_ar} الفعلي إلى @{target} في الغرفة {room}.")
+                            self.send_private_text(frm, f"✅ تم إرسال أمر {action_ar} الفعلي إلى @{target} في الغرفة {room}.")
                         except Exception as e2:
                             self.log("[ADMIN] confirmation failed:", repr(e2))
                 except Exception as e:
-                    self.log("[ADMIN] failed:", e)
+                    self.log("[ADMIN] failed:", repr(e))
             return
 
         # Optional automatic word filter. It uses the same room ban operation
@@ -1288,8 +1390,30 @@ class TalkinBot:
                     self.log("[WORD-FILTER] failed:", repr(e))
                 return
 
-        if body.lower().strip() in ("!help", "مساعدة") and AUTO_HELP:
-            self.send_room_text(room, "أوامر البوت: k@ اسم، b@ اسم، a@ اسم، o@ اسم، inv لدعوة مستخدمي الغرفة")
+        if body.lower().strip() in ("!help", "مساعدة", "اوامر", "الأوامر") and AUTO_HELP:
+            self.send_room_text(room, self.full_help_text())
+
+    def full_help_text(self):
+        return (
+            "╭━━〔🤖 أوامر البوت〕━━╮\n"
+            "🏠 دخول: دخول اسم_الغرفة\n"
+            "📨 دعوات: inv أو دعوات\n"
+            "✉️ تغيير رسالة الدعوة: رسالة_الدعوة النص\n"
+            "👑 إضافة ماستر: اضف ماستر اسم_المستخدم\n"
+            "🗑️ حذف ماستر: حذف ماستر اسم_المستخدم\n"
+            "👑 الماسترز: الماسترز\n"
+            "🏠 الغرف المحفوظة: الغرف\n"
+            "👢 طرد: k@اسم\n"
+            "🚫 حظر: b@اسم\n"
+            "🛡️ مشرف: a@اسم\n"
+            "👑 مالك: o@اسم\n"
+            "✅ فك حظر: u@اسم\n"
+            "📢 نشر: say النص\n"
+            "🎵 أغاني: اغنية اسم الأغنية\n"
+            "🎁 الهدايا: هدايا | هدية@رقم@اسم المستخدم\n"
+            "ℹ️ مساعدة الأغاني والهدايا: مساعدة الوسائط\n"
+            "╰━━━━━━━━━━━━╯"
+        )
 
     def on_message(self, ws, message):
         try:
@@ -1320,22 +1444,51 @@ class TalkinBot:
                             target_room = parts[1].strip()
                             self.room = target_room
                             self.join_room(target_room)
-                            self.known_rooms.add(target_room)
+                            self.remember_room(target_room)
                             self.send_private_text(frm, f"✅ دخلت الغرفة: {target_room}")
-                    elif BOT_MASTER and frm == BOT_MASTER and body:
-                        # Reuse room command handling with the command-context room.
-                        ctx_room = self.room
-                        if body.lower().startswith(("inv", "دعوات", "invite")):
-                            parts = body.split()
-                            target_room = parts[1] if len(parts) > 1 else ctx_room
-                            self.request_occupants(target_room)
-                        elif body.lower().startswith(("دخول ", "join ", "ادخل ", "enter ")):
-                            parts = body.split(None, 1)
-                            if len(parts) == 2 and parts[1].strip():
-                                target_room = parts[1].strip()
-                                self.join_room(target_room)
-                                self.known_rooms.add(target_room)
-                                self.send_private_text(BOT_MASTER, f"✅ دخلت الغرفة: {target_room} | الغرف الحالية: {len(self.known_rooms)}")
+                    elif self.is_master(frm) and body:
+                        # Private master commands.
+                        parts = body.split()
+                        cmd = parts[0].casefold() if parts else ""
+                        if cmd in ("inv", "دعوات", "invite"):
+                            target_room = parts[1].strip() if len(parts) > 1 else self.room
+                            if target_room:
+                                self.remember_room(target_room)
+                                self.request_occupants(target_room)
+                                self.send_private_text(frm, f"📨 بدأت الدعوات في: {target_room}")
+                        elif cmd in ("دخول", "join", "ادخل", "enter") and len(parts) >= 2:
+                            target_room = body.split(None, 1)[1].strip()
+                            self.room = target_room
+                            self.join_room(target_room)
+                            self.remember_room(target_room)
+                            self.send_private_text(frm, f"✅ دخلت الغرفة: {target_room} | الغرف المحفوظة: {len(self.known_rooms)}")
+                        elif cmd in ("اضف", "add") and len(parts) >= 3 and parts[1].casefold() in ("ماستر", "master"):
+                            new_master = parts[2].lstrip("@").strip()
+                            if new_master:
+                                self.masters.add(new_master)
+                                self._save_persistent_state()
+                                self.send_private_text(frm, f"✅ تمت إضافة الماستر: @{new_master}")
+                        elif cmd in ("حذف", "احذف", "remove", "del") and len(parts) >= 3 and parts[1].casefold() in ("ماستر", "master"):
+                            old_master = parts[2].lstrip("@").strip()
+                            if old_master == BOT_MASTER:
+                                self.send_private_text(frm, "❌ لا يمكن حذف الماستر الأساسي.")
+                            else:
+                                self.masters.discard(old_master)
+                                self._save_persistent_state()
+                                self.send_private_text(frm, f"✅ تم حذف الماستر: @{old_master}")
+                        elif cmd in ("الماسترز", "masters", "masterlist"):
+                            names = "\n".join(f"• @{x}" for x in sorted(self.masters)) or "لا يوجد"
+                            self.send_private_text(frm, "👑 الماسترز:\n" + names)
+                        elif cmd in ("invmsg", "رسالةدعوة", "رساله_الدعوه", "رسالة_الدعوة"):
+                            template = body.split(None, 1)[1].strip() if len(parts) >= 2 else "شريكك😍 يدعوك للانضمام إلى {room}"
+                            self.invite_message_template = template
+                            self._save_persistent_state()
+                            self.send_private_text(frm, f"✅ تم حفظ رسالة الدعوة: {template}")
+                        elif cmd in ("الغرف", "rooms", "غرفي"):
+                            names = "\n".join(f"• {x}" for x in sorted(self.known_rooms)) or "لا توجد غرف محفوظة"
+                            self.send_private_text(frm, "🏠 الغرف المحفوظة:\n" + names)
+                        elif cmd in ("مساعدة", "help", "اوامر", "الأوامر"):
+                            self.send_private_text(frm, self.full_help_text())
                 except Exception as e:
                     self.log("[CHAT_MESSAGE] private command handling failed:", repr(e))
             if result.get("type") or result.get("value"):
@@ -1431,9 +1584,18 @@ class TalkinBot:
             elif kind == "close":
                 raise ConnectionError(f"WebSocket closed during room-list bootstrap: {message}")
 
+        # Restore every remembered room, not just the last room.
         if self.room:
-            self.known_rooms.add(self.room)
-            self.join_room(self.room)
+            self.remember_room(self.room)
+        if AUTO_REJOIN:
+            rooms = sorted(r for r in self.known_rooms if r)
+            self.log("[ROOM] restoring saved rooms:", rooms)
+            for saved_room in rooms:
+                try:
+                    self.join_room(saved_room)
+                except Exception as e:
+                    self.log("[ROOM] restore failed:", saved_room, repr(e))
+                time.sleep(max(0.0, REJOIN_DELAY))
 
     def run_once(self):
         self.authenticate()
@@ -1483,9 +1645,13 @@ class TalkinBot:
                             try:
                                 kind, message = self.ws.recv()
                             except socket.timeout:
-                                # An idle room is normal. Do not reconnect just
-                                # because no WebSocket frame arrived during the
-                                # read timeout.
+                                # Idle periods are normal. Send a WebSocket ping
+                                # instead of reconnecting, so the room session stays alive.
+                                try:
+                                    if self.ws and self.ws.sock:
+                                        self.ws.send_control(0x9, b"talkin-heartbeat")
+                                except Exception as hb_err:
+                                    self.log("[WS] heartbeat failed:", repr(hb_err))
                                 continue
                             if kind == "binary":
                                 self.on_message(self.ws, message)
@@ -1510,7 +1676,7 @@ class TalkinBot:
         raise last_error
 
     def start(self):
-        print("=== Talkinchat Bot V16 - Master Room Join + Normal Private Invites ===", flush=True)
+        print("=== Talkinchat Bot V17 - Persistent Rooms + Invites + Media ===", flush=True)
         try:
             start_media_server()
             self.log("[MEDIA] public media server started")

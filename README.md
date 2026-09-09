@@ -42,3 +42,21 @@ python bot.py
 - إذا رفض الخادم هوية الجهاز، استخدم قيم الجهاز نفسه في `DEVICE_ID` و`DEVICE_MANUFACTURER` و`DEVICE_PRODUCT_MODEL` و`SDK`.
 - عند ظهور خطأ اتصال أو دخول غرفة، يسجله البوت في Logs مع مرحلة الخطأ، مثل المصادقة أو WebSocket أو دخول الغرفة.
 - تم تعطيل إعادة دخول الغرفة تلقائياً افتراضياً لمنع حلقة الخروج والعودة. اترك `AUTO_REJOIN=0`، ولا تغيّره إلى `1` إلا إذا أردت إعادة الدخول التلقائي.
+## Persistent rooms / masters
+The bot now saves joined rooms in `talkin_rooms.json` and masters in `talkin_masters.json` and restores saved rooms after reconnects. No Android device variables are required; server fallback identity is automatic.
+
+## Common commands
+- `دخول اسم_الغرفة` — join and save a room
+- `الغرف` — show saved rooms
+- `inv` / `دعوات` — send private invitations for the command room
+- `رسالة_الدعوة النص` — change the invitation template; use `{room}`, `{sender}`, `{username}`
+- `اضف ماستر USER` — add a master
+- `حذف ماستر USER` — remove a master
+- `الماسترز` — list masters
+- `مساعدة` — full help
+- `اغنية اسم الأغنية` — search and send music/voice media
+- `هدايا` — gift catalog
+- `هدية@رقم@اسم المستخدم` — send a gift image
+
+For Railway, add the bot account credentials (`BOT_ID`, `BOT_PWD`) and any required app/API variables. The bot defaults `AUTO_REJOIN=1`.
+
