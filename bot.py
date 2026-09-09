@@ -137,11 +137,14 @@ if not DEVICE_ID:
         except Exception:
             pass
     print("[DEVICE] ANDROID_ID unavailable; using persistent APK fallback", DEVICE_ID)
-if not _MANUFACTURER or not _MODEL or not SDK:
-    raise RuntimeError(
-        "Cannot read Android Build information. Set DEVICE_MANUFACTURER, "
-        "DEVICE_PRODUCT_MODEL and SDK in .env to the values of the same Android device."
-    )
+# Railway/server fallback values when Android build info is unavailable.
+if not _MANUFACTURER:
+    _MANUFACTURER = "samsung"
+if not _MODEL:
+    _MODEL = "SM-A6058"
+if not SDK:
+    SDK = "29"
+
 DEVICE_MODEL = os.getenv("DEVICE_MODEL", "").strip() or (
     "444$" + _MANUFACTURER.replace("@", "-") + "-" + _MODEL.replace("@", "-") + "$" + SDK
 )
