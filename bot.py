@@ -9,6 +9,8 @@ import asyncio
 import logging
 import os
 
+import aiohttp
+
 os.environ.setdefault("TALKIN_MODE", "1")
 from talkin_protocol import BOT_ID as TALKIN_BOT_ID, BOT_MASTER, GROUP_TO_JOIN
 from talkin_transport import TalkinTransport
@@ -66,6 +68,7 @@ async def main():
         await legacy.start_media_server()
     except Exception:
         log.exception("media server startup failed")
+    legacy.http = aiohttp.ClientSession()
     loop = asyncio.get_running_loop()
     transport = TalkinTransport(loop, on_talkin_message)
     transport.start()
@@ -73,6 +76,10 @@ async def main():
     try:
         await asyncio.Event().wait()
     finally:
+        try:
+            await legacy.http.close()
+        except Exception:
+            pass
         try:
             await legacy.stop_media_server()
         except Exception:

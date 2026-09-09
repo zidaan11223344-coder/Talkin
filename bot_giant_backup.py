@@ -938,6 +938,9 @@ async def giant_consume_interactive(room_id, user_id, username, text):
 
 
 async def username_of(uid):
+    if TALKIN_MODE:
+        # Talkin events carry the sender name instead of a Supabase UUID.
+        return str(uid or "").strip()
     rows, _ = await table_select(lambda: sb.table("profiles").select("username").eq("id", uid).limit(1).execute())
     return (rows[0].get("username") if rows else "") or ""
 
@@ -3395,9 +3398,11 @@ async def handle_room(rid, text, uid, media_url=None, message_type=None):
         await music_queue.put((rid, sa_arg, "YouTube", uid, p_name, True))
         return f"🎵 @{p_name} — جاري نشر الأغنية في كل الغرف\n🔎 {sa_arg}"
 
-    if cmd in ("تشغيل", "play", "شغل"):
+    if cmd in ("تشغيل", "شغل", "شغّل", "play", "تشغيلالأغنية", "تشغيلاغنية"):
         vip_error = await require_vip(uid, p_name, "تشغيل الأغاني")
         if vip_error: return vip_error
+        if arg.startswith(("و", "اغنية ", "أغنية ")):
+            arg = arg[1:].strip() if arg.startswith("و") else arg.split(None, 1)[1].strip()
         if not arg: return "❌ اكتب: تشغيل اسم الأغنية"
         cd = await require_music_cooldown()
         if cd: return cd
