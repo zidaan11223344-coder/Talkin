@@ -1,0 +1,61 @@
+{
+  "rooms": {
+    "سوريانا": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "فلسطين☆حبك☆يجمعنا": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "مشاعر": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "اتكيت": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "مملكة🤍العشق": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "♟_لَعــــ_«حب»ـــبّــــــة_♟": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "لوك`~`لوك": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    },
+    "سورياالحب": {
+      "swear": false,
+      "flood": false,
+      "joinleave": false,
+      "no_photo": false,
+      "repeat_limit": 3
+    }
+  },
+  "_creator_master_only_v1": true
+}

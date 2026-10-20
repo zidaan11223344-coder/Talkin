@@ -1,0 +1,4536 @@
+{
+  "version": 1,
+  "players": {
+    "261660093": {
+      "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
+      "inventory": {
+        "copper": 0,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792329896.9077046,
+      "mines_count": 1,
+      "mine_history": [
+        {
+          "id": "be24b04615b047b6b7f1812c4680df48",
+          "at": 1792329896,
+          "item": null
+        }
+      ]
+    },
+    "name:∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫": {
+      "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
+      "inventory": {
+        "copper": 15,
+        "iron": 3,
+        "ruby": 2,
+        "diamond_clear": 6,
+        "diamond_blue": 5,
+        "diamond_purple": 3,
+        "diamond_red": 0,
+        "diamond_black": 2,
+        "diamond_royal": 1
+      },
+      "last_mine_at": 1792501396.1654544,
+      "mines_count": 48,
+      "found_total": 29,
+      "mine_history": [
+        {
+          "id": "b14870bdffc04f55ae77f3da275db73d",
+          "at": 1792362354,
+          "item": "copper"
+        },
+        {
+          "id": "880572ae39204a03af686bf7891ed027",
+          "at": 1792365046,
+          "item": null
+        },
+        {
+          "id": "e65609931b9640cca7c7a4765f33f0f2",
+          "at": 1792368271,
+          "item": "copper"
+        },
+        {
+          "id": "4c608ddfe349460c83b295178aa733a6",
+          "at": 1792369447,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "c6e6047960924b5baaffdc3dd90c24f0",
+          "at": 1792370693,
+          "item": "copper"
+        },
+        {
+          "id": "a6d91f73bee94ed6879e9379de449329",
+          "at": 1792371054,
+          "item": null
+        },
+        {
+          "id": "6330004b122f4c77ac6ba1af6a789e2d",
+          "at": 1792371240,
+          "item": null
+        },
+        {
+          "id": "f771c470e6a3456786d947ee7cb559a2",
+          "at": 1792371522,
+          "item": "copper"
+        },
+        {
+          "id": "511cf1eb327243f9bbef50cad148ce49",
+          "at": 1792373569,
+          "item": null
+        },
+        {
+          "id": "2db4214b015043b6b1945936be07906d",
+          "at": 1792430333,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "8759da6bde1b4cb78032cea1d2d4c440",
+          "at": 1792430510,
+          "item": "diamond_blue"
+        },
+        {
+          "id": "017065d5b6094b199ad31d543ed1536c",
+          "at": 1792432420,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "f30d12b5622d45469b5ef5aca360030b",
+          "at": 1792433263,
+          "item": "ruby"
+        },
+        {
+          "id": "cff7e3a7eb40410b89ac70f706a3cfd6",
+          "at": 1792433366,
+          "item": "iron"
+        },
+        {
+          "id": "df20dc0a7c954061bf004e54cc7e2396",
+          "at": 1792439587,
+          "item": null
+        },
+        {
+          "id": "2d3ced68555f4133aef029358dab242a",
+          "at": 1792441120,
+          "item": "copper"
+        },
+        {
+          "id": "8b112285dcf74582b5705dcff4df7c1f",
+          "at": 1792445955,
+          "item": null
+        },
+        {
+          "id": "10b58d0faf524da0a97f066e3bfd672e",
+          "at": 1792448034,
+          "item": null
+        },
+        {
+          "id": "fe801b8a24334b148c4b39a7a564e63c",
+          "at": 1792449513,
+          "item": null
+        },
+        {
+          "id": "8d6eb56f39554c9aaade5847e494be16",
+          "at": 1792453189,
+          "item": "diamond_black"
+        },
+        {
+          "id": "3a7c929d4b88432e983c9403a5bc9f15",
+          "at": 1792460499,
+          "item": "diamond_blue"
+        },
+        {
+          "id": "d243669e7173429c93472732d1ba8fcc",
+          "at": 1792470862,
+          "item": "diamond_blue"
+        },
+        {
+          "id": "442bf47aa3c44bcd888b214873a96390",
+          "at": 1792472721,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "44a85169bce246519c478a7ef3bd36be",
+          "at": 1792474467,
+          "item": "diamond_purple"
+        },
+        {
+          "id": "3272c63a112541a0969cc03f09f3f6e6",
+          "at": 1792474552,
+          "item": null
+        },
+        {
+          "id": "24e5d3cab74340a2979a3f7aed680d71",
+          "at": 1792475235,
+          "item": "iron"
+        },
+        {
+          "id": "144c5ec143a44bc8b972477448b6e6e1",
+          "at": 1792475335,
+          "item": null
+        },
+        {
+          "id": "8c849dfdc0c74e008c38f3e663cfac73",
+          "at": 1792476276,
+          "item": null
+        },
+        {
+          "id": "b3274f1c5e0a431990cce881626c40f1",
+          "at": 1792476379,
+          "item": "copper"
+        },
+        {
+          "id": "376e56d49cbb4d099bda6b2620f13382",
+          "at": 1792477025,
+          "item": "copper"
+        },
+        {
+          "id": "be0702ef9f934941ab76b6949473e06a",
+          "at": 1792477182,
+          "item": "ruby"
+        },
+        {
+          "id": "170a366a04b84a249a321f3d2849793b",
+          "at": 1792477302,
+          "item": "copper"
+        },
+        {
+          "id": "37c64718b10649c797faa459491494f1",
+          "at": 1792477466,
+          "item": "copper"
+        },
+        {
+          "id": "961e7fa97c934e1fac3d6d51edaa5e9e",
+          "at": 1792477615,
+          "item": "copper"
+        },
+        {
+          "id": "f0206fd5f5f3419088b7f115153cbfe8",
+          "at": 1792477685,
+          "item": null
+        },
+        {
+          "id": "2ad8539033534fcc8d983168d7187a92",
+          "at": 1792477748,
+          "item": "copper"
+        },
+        {
+          "id": "edcf0f1c4c5849aeac771380c9e4ba0d",
+          "at": 1792477917,
+          "item": null
+        },
+        {
+          "id": "cf1ed96a309d46fd80f42bee44959b0c",
+          "at": 1792478279,
+          "item": "copper"
+        },
+        {
+          "id": "b9a5c5389a9c43e3b59c0519be91e4bf",
+          "at": 1792478989,
+          "item": "iron"
+        },
+        {
+          "id": "c137eaa530814cf0b298e7df2687d5a9",
+          "at": 1792480044,
+          "item": null
+        },
+        {
+          "id": "24cae414778b42d98bf54040efd1a97a",
+          "at": 1792480144,
+          "item": null
+        },
+        {
+          "id": "3f1b8c158c3347e1b56d9db699b198cf",
+          "at": 1792480506,
+          "item": "copper"
+        },
+        {
+          "id": "576c019a831e462c8a3f531fb68af0b8",
+          "at": 1792480710,
+          "item": "copper"
+        },
+        {
+          "id": "14795f6d378942b3a840c44cfd59278a",
+          "at": 1792481748,
+          "item": null
+        },
+        {
+          "id": "0453b25a597741e2abccbc534261ee93",
+          "at": 1792482878,
+          "item": null
+        },
+        {
+          "id": "801d770c78784870b23fc4bb01de4d1b",
+          "at": 1792488544,
+          "item": "copper"
+        },
+        {
+          "id": "0336148cbbb7451193a5ad43628fc982",
+          "at": 1792488652,
+          "item": null
+        },
+        {
+          "id": "3288e6b8a3c64024a238186398e756a3",
+          "at": 1792501396,
+          "item": null
+        }
+      ],
+      "diamonds_found": 18,
+      "redemption_history": [
+        {
+          "id": "1127fefd1067432d90fd9226a70a1bc7",
+          "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
+          "items": {
+            "diamond_red": 1
+          },
+          "points": 4000000,
+          "created_at": 1792480725
+        }
+      ]
+    },
+    "name:آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ": {
+      "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
+      "inventory": {
+        "copper": 12,
+        "iron": 5,
+        "ruby": 3,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792510029.9940114,
+      "mines_count": 34,
+      "found_total": 20,
+      "mine_history": [
+        {
+          "id": "470914346549401bbabf0fc15e8a3256",
+          "at": 1792371551,
+          "item": "copper"
+        },
+        {
+          "id": "e0e4d2dad6f445ac862df07c4c4cbfd2",
+          "at": 1792371631,
+          "item": "copper"
+        },
+        {
+          "id": "97c2f6bff2de42d6bacfdd98bb1f85eb",
+          "at": 1792432691,
+          "item": "copper"
+        },
+        {
+          "id": "70bfb0577060479884d3a1e022310068",
+          "at": 1792432956,
+          "item": "copper"
+        },
+        {
+          "id": "aa9e84d5f2ee4d0f8cc8420b4510e017",
+          "at": 1792433390,
+          "item": "copper"
+        },
+        {
+          "id": "0510d9b5c1d44944887ba5d14d2601a2",
+          "at": 1792433506,
+          "item": "copper"
+        },
+        {
+          "id": "b377c844be15418ab8af18d32dfdb0f7",
+          "at": 1792435739,
+          "item": null
+        },
+        {
+          "id": "122fe15a775a4daa8120ac8cd741af0d",
+          "at": 1792439620,
+          "item": null
+        },
+        {
+          "id": "6f936daa20b04fbd9f41a70521b61eb3",
+          "at": 1792441131,
+          "item": "iron"
+        },
+        {
+          "id": "bd672fb565c64db998e4c1497cd7d389",
+          "at": 1792443116,
+          "item": null
+        },
+        {
+          "id": "72ff3a87cf274c769c444fc024b8b87c",
+          "at": 1792443294,
+          "item": null
+        },
+        {
+          "id": "e2ac7f329a9d4ef0bac16a31800f6403",
+          "at": 1792444392,
+          "item": "ruby"
+        },
+        {
+          "id": "0e511cfada344e328f85da8f8f0416c9",
+          "at": 1792448063,
+          "item": "iron"
+        },
+        {
+          "id": "f491880f8faf43e898fecfd1b1f37e76",
+          "at": 1792479254,
+          "item": "copper"
+        },
+        {
+          "id": "5ec25b690c244d628381e8b690993bc3",
+          "at": 1792479878,
+          "item": null
+        },
+        {
+          "id": "410ba53f0c3d46e0b47389532bee7cf7",
+          "at": 1792480041,
+          "item": null
+        },
+        {
+          "id": "6551ed8c1b1c4d078194c8efb36e0104",
+          "at": 1792482472,
+          "item": "copper"
+        },
+        {
+          "id": "427e643d723e47c2900d2e2b5e7e5eba",
+          "at": 1792483380,
+          "item": null
+        },
+        {
+          "id": "cbb5e08f900e4a1fbc08414d0cdafa77",
+          "at": 1792483502,
+          "item": null
+        },
+        {
+          "id": "b5efccb717d649d1a1b80ca4231aa1ec",
+          "at": 1792483810,
+          "item": "copper"
+        },
+        {
+          "id": "e55c88d59ea3456eb8577eefadfa7bca",
+          "at": 1792484132,
+          "item": "copper"
+        },
+        {
+          "id": "3cca251067e44535b2ab0fb24dac98ee",
+          "at": 1792489150,
+          "item": null
+        },
+        {
+          "id": "7318476f75a3452e83d266fa8efdc06d",
+          "at": 1792489868,
+          "item": null
+        },
+        {
+          "id": "cdabbbd2938e4e378a4457bad7a397c7",
+          "at": 1792490068,
+          "item": "iron"
+        },
+        {
+          "id": "33fe73a1fe19498abdc24353800e95f2",
+          "at": 1792490287,
+          "item": "iron"
+        },
+        {
+          "id": "4f98b35c40f34a03b410ed7f0cdff286",
+          "at": 1792491992,
+          "item": "copper"
+        },
+        {
+          "id": "5d6e1f97d6cf42b6a580908c758b5f56",
+          "at": 1792492802,
+          "item": "ruby"
+        },
+        {
+          "id": "731b278562204ed2b86d7c1d21a9407e",
+          "at": 1792493064,
+          "item": null
+        },
+        {
+          "id": "80736823cc514042a792341392ed9b02",
+          "at": 1792493372,
+          "item": "ruby"
+        },
+        {
+          "id": "16b6d714e9114d08a4c1531b5f66e071",
+          "at": 1792493693,
+          "item": null
+        },
+        {
+          "id": "fd40f0e7637f46afb8c90e9c0175fd86",
+          "at": 1792495875,
+          "item": "iron"
+        },
+        {
+          "id": "a572b533302040d3a2cfe0aab6695c42",
+          "at": 1792496529,
+          "item": null
+        },
+        {
+          "id": "7fdd90c00d534dafbc2670e2c134f9ef",
+          "at": 1792509512,
+          "item": "copper"
+        },
+        {
+          "id": "c4bca66c578f4692abad05a8462efe4b",
+          "at": 1792510029,
+          "item": null
+        }
+      ]
+    },
+    "name:درهہ": {
+      "username": "درهہ",
+      "inventory": {
+        "copper": 5,
+        "iron": 3,
+        "ruby": 2,
+        "diamond_clear": 0,
+        "diamond_blue": 1,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 1,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792510025.4974108,
+      "mines_count": 22,
+      "found_total": 12,
+      "mine_history": [
+        {
+          "id": "2ed746b0e4284f52ad3999e963e4dd8d",
+          "at": 1792371668,
+          "item": "iron"
+        },
+        {
+          "id": "2baced55bde64f85a4893adbdececd15",
+          "at": 1792372149,
+          "item": null
+        },
+        {
+          "id": "f94c559aa5864c678c22bdffc9873a85",
+          "at": 1792372475,
+          "item": null
+        },
+        {
+          "id": "87bdbce8d077414086451279c0bfcff6",
+          "at": 1792372690,
+          "item": null
+        },
+        {
+          "id": "44c8a15ed1ec4b1c896b93ebe208c133",
+          "at": 1792377382,
+          "item": "copper"
+        },
+        {
+          "id": "df36cb3382a047faa6318f0654bc1355",
+          "at": 1792377522,
+          "item": "copper"
+        },
+        {
+          "id": "49a4edbccf9c493d9ad9a0e2060a98db",
+          "at": 1792377609,
+          "item": null
+        },
+        {
+          "id": "91a4df57c57c480b9a9615ca1f990a78",
+          "at": 1792377698,
+          "item": null
+        },
+        {
+          "id": "9bfd0b2e77784142b568c519255ae882",
+          "at": 1792382568,
+          "item": "diamond_black"
+        },
+        {
+          "id": "27de9e59d03e4d039c697f9672f73616",
+          "at": 1792387762,
+          "item": "diamond_blue"
+        },
+        {
+          "id": "7b0534e2511e464f851c0dcb1044c8b7",
+          "at": 1792495822,
+          "item": "copper"
+        },
+        {
+          "id": "03de5f4f0205477aa1524e33c2887b19",
+          "at": 1792497037,
+          "item": null
+        },
+        {
+          "id": "16d195814fa74a67915ab3a191e79586",
+          "at": 1792498641,
+          "item": "copper"
+        },
+        {
+          "id": "51b498b5280044b382cd85456418d16a",
+          "at": 1792498949,
+          "item": "iron"
+        },
+        {
+          "id": "618361a023fb45e186e90b49a3835e26",
+          "at": 1792499330,
+          "item": null
+        },
+        {
+          "id": "50ec1c18c1a94e18bfeba24aaf5a028a",
+          "at": 1792499612,
+          "item": null
+        },
+        {
+          "id": "eb16493906b7402ab3921dc0d913927b",
+          "at": 1792506409,
+          "item": "ruby"
+        },
+        {
+          "id": "aa2049dc75b44b74bfec369c6c4dc3db",
+          "at": 1792506798,
+          "item": null
+        },
+        {
+          "id": "0b6fafea35714123bcdd5f4244da9e7a",
+          "at": 1792508387,
+          "item": "copper"
+        },
+        {
+          "id": "555c5a38048c4910ae9997eb77d8d649",
+          "at": 1792509238,
+          "item": null
+        },
+        {
+          "id": "f0d1abd911d84bffa9911aeda559d047",
+          "at": 1792509496,
+          "item": "iron"
+        },
+        {
+          "id": "b4379ecaf4144c02b5a5d57be168dddf",
+          "at": 1792510025,
+          "item": "ruby"
+        }
+      ],
+      "diamonds_found": 2
+    },
+    "name:م͜͡ــاذ͜͡الـو͜͡୭": {
+      "username": "م͜͡ــاذ͜͡الـو͜͡୭",
+      "inventory": {
+        "copper": 4,
+        "iron": 9,
+        "ruby": 5,
+        "diamond_clear": 0,
+        "diamond_blue": 1,
+        "diamond_purple": 1,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792483849.2767951,
+      "mines_count": 42,
+      "found_total": 20,
+      "diamonds_found": 2,
+      "mine_history": [
+        {
+          "id": "978af5e04f704f7b960bb7e168940a2b",
+          "at": 1792432457,
+          "item": "diamond_blue"
+        },
+        {
+          "id": "5b4f95dbe43349708ee66ff86129decf",
+          "at": 1792432634,
+          "item": "ruby"
+        },
+        {
+          "id": "89a2caea8077487dad9afec59ad27a91",
+          "at": 1792432857,
+          "item": null
+        },
+        {
+          "id": "ef2419a1ed4f4d31919469247ea1e7fb",
+          "at": 1792433101,
+          "item": null
+        },
+        {
+          "id": "b668373b8109492ebf7b49abfe610e83",
+          "at": 1792433215,
+          "item": "copper"
+        },
+        {
+          "id": "5bbe6abec6c84fd5acd147d2881dd812",
+          "at": 1792433678,
+          "item": "iron"
+        },
+        {
+          "id": "2f01fd0088284908873c765c9b507c51",
+          "at": 1792435222,
+          "item": "diamond_purple"
+        },
+        {
+          "id": "e08247b9886b488aa94f8f5b01d17b2b",
+          "at": 1792440771,
+          "item": "ruby"
+        },
+        {
+          "id": "1a1c6d00db1d42929a22b39656734e85",
+          "at": 1792441258,
+          "item": null
+        },
+        {
+          "id": "4f9da3c9be3440fd9af926948c27f327",
+          "at": 1792441527,
+          "item": null
+        },
+        {
+          "id": "50dcb4e31e9442efb395493f061e1130",
+          "at": 1792441984,
+          "item": "iron"
+        },
+        {
+          "id": "5f79e0ff1db4424680dc13a365f3222b",
+          "at": 1792442569,
+          "item": "iron"
+        },
+        {
+          "id": "e9a417064ee447c9b9ebe8271efd37f4",
+          "at": 1792442855,
+          "item": "ruby"
+        },
+        {
+          "id": "1b8f8bb6d46c402d849dad7568eb0dc4",
+          "at": 1792443444,
+          "item": null
+        },
+        {
+          "id": "46e0d27d48cc4c4bb38982f0637c8e15",
+          "at": 1792443663,
+          "item": "iron"
+        },
+        {
+          "id": "bcba79580fca45c7a01be611182310a3",
+          "at": 1792444345,
+          "item": null
+        },
+        {
+          "id": "62d68c03bcc04eafbfb7ef6cede79c76",
+          "at": 1792477101,
+          "item": "iron"
+        },
+        {
+          "id": "10b5c50d348742018a59db3a6c7bdb50",
+          "at": 1792477228,
+          "item": null
+        },
+        {
+          "id": "9de1a715baa7411b9c3bcd6c0edb9daf",
+          "at": 1792477310,
+          "item": "iron"
+        },
+        {
+          "id": "d34259a1ec4d405985e5f7acf6e5ddec",
+          "at": 1792477394,
+          "item": "copper"
+        },
+        {
+          "id": "68f9f6ab176c4086a3b52f69b313d82d",
+          "at": 1792477478,
+          "item": "copper"
+        },
+        {
+          "id": "ac8c3b4a91be4399ae771cad9fd6607f",
+          "at": 1792477550,
+          "item": null
+        },
+        {
+          "id": "7bb56eae02634a31b3ee95c91ca363b3",
+          "at": 1792477625,
+          "item": null
+        },
+        {
+          "id": "b1e8c676c4d14e32a8c9ad6f508695d7",
+          "at": 1792477773,
+          "item": null
+        },
+        {
+          "id": "e409929bd4574024aa0203a2ee91f6ed",
+          "at": 1792477847,
+          "item": "ruby"
+        },
+        {
+          "id": "b9ab097aa7c640a1aeac7c73c408bcb9",
+          "at": 1792477932,
+          "item": null
+        },
+        {
+          "id": "985b532ac76141ee851d6f3b5d1dde56",
+          "at": 1792478022,
+          "item": null
+        },
+        {
+          "id": "f013889584d445778511577b61ddf35a",
+          "at": 1792478172,
+          "item": null
+        },
+        {
+          "id": "672b1bf5674a442db32cd084976d0040",
+          "at": 1792478261,
+          "item": null
+        },
+        {
+          "id": "3104cfee08f942dfb76aaa010fb2ddad",
+          "at": 1792478457,
+          "item": "iron"
+        },
+        {
+          "id": "c2e10cb1fe5f44bfb0917c52c55e3b2e",
+          "at": 1792478679,
+          "item": null
+        },
+        {
+          "id": "c03f64172d2a487b957c503f127b9f83",
+          "at": 1792479172,
+          "item": "iron"
+        },
+        {
+          "id": "0ffa5f15afc74a30afa39851462b2217",
+          "at": 1792479564,
+          "item": null
+        },
+        {
+          "id": "16d64972286248f685cffc8ddeeed06d",
+          "at": 1792479678,
+          "item": "iron"
+        },
+        {
+          "id": "5522f349d2dd434193585c053cc0384f",
+          "at": 1792479820,
+          "item": null
+        },
+        {
+          "id": "deb55b4f84854c6d9931b54842fd0c94",
+          "at": 1792480209,
+          "item": "copper"
+        },
+        {
+          "id": "5fb71f33957b4a8a98f19c96f6775b2c",
+          "at": 1792482583,
+          "item": null
+        },
+        {
+          "id": "03d56637967649e4b7ab00781d8156e3",
+          "at": 1792482658,
+          "item": null
+        },
+        {
+          "id": "0ba5200d29544556850f507ab142e30d",
+          "at": 1792482772,
+          "item": null
+        },
+        {
+          "id": "dacda515dc9e493699118c628faa03f8",
+          "at": 1792483109,
+          "item": null
+        },
+        {
+          "id": "e2d6417f57e545c08c9f6c4987eec53e",
+          "at": 1792483529,
+          "item": "ruby"
+        },
+        {
+          "id": "5ecfa68449904b69bd3fd915961b22a1",
+          "at": 1792483849,
+          "item": null
+        }
+      ]
+    },
+    "name:𝄟➠": {
+      "username": "𝄟➠",
+      "inventory": {
+        "copper": 9,
+        "iron": 6,
+        "ruby": 6,
+        "diamond_clear": 1,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792483862.5962353,
+      "mines_count": 45,
+      "found_total": 22,
+      "diamonds_found": 1,
+      "mine_history": [
+        {
+          "id": "f32bdfefe20742b6b9c298c49578a126",
+          "at": 1792432474,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "af41af8787c74f728007193f3cf322a7",
+          "at": 1792432682,
+          "item": null
+        },
+        {
+          "id": "3b2ae9d27a724bdaaab345a680623715",
+          "at": 1792432945,
+          "item": "ruby"
+        },
+        {
+          "id": "a9e44c6f9dbe45759f461f40b33e8201",
+          "at": 1792433129,
+          "item": "iron"
+        },
+        {
+          "id": "19cca1eb426e45399535e34c641a0df6",
+          "at": 1792433302,
+          "item": "copper"
+        },
+        {
+          "id": "ed88e2c5c46d40b3876512fdd671bc46",
+          "at": 1792434027,
+          "item": null
+        },
+        {
+          "id": "339d01c54f574e62aad426c13943e3cf",
+          "at": 1792435499,
+          "item": "ruby"
+        },
+        {
+          "id": "37b307d917354aec9f05bad783104a0b",
+          "at": 1792438080,
+          "item": "ruby"
+        },
+        {
+          "id": "e46694b8c1a14ceb8c2ce89f3ad0fd1a",
+          "at": 1792438592,
+          "item": null
+        },
+        {
+          "id": "e521df69091f4ea9afdeb47231722c6c",
+          "at": 1792441227,
+          "item": null
+        },
+        {
+          "id": "820e46d819274080bc1aa78b09f0fe48",
+          "at": 1792441304,
+          "item": null
+        },
+        {
+          "id": "7065e4cb01994cbea117788ee82dec56",
+          "at": 1792441614,
+          "item": "copper"
+        },
+        {
+          "id": "5c4d509af28c47f1963abcffbcce6cfd",
+          "at": 1792442534,
+          "item": "ruby"
+        },
+        {
+          "id": "9015c66727d645deb10f3ddf66884bc6",
+          "at": 1792442837,
+          "item": "copper"
+        },
+        {
+          "id": "ec10a48c62f64baeb87fe5d87e68cd95",
+          "at": 1792442917,
+          "item": null
+        },
+        {
+          "id": "ebdd0845ad4040e596248fd6f0042dd6",
+          "at": 1792443348,
+          "item": null
+        },
+        {
+          "id": "64aa7fd5dfe44a4cafb82d8786827ee1",
+          "at": 1792443595,
+          "item": "ruby"
+        },
+        {
+          "id": "a955976ec58341f19e2c62771b4af5c1",
+          "at": 1792444270,
+          "item": null
+        },
+        {
+          "id": "4e81f7bcd6a547d6a74ecbdca46bb5f3",
+          "at": 1792444546,
+          "item": null
+        },
+        {
+          "id": "33981b22521b449cb68182091f67cbd9",
+          "at": 1792477147,
+          "item": "copper"
+        },
+        {
+          "id": "bb011818648a4e138f472dd70591f9be",
+          "at": 1792477286,
+          "item": null
+        },
+        {
+          "id": "a8f4e5e333274959ac8f67642e8f27c4",
+          "at": 1792477401,
+          "item": "ruby"
+        },
+        {
+          "id": "d40e0ae7afb24f658ad34a641749ce20",
+          "at": 1792477503,
+          "item": "iron"
+        },
+        {
+          "id": "74ccf2446d174cbd860c992e3b057064",
+          "at": 1792477635,
+          "item": null
+        },
+        {
+          "id": "168ba025816c427b897260168da3ad27",
+          "at": 1792477793,
+          "item": "iron"
+        },
+        {
+          "id": "5edbd640821d4022a457ff9191808056",
+          "at": 1792477854,
+          "item": null
+        },
+        {
+          "id": "3e67de40fb5f4f02abe1fa57e8a9a5eb",
+          "at": 1792477973,
+          "item": null
+        },
+        {
+          "id": "5c2b2dc5aeb948c492d9aabe064e1bdf",
+          "at": 1792478178,
+          "item": null
+        },
+        {
+          "id": "37815ded51394055883edacec07da13c",
+          "at": 1792478270,
+          "item": null
+        },
+        {
+          "id": "d424ea98ed4f4b4db815aaadd6c680c7",
+          "at": 1792478468,
+          "item": "copper"
+        },
+        {
+          "id": "0b4d925a705544e68a29a3af788cb06b",
+          "at": 1792478625,
+          "item": null
+        },
+        {
+          "id": "69f4c176c34b4508bf9a44bf8704b652",
+          "at": 1792478689,
+          "item": null
+        },
+        {
+          "id": "312ad6aab8ca46e9bef547b2e03e04f8",
+          "at": 1792478926,
+          "item": "copper"
+        },
+        {
+          "id": "2088597acf3b4bd98207ce1c3d2663ce",
+          "at": 1792479202,
+          "item": "copper"
+        },
+        {
+          "id": "eea63d8947eb4d2eb31a6992d0de7adc",
+          "at": 1792479584,
+          "item": "iron"
+        },
+        {
+          "id": "0ccd7fe00a844f55a43f8e25638e05ee",
+          "at": 1792479711,
+          "item": null
+        },
+        {
+          "id": "179f19807e2b4e5a877a35be27fa55e0",
+          "at": 1792479883,
+          "item": null
+        },
+        {
+          "id": "4ced2f9c6f6340128ac4a077e077ff67",
+          "at": 1792480220,
+          "item": "iron"
+        },
+        {
+          "id": "8ae81ed4b45747269c8e0869aaafd745",
+          "at": 1792482482,
+          "item": null
+        },
+        {
+          "id": "14c478038a0f41399c5625b4ac2da027",
+          "at": 1792482613,
+          "item": null
+        },
+        {
+          "id": "86840523c7284b50a066c01717534cec",
+          "at": 1792482736,
+          "item": "copper"
+        },
+        {
+          "id": "596c7d08832e422198f4ddbd153b661c",
+          "at": 1792482942,
+          "item": "iron"
+        },
+        {
+          "id": "24fb37150fe441f98a245f9127709552",
+          "at": 1792483081,
+          "item": "copper"
+        },
+        {
+          "id": "f18bff4fe287405d8ef46e958ee5a625",
+          "at": 1792483544,
+          "item": null
+        },
+        {
+          "id": "5644c52280264f088bafa8ee429722f4",
+          "at": 1792483862,
+          "item": null
+        }
+      ]
+    },
+    "name:sourea": {
+      "username": "sourea",
+      "inventory": {
+        "copper": 10,
+        "iron": 7,
+        "ruby": 1,
+        "diamond_clear": 1,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515367.1141217,
+      "mines_count": 35,
+      "found_total": 19,
+      "diamonds_found": 1,
+      "mine_history": [
+        {
+          "id": "641a8b075b0341a79d07facf1e6c50c8",
+          "at": 1792432505,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "8ae27a1671a54e1487588ba246ea3f2e",
+          "at": 1792432657,
+          "item": "iron"
+        },
+        {
+          "id": "00a5e7a709fb4abd9162ddf650f3289c",
+          "at": 1792432901,
+          "item": "ruby"
+        },
+        {
+          "id": "35a098b315be47b8a7cef80146d2f082",
+          "at": 1792433260,
+          "item": null
+        },
+        {
+          "id": "c27fccfb73a44738928bde212f2cee81",
+          "at": 1792433601,
+          "item": null
+        },
+        {
+          "id": "4d329e3ea8e149a4b5717a612a73a834",
+          "at": 1792477291,
+          "item": "copper"
+        },
+        {
+          "id": "008893b0218d4e58a33a386442a06d25",
+          "at": 1792477358,
+          "item": null
+        },
+        {
+          "id": "6fa67f1af8384b269b46beba857164c5",
+          "at": 1792477453,
+          "item": null
+        },
+        {
+          "id": "987f83a91b5240c7acf060534223156e",
+          "at": 1792477543,
+          "item": null
+        },
+        {
+          "id": "46282f1135884a1987e82cba33690572",
+          "at": 1792477618,
+          "item": "copper"
+        },
+        {
+          "id": "26ed3307dee948e6822431361d8f329b",
+          "at": 1792477765,
+          "item": null
+        },
+        {
+          "id": "5b0f1e9a9dd141e584835f7afa2a507f",
+          "at": 1792477837,
+          "item": null
+        },
+        {
+          "id": "a1d526ac777145318d403e7ed5e9bf81",
+          "at": 1792477923,
+          "item": "iron"
+        },
+        {
+          "id": "684e43b29a3046e4810f65ebe62638f3",
+          "at": 1792478013,
+          "item": null
+        },
+        {
+          "id": "e8917a25ae854ede8aeca8628bcb3912",
+          "at": 1792478165,
+          "item": "iron"
+        },
+        {
+          "id": "1b3364545832428b874178be806bf23f",
+          "at": 1792478253,
+          "item": "copper"
+        },
+        {
+          "id": "632ce70c9712427c8a026df358464c93",
+          "at": 1792478445,
+          "item": "copper"
+        },
+        {
+          "id": "b1a36119b4f240bd90ebb87d0622b18b",
+          "at": 1792478668,
+          "item": null
+        },
+        {
+          "id": "ca364c2f82cf4480977d21bbff04dd23",
+          "at": 1792479022,
+          "item": null
+        },
+        {
+          "id": "e2fef2711a2a4aea841f0600d4b72c02",
+          "at": 1792479545,
+          "item": "iron"
+        },
+        {
+          "id": "b0909dc595924949ba6426ebe18466f9",
+          "at": 1792479613,
+          "item": null
+        },
+        {
+          "id": "29223ed1f98649f4b7942fddd4514892",
+          "at": 1792479726,
+          "item": "copper"
+        },
+        {
+          "id": "d1ec6a3e553a4407abd34d016716cb76",
+          "at": 1792479896,
+          "item": null
+        },
+        {
+          "id": "588f40216f6746089776423e833f365c",
+          "at": 1792480236,
+          "item": null
+        },
+        {
+          "id": "5c2e4af132e54f9fbeaa7cfebaaa9d66",
+          "at": 1792482506,
+          "item": "iron"
+        },
+        {
+          "id": "3d0e587cf390429a817c57f000c6341a",
+          "at": 1792482641,
+          "item": "copper"
+        },
+        {
+          "id": "7995473794f74238a058ca3e8e262c84",
+          "at": 1792482755,
+          "item": "copper"
+        },
+        {
+          "id": "d08877478937484f80c1a138b7c7777c",
+          "at": 1792483096,
+          "item": null
+        },
+        {
+          "id": "278a8114f83f4549998d77cb4dd900e4",
+          "at": 1792483580,
+          "item": "copper"
+        },
+        {
+          "id": "3012f8e0062c4406b5420c4e4fa3298e",
+          "at": 1792483871,
+          "item": "iron"
+        },
+        {
+          "id": "87fdc034983b4777bd761b48c112acab",
+          "at": 1792484773,
+          "item": null
+        },
+        {
+          "id": "e06ef62c36f34aa2ab4416847366c3ae",
+          "at": 1792492133,
+          "item": "copper"
+        },
+        {
+          "id": "40af15a05dbb43b58101d7df9e8ebed5",
+          "at": 1792510207,
+          "item": "iron"
+        },
+        {
+          "id": "0f4976c4485c409484c55c41e80e2370",
+          "at": 1792511194,
+          "item": "copper"
+        },
+        {
+          "id": "123a5656b65a4965955a874050c70c35",
+          "at": 1792515367,
+          "item": null
+        }
+      ]
+    },
+    "name:✥سًـــــيّدُهے𒀭⑅⃝ـالــحًࢪ⃪فُـے✥": {
+      "username": "✥سًـــــيّدُهے𒀭⑅⃝ـالــحًࢪ⃪فُـے✥",
+      "inventory": {
+        "copper": 10,
+        "iron": 8,
+        "ruby": 2,
+        "diamond_clear": 1,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 1,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792484761.0746272,
+      "mines_count": 44,
+      "found_total": 22,
+      "diamonds_found": 2,
+      "mine_history": [
+        {
+          "id": "23b6f0986f0f46d69bc11f12e2c45d02",
+          "at": 1792432516,
+          "item": "diamond_red"
+        },
+        {
+          "id": "0fd2d13f347846d79ac45b998a1a538e",
+          "at": 1792432685,
+          "item": null
+        },
+        {
+          "id": "1037099b950f4f4bbdd94b09b25de375",
+          "at": 1792432758,
+          "item": "iron"
+        },
+        {
+          "id": "9111b41d865c4581a0f3333e0d02a61f",
+          "at": 1792432916,
+          "item": null
+        },
+        {
+          "id": "3233268501764d73a2c263d45207fc9b",
+          "at": 1792433128,
+          "item": null
+        },
+        {
+          "id": "92aa0696c3c34f8981b2c47b04f046be",
+          "at": 1792433365,
+          "item": "iron"
+        },
+        {
+          "id": "243de9ee62ad430580f4c8f8a079b5b7",
+          "at": 1792433652,
+          "item": "copper"
+        },
+        {
+          "id": "daf28ed55e184b45a3cb6992079b698e",
+          "at": 1792434487,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "8bc38c4b88054e7084f9a6687919008d",
+          "at": 1792435779,
+          "item": "copper"
+        },
+        {
+          "id": "c4fe51d822e24534bcf9f1df8edf841d",
+          "at": 1792438365,
+          "item": null
+        },
+        {
+          "id": "cfd25182f45c4eb6b738209e0dcf4326",
+          "at": 1792438644,
+          "item": "copper"
+        },
+        {
+          "id": "2726c5195b784a648976dc81ff252f06",
+          "at": 1792441581,
+          "item": null
+        },
+        {
+          "id": "9c1268bb6f694abc991bd7d9453d0ab4",
+          "at": 1792441990,
+          "item": null
+        },
+        {
+          "id": "ff97e0230d2441f88c2e6f23384e0fbd",
+          "at": 1792442555,
+          "item": "copper"
+        },
+        {
+          "id": "daa44cf8478b451b932c5f08360f3812",
+          "at": 1792442845,
+          "item": null
+        },
+        {
+          "id": "e8f0ea22163347b788bb34c88d5ec80c",
+          "at": 1792477114,
+          "item": "iron"
+        },
+        {
+          "id": "41c0a89479114d87be946c632f272a11",
+          "at": 1792477192,
+          "item": null
+        },
+        {
+          "id": "2fd494b59ba1415091f4e4e0bc67e439",
+          "at": 1792477293,
+          "item": null
+        },
+        {
+          "id": "4dfb8efe35ef4855ad11faf46ea060da",
+          "at": 1792477375,
+          "item": "copper"
+        },
+        {
+          "id": "b9aee249c20b4e7f80dd35d29a786140",
+          "at": 1792477461,
+          "item": "iron"
+        },
+        {
+          "id": "b5c15a33670a47919c760fd269fc541e",
+          "at": 1792477532,
+          "item": null
+        },
+        {
+          "id": "b3b202757505421b9cbb6eb31ab15e3d",
+          "at": 1792477611,
+          "item": null
+        },
+        {
+          "id": "d2359c22192d48c9b19ff5f58cc62f1e",
+          "at": 1792477754,
+          "item": "copper"
+        },
+        {
+          "id": "4ee7b360e1d44115a720ef6812f833a3",
+          "at": 1792477827,
+          "item": null
+        },
+        {
+          "id": "974a940c90854c08b8e92775917e225b",
+          "at": 1792477914,
+          "item": "copper"
+        },
+        {
+          "id": "102217eab6ae4902b5e0d0c6f76f621e",
+          "at": 1792478001,
+          "item": null
+        },
+        {
+          "id": "b8d31aabfc9a4fa88bc71b84ffaa5dd6",
+          "at": 1792478228,
+          "item": null
+        },
+        {
+          "id": "e0cfa97f40d24baeaef058cce8765037",
+          "at": 1792478295,
+          "item": "iron"
+        },
+        {
+          "id": "227690d4057b4d028eae04d406a8c469",
+          "at": 1792478435,
+          "item": null
+        },
+        {
+          "id": "82bf854345524762995385d6d2c5313d",
+          "at": 1792478653,
+          "item": "ruby"
+        },
+        {
+          "id": "350193c17a114fb0bfb3acd71e07d716",
+          "at": 1792478724,
+          "item": "copper"
+        },
+        {
+          "id": "abe2ad7bca2247b3ae50463681b7ca95",
+          "at": 1792479015,
+          "item": "ruby"
+        },
+        {
+          "id": "ff489abdfb3e450b8b89e987fa3a720a",
+          "at": 1792479554,
+          "item": null
+        },
+        {
+          "id": "32eba7ab44f44755ab6250d73a2769de",
+          "at": 1792479621,
+          "item": null
+        },
+        {
+          "id": "664956ca02ce4fc3a6f91f0455852a7e",
+          "at": 1792479735,
+          "item": null
+        },
+        {
+          "id": "21d0fd86b5de4075adc688b864c5d977",
+          "at": 1792479905,
+          "item": null
+        },
+        {
+          "id": "b767145c5a69400382614fef3daf20a1",
+          "at": 1792482466,
+          "item": "iron"
+        },
+        {
+          "id": "9b09a58538334bb08b9a7a84aced932c",
+          "at": 1792482606,
+          "item": "copper"
+        },
+        {
+          "id": "eaa55dc1b14d44ec825918840b2073bb",
+          "at": 1792482718,
+          "item": "iron"
+        },
+        {
+          "id": "66f9c06cee5641bfb2c445022ec87a18",
+          "at": 1792482926,
+          "item": null
+        },
+        {
+          "id": "c78a3aede46e4aa2bc982d604f11080a",
+          "at": 1792483071,
+          "item": null
+        },
+        {
+          "id": "f0b4cd547b2d4eb699683a5157694bbe",
+          "at": 1792483506,
+          "item": "iron"
+        },
+        {
+          "id": "f8b5346a92364ccfa8a8c72826fd4946",
+          "at": 1792483591,
+          "item": "copper"
+        },
+        {
+          "id": "9106a36fb5084f4d851471392b874688",
+          "at": 1792484761,
+          "item": null
+        }
+      ]
+    },
+    "name:☀⃝͢ ༘̊𝆺𝅥ටිun°": {
+      "username": "☀⃝͢˚༘𝆺𝅥ටි𝑢𝑛°",
+      "inventory": {
+        "copper": 13,
+        "iron": 4,
+        "ruby": 7,
+        "diamond_clear": 1,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 1,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792484785.4233325,
+      "mines_count": 46,
+      "found_total": 26,
+      "mine_history": [
+        {
+          "id": "5410ea8415e54b1193378615ad06cca7",
+          "at": 1792432533,
+          "item": "iron"
+        },
+        {
+          "id": "1ee627c4658249b699d81e1b4bd7f72d",
+          "at": 1792432685,
+          "item": null
+        },
+        {
+          "id": "6fc5c6843344406aaa8237a2dbc23c65",
+          "at": 1792432768,
+          "item": "iron"
+        },
+        {
+          "id": "bcc6f1a9583042b99e636b21120e21b1",
+          "at": 1792432956,
+          "item": "copper"
+        },
+        {
+          "id": "5f0f2023aed84b67ba127234db8aaa36",
+          "at": 1792433739,
+          "item": "copper"
+        },
+        {
+          "id": "4555fca159b84281b3492a265cd6f086",
+          "at": 1792435656,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "3c5f2fd8fa2d4644b673f584f7727a61",
+          "at": 1792438548,
+          "item": null
+        },
+        {
+          "id": "21d830ec6887435683e8b191230b5c6c",
+          "at": 1792441028,
+          "item": "diamond_red"
+        },
+        {
+          "id": "23bdb91480964cbd8155370bbc84b7ff",
+          "at": 1792441262,
+          "item": "ruby"
+        },
+        {
+          "id": "550c40a781bc441f8ead295703a427f0",
+          "at": 1792441539,
+          "item": null
+        },
+        {
+          "id": "82fb68ed88d545e6a861f4566ad15ad8",
+          "at": 1792441971,
+          "item": null
+        },
+        {
+          "id": "0dd0e8df4c504b9d9f9b4b73854759cc",
+          "at": 1792442864,
+          "item": null
+        },
+        {
+          "id": "2b4bb7b319c143f099dcf015f2b9d38e",
+          "at": 1792443290,
+          "item": "copper"
+        },
+        {
+          "id": "8c9117b2662544039e201bce79bb5525",
+          "at": 1792443476,
+          "item": null
+        },
+        {
+          "id": "76e0a15bad154688aa2c95cf9b26274d",
+          "at": 1792444215,
+          "item": "copper"
+        },
+        {
+          "id": "4949cb90f436483fbf2081338369825e",
+          "at": 1792444403,
+          "item": null
+        },
+        {
+          "id": "4cf8ee9b76fb43e3877f34f6cbcd4390",
+          "at": 1792444518,
+          "item": "ruby"
+        },
+        {
+          "id": "434edeb6f641498f8ae01c0355a21059",
+          "at": 1792477064,
+          "item": "ruby"
+        },
+        {
+          "id": "072ce1e53d7b4b068a4115af54629c79",
+          "at": 1792477178,
+          "item": "ruby"
+        },
+        {
+          "id": "fa71292845d641f9990d6664c4c38110",
+          "at": 1792477289,
+          "item": "copper"
+        },
+        {
+          "id": "4b83a726c9834781b3817eee26c05445",
+          "at": 1792477421,
+          "item": null
+        },
+        {
+          "id": "3231bd23593e4c8490addcf6b5f2ead1",
+          "at": 1792477513,
+          "item": null
+        },
+        {
+          "id": "52e391591cdb4874b762e52176f23237",
+          "at": 1792477592,
+          "item": null
+        },
+        {
+          "id": "cbbd2237b19e40dba0ce215deebd4d8d",
+          "at": 1792477746,
+          "item": null
+        },
+        {
+          "id": "cc6c77df166d462384952eb144950f79",
+          "at": 1792477814,
+          "item": null
+        },
+        {
+          "id": "9e9ecbe95b1b454085d17bd0ff261939",
+          "at": 1792477907,
+          "item": "copper"
+        },
+        {
+          "id": "d3ad075885134332ace7aeb399ebb957",
+          "at": 1792477993,
+          "item": "copper"
+        },
+        {
+          "id": "aea0a40531334036b19f5c3d7f901149",
+          "at": 1792478146,
+          "item": null
+        },
+        {
+          "id": "1926515daa9d40229b3a71ac83b1f7be",
+          "at": 1792478218,
+          "item": null
+        },
+        {
+          "id": "3e4962073d5047269cf0170d0728467d",
+          "at": 1792478286,
+          "item": "copper"
+        },
+        {
+          "id": "16a0a053bdb142cc87c447072864d1ac",
+          "at": 1792478425,
+          "item": "iron"
+        },
+        {
+          "id": "586b665269874a40a5634dee5b82b146",
+          "at": 1792478646,
+          "item": null
+        },
+        {
+          "id": "a1cf980543194061b4a68e6203da31da",
+          "at": 1792478708,
+          "item": "ruby"
+        },
+        {
+          "id": "461a39988a6c463aae9c23743124b349",
+          "at": 1792479188,
+          "item": "copper"
+        },
+        {
+          "id": "93a91f4e80564f3d9fe62683ccc295a9",
+          "at": 1792479574,
+          "item": null
+        },
+        {
+          "id": "1ee3472ef2ab42f09e2ea4f954b827ba",
+          "at": 1792479700,
+          "item": null
+        },
+        {
+          "id": "ed449f1a0cf04bafa103c5b945df9373",
+          "at": 1792479844,
+          "item": null
+        },
+        {
+          "id": "b9207386466447009c3976ca88fd2308",
+          "at": 1792480138,
+          "item": "copper"
+        },
+        {
+          "id": "b6713763392642129f291cdb71c83826",
+          "at": 1792482473,
+          "item": null
+        },
+        {
+          "id": "50a820b9970347a0a58b0862a0973cad",
+          "at": 1792482647,
+          "item": "copper"
+        },
+        {
+          "id": "488f8cb79cc44e4d841816d738a2f5ec",
+          "at": 1792482765,
+          "item": "copper"
+        },
+        {
+          "id": "d28f5d47fb294d3186b36590dacd4a49",
+          "at": 1792483041,
+          "item": "copper"
+        },
+        {
+          "id": "f24c0991ca954f0dbea4374b716b62aa",
+          "at": 1792483120,
+          "item": "iron"
+        },
+        {
+          "id": "fd454d583cfb41e9b3ac4d3af76f6498",
+          "at": 1792483570,
+          "item": null
+        },
+        {
+          "id": "52fd7cdf50ad422998f1161680566237",
+          "at": 1792483840,
+          "item": "ruby"
+        },
+        {
+          "id": "cc55b68606424048b0be5ae156a30e14",
+          "at": 1792484785,
+          "item": "ruby"
+        }
+      ],
+      "diamonds_found": 2
+    },
+    "name:sou☀rea": {
+      "username": "𝐒𝐎𝐔☀𝐑𝐄𝐀",
+      "inventory": {
+        "copper": 17,
+        "iron": 8,
+        "ruby": 4,
+        "diamond_clear": 1,
+        "diamond_blue": 0,
+        "diamond_purple": 1,
+        "diamond_red": 1,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792484928.9920864,
+      "mines_count": 59,
+      "mine_history": [
+        {
+          "id": "9b13034733ce46b6af74dc8969088125",
+          "at": 1792442891,
+          "item": "copper"
+        },
+        {
+          "id": "618d414684854f1884ddb8b78ed2d652",
+          "at": 1792443321,
+          "item": null
+        },
+        {
+          "id": "c958b854b4fe417fab019d0203eb94f2",
+          "at": 1792443556,
+          "item": null
+        },
+        {
+          "id": "8e2dc4c6209a4a74b3bb3cb7c1d3c403",
+          "at": 1792444366,
+          "item": "copper"
+        },
+        {
+          "id": "0e3aa2dd94e64344bd7fa59720be8910",
+          "at": 1792451232,
+          "item": null
+        },
+        {
+          "id": "22dd21e5af144ac59bf90a8aa8799f85",
+          "at": 1792451468,
+          "item": null
+        },
+        {
+          "id": "60f3424e72e84466ad0709f1fe2228bd",
+          "at": 1792474065,
+          "item": "diamond_red"
+        },
+        {
+          "id": "4aac29f859b4464eaa0a035765ae213f",
+          "at": 1792474131,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "7a8121c8ae724cff8bc2a093fb4c96c2",
+          "at": 1792474756,
+          "item": "copper"
+        },
+        {
+          "id": "4ad535a4c71541b1aef0e603aa1aaec8",
+          "at": 1792474906,
+          "item": "ruby"
+        },
+        {
+          "id": "ff1116df5e2a433fbc200b8523e24c97",
+          "at": 1792475357,
+          "item": null
+        },
+        {
+          "id": "e2bf97fbd8b541048a32288560b2903f",
+          "at": 1792475558,
+          "item": null
+        },
+        {
+          "id": "9bade5e9f4334531b7117208fccd3253",
+          "at": 1792475643,
+          "item": "copper"
+        },
+        {
+          "id": "4864aa844dc4467285eedd94abd75226",
+          "at": 1792475705,
+          "item": null
+        },
+        {
+          "id": "87967329eee64620b67549eba44563e3",
+          "at": 1792475844,
+          "item": "copper"
+        },
+        {
+          "id": "72d8a5aec0954c06b376c3a17ae71a9b",
+          "at": 1792475957,
+          "item": "copper"
+        },
+        {
+          "id": "81455d8c152e49f5ab37f332e54c9286",
+          "at": 1792476066,
+          "item": "copper"
+        },
+        {
+          "id": "47ec0446780e46fc8ab4825da1a03b0b",
+          "at": 1792477022,
+          "item": "iron"
+        },
+        {
+          "id": "15d6deb44d704971910062300e198008",
+          "at": 1792477162,
+          "item": null
+        },
+        {
+          "id": "3167d8d0006143809358025a92731af2",
+          "at": 1792477288,
+          "item": null
+        },
+        {
+          "id": "341dd551694d48958095dc57debbc859",
+          "at": 1792477440,
+          "item": "iron"
+        },
+        {
+          "id": "e6de4a2f10034435a872edb8a0b12b53",
+          "at": 1792477525,
+          "item": null
+        },
+        {
+          "id": "9a97f0c15759494aa1cbffeb6527f825",
+          "at": 1792477602,
+          "item": null
+        },
+        {
+          "id": "ea0987d11c714f27959040132f7b994a",
+          "at": 1792477737,
+          "item": "ruby"
+        },
+        {
+          "id": "00f25c189df947808d471eb351c683da",
+          "at": 1792477803,
+          "item": null
+        },
+        {
+          "id": "954bf17c7df447cabcf8956be2bdcde4",
+          "at": 1792477900,
+          "item": null
+        },
+        {
+          "id": "53b9fe07bfbf48fe88cfb6c5f0d0be08",
+          "at": 1792477983,
+          "item": "copper"
+        },
+        {
+          "id": "d1e76277c8e94cce9108978820ef80b3",
+          "at": 1792478116,
+          "item": "iron"
+        },
+        {
+          "id": "03b74279a068475c9c05e0b559d44f4e",
+          "at": 1792478190,
+          "item": "ruby"
+        },
+        {
+          "id": "647334e494b840049b7e5ae2b94afa91",
+          "at": 1792478277,
+          "item": null
+        },
+        {
+          "id": "3a8daaccb0c7403ca7108b0bcca0a6ca",
+          "at": 1792478339,
+          "item": null
+        },
+        {
+          "id": "49aa0eb2cc8346f48c2885a0755d846d",
+          "at": 1792478482,
+          "item": "copper"
+        },
+        {
+          "id": "9d17915f7a164ee8b8336472db8ddf2b",
+          "at": 1792478698,
+          "item": null
+        },
+        {
+          "id": "08d7de2042114aa3b2533c6623d10f30",
+          "at": 1792478934,
+          "item": "copper"
+        },
+        {
+          "id": "33d0d2a51c394b9d8c1e85634088f8a6",
+          "at": 1792479227,
+          "item": null
+        },
+        {
+          "id": "f355f3296aea4ca18ee0174738112b96",
+          "at": 1792479373,
+          "item": null
+        },
+        {
+          "id": "410deae24bcf4165b46e20508b4c303f",
+          "at": 1792479594,
+          "item": null
+        },
+        {
+          "id": "83be581a750846d9b1d9cc4e40889808",
+          "at": 1792479746,
+          "item": "copper"
+        },
+        {
+          "id": "fd47aa0c0af247d89fef9ccc4065788d",
+          "at": 1792480094,
+          "item": "ruby"
+        },
+        {
+          "id": "1ba4a5439dee472ead8177cf42994d69",
+          "at": 1792480248,
+          "item": null
+        },
+        {
+          "id": "15aa3ca350cc4e6f91ee899065412e27",
+          "at": 1792482095,
+          "item": "copper"
+        },
+        {
+          "id": "0cf4d7ea7c204304b16600767b84413a",
+          "at": 1792482457,
+          "item": "copper"
+        },
+        {
+          "id": "909068d4f05e41448aaeaa4e46c55362",
+          "at": 1792482600,
+          "item": "copper"
+        },
+        {
+          "id": "132c84f2e6914193a424060b559e96d7",
+          "at": 1792482665,
+          "item": "iron"
+        },
+        {
+          "id": "46ade341a1384d43b1f3ee0d862302da",
+          "at": 1792482909,
+          "item": "copper"
+        },
+        {
+          "id": "a39f42ad6fd244808ef8b56de882f60c",
+          "at": 1792483051,
+          "item": "iron"
+        },
+        {
+          "id": "99a529c390bf45b39d9612f8adc5f54f",
+          "at": 1792483416,
+          "item": "iron"
+        },
+        {
+          "id": "c306a767c8b4422cb1797897f56c878a",
+          "at": 1792483561,
+          "item": null
+        },
+        {
+          "id": "34c8dd5628ce45b3bd705a4f0b358521",
+          "at": 1792484811,
+          "item": null
+        },
+        {
+          "id": "0bca1287c7cf491db5b3a234905b7dc3",
+          "at": 1792484928,
+          "item": "iron"
+        }
+      ],
+      "found_total": 32,
+      "diamonds_found": 3
+    },
+    "name:اا♥☼هـــــ☼ـــادي☼♥اا": {
+      "username": "اا♥☼هـــــ☼ـــادي☼♥اا",
+      "inventory": {
+        "copper": 3,
+        "iron": 1,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792445606.0712764,
+      "mines_count": 4,
+      "found_total": 4,
+      "mine_history": [
+        {
+          "id": "a5e80e3672b54df39711411eda788124",
+          "at": 1792433410,
+          "item": "copper"
+        },
+        {
+          "id": "7472e494319f43798b6d29501f6d2b3e",
+          "at": 1792433649,
+          "item": "iron"
+        },
+        {
+          "id": "9160831a66fd4751b7f6b74558d2406a",
+          "at": 1792441124,
+          "item": "copper"
+        },
+        {
+          "id": "8b93980350614ad298b21a9ac8131ab6",
+          "at": 1792445606,
+          "item": "copper"
+        }
+      ]
+    },
+    "name:تـ★ـامـر": {
+      "username": "تـ★ـامـر",
+      "inventory": {
+        "copper": 1,
+        "iron": 0,
+        "ruby": 1,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792448504.4697323,
+      "mines_count": 4,
+      "found_total": 2,
+      "mine_history": [
+        {
+          "id": "205cd75991964f81a85ff3531f3ffa41",
+          "at": 1792441542,
+          "item": "copper"
+        },
+        {
+          "id": "d7b27617aa7a4f98b79334a4b348afca",
+          "at": 1792443356,
+          "item": "ruby"
+        },
+        {
+          "id": "d04d34fcafbf43b289ce814e6ec57dfc",
+          "at": 1792443444,
+          "item": null
+        },
+        {
+          "id": "8d8c6ebf79904675b727f694b0177486",
+          "at": 1792448504,
+          "item": null
+        }
+      ]
+    },
+    "name:amira113p": {
+      "username": "amira113p",
+      "inventory": {
+        "copper": 1,
+        "iron": 1,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792492129.6596258,
+      "mines_count": 2,
+      "found_total": 2,
+      "mine_history": [
+        {
+          "id": "a67bd509d75f4fb6992788791d4c6737",
+          "at": 1792449522,
+          "item": "copper"
+        },
+        {
+          "id": "547c690c74e640f5a957d6c35f6d3757",
+          "at": 1792492129,
+          "item": "iron"
+        }
+      ]
+    },
+    "name:🔥🐆ٰ": {
+      "username": "🔥🐆ٰ",
+      "inventory": {
+        "copper": 3,
+        "iron": 3,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792480473.7148283,
+      "mines_count": 13,
+      "mine_history": [
+        {
+          "id": "063e37df217349c987862eb482301aaa",
+          "at": 1792475242,
+          "item": null
+        },
+        {
+          "id": "4e58f358bf2a4c85bb9513d73165a54d",
+          "at": 1792475303,
+          "item": null
+        },
+        {
+          "id": "547303ba10084119ba5f89734b944f05",
+          "at": 1792475412,
+          "item": null
+        },
+        {
+          "id": "8763ddda29864a60967d2bb094273609",
+          "at": 1792475629,
+          "item": "copper"
+        },
+        {
+          "id": "6a616a24251643e69ba558254002537b",
+          "at": 1792475754,
+          "item": "copper"
+        },
+        {
+          "id": "a0fb1fab5af64ce3abdf71151f79d92e",
+          "at": 1792475839,
+          "item": null
+        },
+        {
+          "id": "5a15d9eb97fd429b82bb2a4d51093517",
+          "at": 1792475923,
+          "item": null
+        },
+        {
+          "id": "9c728e4edb7f4b8389b03feea6f796a6",
+          "at": 1792475986,
+          "item": null
+        },
+        {
+          "id": "b918cacfa7754d12aa8234a9839c071a",
+          "at": 1792476066,
+          "item": "iron"
+        },
+        {
+          "id": "d6aa9d488e40400b8334c8724d7340fa",
+          "at": 1792476176,
+          "item": "iron"
+        },
+        {
+          "id": "1e440ca800754341a88b3b3d9deb0c43",
+          "at": 1792476266,
+          "item": "copper"
+        },
+        {
+          "id": "101de2003d9141a0a7fede437799833f",
+          "at": 1792476570,
+          "item": "iron"
+        },
+        {
+          "id": "42c493dd143c46029967bbd40e5ada9a",
+          "at": 1792480473,
+          "item": null
+        }
+      ],
+      "found_total": 6
+    },
+    "name:ˬ⭒̸໋⃬࣪klaus♞⭒": {
+      "username": "ˬ⭒̸໋⃬࣪𝑲𝒍𝒂𝒖𝒔♞⭒",
+      "inventory": {
+        "copper": 5,
+        "iron": 1,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792485450.833353,
+      "mines_count": 11,
+      "mine_history": [
+        {
+          "id": "337006e47dd746e38179c6930a97ea1e",
+          "at": 1792477743,
+          "item": null
+        },
+        {
+          "id": "8f6893ce6f7d4dc29abd337d50fd0d04",
+          "at": 1792477884,
+          "item": null
+        },
+        {
+          "id": "dbe7dd507b29474baccf046b93224e77",
+          "at": 1792477983,
+          "item": "copper"
+        },
+        {
+          "id": "3961bc5902c84c5eaba1b49e7880494b",
+          "at": 1792478131,
+          "item": null
+        },
+        {
+          "id": "7c6fcf63bf504308a04525a15747886a",
+          "at": 1792478350,
+          "item": "copper"
+        },
+        {
+          "id": "47841ee4598647a7a404ec554836cd89",
+          "at": 1792479804,
+          "item": null
+        },
+        {
+          "id": "f3663903cbae4fe9819a5bd2396e2577",
+          "at": 1792480459,
+          "item": "copper"
+        },
+        {
+          "id": "99899b49bb1c4f82a2e99bcbd72bf0a3",
+          "at": 1792482549,
+          "item": "copper"
+        },
+        {
+          "id": "3a4499381dad4b8abdbfb09953fbf815",
+          "at": 1792484364,
+          "item": "copper"
+        },
+        {
+          "id": "aed4020a9b184803aeee6bdfdfb950d5",
+          "at": 1792485290,
+          "item": "iron"
+        },
+        {
+          "id": "17fcac4c9ae84ed3874f0a30b9309a38",
+          "at": 1792485450,
+          "item": null
+        }
+      ],
+      "found_total": 6
+    },
+    "name:ܤߺࡅ࡙ߺࡅٜߺܘ߳🇾🇪ࡅ࡙ߺܩߺוࡅ࠭ߺي": {
+      "username": "ܤߺࡅ࡙ߺࡅٜߺܘ߳🇾🇪ࡅ࡙ߺܩߺוࡅ࠭ߺي",
+      "inventory": {
+        "copper": 44,
+        "iron": 23,
+        "ruby": 6,
+        "diamond_clear": 0,
+        "diamond_blue": 2,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515530.3675153,
+      "mines_count": 148,
+      "found_total": 75,
+      "mine_history": [
+        {
+          "id": "09f8f940f57a498d9d4faf6c838f1d4f",
+          "at": 1792507618,
+          "item": null
+        },
+        {
+          "id": "f761609291d14f419efd8e4bb018a2bc",
+          "at": 1792507752,
+          "item": null
+        },
+        {
+          "id": "9021abd9213b42ceb00f752ea570b4b6",
+          "at": 1792507833,
+          "item": null
+        },
+        {
+          "id": "592df346be084def81a176e74158c723",
+          "at": 1792508868,
+          "item": null
+        },
+        {
+          "id": "fd8bbbb7cba44a5f8c1a6784f45b9b0f",
+          "at": 1792508978,
+          "item": null
+        },
+        {
+          "id": "e1b902445e5b4e3480ba7f6c53517921",
+          "at": 1792509087,
+          "item": "ruby"
+        },
+        {
+          "id": "168274aea4d8476bb5c09b52cf42a131",
+          "at": 1792509195,
+          "item": null
+        },
+        {
+          "id": "b26d831fa40f4c789a10705945e568af",
+          "at": 1792509259,
+          "item": null
+        },
+        {
+          "id": "8b83e59db4cf4481a4c63d1906a27ad7",
+          "at": 1792509737,
+          "item": null
+        },
+        {
+          "id": "3752f0316e8a45d4be77adf405c4fb7c",
+          "at": 1792509825,
+          "item": "copper"
+        },
+        {
+          "id": "8273de0327684d92a2396eb98b5f583e",
+          "at": 1792510147,
+          "item": "copper"
+        },
+        {
+          "id": "f888b2031cd24ea8a58f221ada9ec9af",
+          "at": 1792510614,
+          "item": null
+        },
+        {
+          "id": "58a0d9591009442db950ed4e479c4eb7",
+          "at": 1792510718,
+          "item": "copper"
+        },
+        {
+          "id": "a708cf8a493e4065b5dfa663419141db",
+          "at": 1792510850,
+          "item": null
+        },
+        {
+          "id": "a23f452d53434b5ea0f600b83933a025",
+          "at": 1792510917,
+          "item": null
+        },
+        {
+          "id": "44b6b75dd6044df78f3adeab0a07cc00",
+          "at": 1792511029,
+          "item": "copper"
+        },
+        {
+          "id": "51d4260e184a47dda332bf53bbf3b880",
+          "at": 1792511094,
+          "item": "copper"
+        },
+        {
+          "id": "cb4489a2ba9141868b700b6939a42b69",
+          "at": 1792511243,
+          "item": null
+        },
+        {
+          "id": "b79c533ffaf94dae97f1ac349c1f56d4",
+          "at": 1792511366,
+          "item": "iron"
+        },
+        {
+          "id": "e6e152b5fc1d4d82b9eb4d350c743c49",
+          "at": 1792511427,
+          "item": "copper"
+        },
+        {
+          "id": "a5116a970fee4ee2a61cdd1053f03de9",
+          "at": 1792511559,
+          "item": "copper"
+        },
+        {
+          "id": "aba230c9934b4ddd915502164beb076c",
+          "at": 1792511813,
+          "item": "iron"
+        },
+        {
+          "id": "5018a63bfc7a438ab11e27264155996f",
+          "at": 1792511887,
+          "item": null
+        },
+        {
+          "id": "4fbb851b4af7405fb4dd0efbbc24a354",
+          "at": 1792511981,
+          "item": "iron"
+        },
+        {
+          "id": "1aa177a59b2b4b07a6203519fe0487ab",
+          "at": 1792512089,
+          "item": "copper"
+        },
+        {
+          "id": "13d33312baa94d528e8317cad6b5e4d9",
+          "at": 1792512187,
+          "item": "copper"
+        },
+        {
+          "id": "37f47f90b2cc4cd3b43577dcaaec7240",
+          "at": 1792512443,
+          "item": "iron"
+        },
+        {
+          "id": "58098c1dff2c4f31bcd3de38e58966a4",
+          "at": 1792513061,
+          "item": null
+        },
+        {
+          "id": "1566eef76f164e39b001539dffa875ac",
+          "at": 1792513160,
+          "item": "copper"
+        },
+        {
+          "id": "fc3fe7e241c3447aa739d49e13998c02",
+          "at": 1792513224,
+          "item": "iron"
+        },
+        {
+          "id": "8d5755021dad49d5b8814ee66086b527",
+          "at": 1792513325,
+          "item": null
+        },
+        {
+          "id": "83b1f0a4c2ad4e17a9431cd1c1b5b1ad",
+          "at": 1792513388,
+          "item": "iron"
+        },
+        {
+          "id": "d5f1472dd777448cbaba229c9cfa5ba1",
+          "at": 1792513452,
+          "item": null
+        },
+        {
+          "id": "5607ee6f866349f79e2f486668f65be7",
+          "at": 1792513517,
+          "item": "copper"
+        },
+        {
+          "id": "5e7f63651ec441d2b9b8ff00a4104e07",
+          "at": 1792513662,
+          "item": null
+        },
+        {
+          "id": "f7200804dae842068c46713adebeb2a7",
+          "at": 1792513770,
+          "item": null
+        },
+        {
+          "id": "31e9edb7552045619d886a8d2dbe2b0f",
+          "at": 1792513835,
+          "item": null
+        },
+        {
+          "id": "316222ce71394aae80332897bcb4bfd9",
+          "at": 1792513953,
+          "item": "iron"
+        },
+        {
+          "id": "5a83186b3f23444299737627b7315ab2",
+          "at": 1792514099,
+          "item": null
+        },
+        {
+          "id": "e1aeaadc72b0448fa61a5279e3e2267e",
+          "at": 1792514175,
+          "item": null
+        },
+        {
+          "id": "92fe6ec3ef824dd6a14f2fab3a3e8468",
+          "at": 1792514275,
+          "item": "iron"
+        },
+        {
+          "id": "18c690ed27ff4726a69b054daaf6a7aa",
+          "at": 1792514500,
+          "item": "copper"
+        },
+        {
+          "id": "c27a89f6495c426da80da587bd33cbc9",
+          "at": 1792514572,
+          "item": null
+        },
+        {
+          "id": "14ad9323be424d7c921a021de7b36768",
+          "at": 1792514674,
+          "item": null
+        },
+        {
+          "id": "fb219b22ad30468298625e8bc8c1c7b2",
+          "at": 1792514797,
+          "item": null
+        },
+        {
+          "id": "8826238cc81e4032a8b289ddf3e3de0f",
+          "at": 1792514900,
+          "item": null
+        },
+        {
+          "id": "c4f149b154194985a9e40005cf84a130",
+          "at": 1792515224,
+          "item": "copper"
+        },
+        {
+          "id": "6be5734cc63242149001c4e58efba5f8",
+          "at": 1792515361,
+          "item": null
+        },
+        {
+          "id": "49cd1378a2b84f4a85a2c9a7672b2a11",
+          "at": 1792515424,
+          "item": null
+        },
+        {
+          "id": "2f384817bb4047d4a461361347f73fc1",
+          "at": 1792515530,
+          "item": null
+        }
+      ],
+      "diamonds_found": 2
+    },
+    "name:...mlk": {
+      "username": "...mlk",
+      "inventory": {
+        "copper": 8,
+        "iron": 10,
+        "ruby": 5,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792514680.716958,
+      "mines_count": 42,
+      "found_total": 23,
+      "mine_history": [
+        {
+          "id": "a3357368843940419c4ecadd9e254c77",
+          "at": 1792478054,
+          "item": "iron"
+        },
+        {
+          "id": "3cb3cdb075da463783ace0cc53bbc527",
+          "at": 1792478140,
+          "item": "iron"
+        },
+        {
+          "id": "fac75093e08d4812af078297dd65efbd",
+          "at": 1792479013,
+          "item": null
+        },
+        {
+          "id": "948ac8feb8db484a8f8c9f3d9278c08d",
+          "at": 1792479097,
+          "item": "iron"
+        },
+        {
+          "id": "0a7ce3dfc03340f69abe36d12a10f972",
+          "at": 1792479218,
+          "item": "copper"
+        },
+        {
+          "id": "40dfaa63fac148e1bb4f97fb1d45724b",
+          "at": 1792479385,
+          "item": null
+        },
+        {
+          "id": "16abf9f61fa7455e9c5064d1e93dbf3b",
+          "at": 1792479522,
+          "item": "copper"
+        },
+        {
+          "id": "a832983ce76b44408d293f701878d9d4",
+          "at": 1792479731,
+          "item": null
+        },
+        {
+          "id": "e452ec04c5df420e9410264ad9507600",
+          "at": 1792479884,
+          "item": "ruby"
+        },
+        {
+          "id": "4cf4faca28b6422b8d3834e7e650cf7e",
+          "at": 1792480004,
+          "item": null
+        },
+        {
+          "id": "e0a84fcdca7e4c858cb96872e83d1f80",
+          "at": 1792480198,
+          "item": "copper"
+        },
+        {
+          "id": "afe3204127a94b758a5b2b7007f9a7ce",
+          "at": 1792480323,
+          "item": "ruby"
+        },
+        {
+          "id": "6ce71cf13aaf48449efd2de996c6a71f",
+          "at": 1792480417,
+          "item": null
+        },
+        {
+          "id": "bb66f38796a04fcaba4c81363afa94d7",
+          "at": 1792480526,
+          "item": null
+        },
+        {
+          "id": "ba127eb283ac4ef5acb9d99872c9124d",
+          "at": 1792481087,
+          "item": null
+        },
+        {
+          "id": "89eff9e963f74e40a4cc5ac910ca2378",
+          "at": 1792481238,
+          "item": "iron"
+        },
+        {
+          "id": "7004ec35c4ed49ecb248d65c5f907e4a",
+          "at": 1792481359,
+          "item": "copper"
+        },
+        {
+          "id": "784a39ab9cbe498694659bbd4949c976",
+          "at": 1792481526,
+          "item": "ruby"
+        },
+        {
+          "id": "5247c2a04e96453ba36d29730a996cda",
+          "at": 1792482135,
+          "item": "iron"
+        },
+        {
+          "id": "0f57e011daf04d509c5dc32aea75d0fc",
+          "at": 1792482991,
+          "item": "copper"
+        },
+        {
+          "id": "353fe30a933d4926b205bdf4fe30b3a1",
+          "at": 1792483091,
+          "item": "iron"
+        },
+        {
+          "id": "b61ae869179441bcb6efdd1490703caf",
+          "at": 1792483213,
+          "item": "iron"
+        },
+        {
+          "id": "2f58b11ed9184d0584836e6d099f7395",
+          "at": 1792483374,
+          "item": "copper"
+        },
+        {
+          "id": "965202f96e754ca4aa29d9054e7a273d",
+          "at": 1792483615,
+          "item": "iron"
+        },
+        {
+          "id": "3e4554049c5247218b9c985705ade279",
+          "at": 1792484734,
+          "item": null
+        },
+        {
+          "id": "07c069cc9d3a47a7a3d16e337db81406",
+          "at": 1792502374,
+          "item": null
+        },
+        {
+          "id": "a17a16929d20456ba2667666eb4ad8b9",
+          "at": 1792502473,
+          "item": "ruby"
+        },
+        {
+          "id": "bcfe579663e04fc8850cd2a2522c4c33",
+          "at": 1792502815,
+          "item": "iron"
+        },
+        {
+          "id": "3b96343c51f449a4a45f2c6d19ea23c9",
+          "at": 1792503829,
+          "item": null
+        },
+        {
+          "id": "c5a212cc21f64ceba78cfa53af2b18e7",
+          "at": 1792509255,
+          "item": null
+        },
+        {
+          "id": "9a07c68909af4e0cb2d0637c1e48c26d",
+          "at": 1792509740,
+          "item": "iron"
+        },
+        {
+          "id": "ea19b5561d8443c68b6b9df95ffaac30",
+          "at": 1792510498,
+          "item": "copper"
+        },
+        {
+          "id": "1500876a714944bf9d159c0f69e4c03b",
+          "at": 1792510682,
+          "item": null
+        },
+        {
+          "id": "1e3063b4810b447195b70c6e68f5e1d9",
+          "at": 1792511046,
+          "item": null
+        },
+        {
+          "id": "2f0de72d92ce4a31940dbe6def4e8eb4",
+          "at": 1792511372,
+          "item": "copper"
+        },
+        {
+          "id": "9bca07ae7252442fb9d78d57814fbcb5",
+          "at": 1792511565,
+          "item": null
+        },
+        {
+          "id": "65b1af793d9344a08ed1eec3c89f04d1",
+          "at": 1792511764,
+          "item": null
+        },
+        {
+          "id": "f0a6221115d642efbfd58f7c17437b06",
+          "at": 1792514011,
+          "item": null
+        },
+        {
+          "id": "85ea5f509c3c47c48c588f81ca429e13",
+          "at": 1792514205,
+          "item": "ruby"
+        },
+        {
+          "id": "2b64a25870384a26a67328891edc7558",
+          "at": 1792514284,
+          "item": null
+        },
+        {
+          "id": "fc32e73d095a4056b5cd5d39b8f7aa91",
+          "at": 1792514443,
+          "item": null
+        },
+        {
+          "id": "8288f868be664f2f96c4eb5aacc12016",
+          "at": 1792514680,
+          "item": null
+        }
+      ]
+    },
+    "name:ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ": {
+      "username": "ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ",
+      "inventory": {
+        "copper": 1,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792478327.8217092,
+      "mines_count": 1,
+      "found_total": 1,
+      "mine_history": [
+        {
+          "id": "df2b5f40a28247d0a600694da97159e0",
+          "at": 1792478327,
+          "item": "copper"
+        }
+      ]
+    },
+    "name:ٰٱࢦقيـ⃜͢ــــٱدهہَ•️🏴☠️•ٱلعࢦيـــ⃜͢ــــہَ": {
+      "username": "ٰٱࢦقيـ⃜͢ــــٱدهہَ•️🏴‍☠️•ٱلعࢦيـــ⃜͢ــــہَ",
+      "inventory": {
+        "copper": 0,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792478355.658458,
+      "mines_count": 1,
+      "mine_history": [
+        {
+          "id": "591bef3f604e43819e56db72f1f9602f",
+          "at": 1792478355,
+          "item": null
+        }
+      ]
+    },
+    "name:عـزٱإهہۦيٱإچـرح»قـۦـلپ«مـٱإپرٱإهہۦضمـآإدهہ": {
+      "username": "عـزٱإهہۦيٱإچـرح»قـۦـلپ«مـٱإپرٱإهہۦضمـآإدهہ",
+      "inventory": {
+        "copper": 1,
+        "iron": 1,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792491968.6940815,
+      "mines_count": 4,
+      "mine_history": [
+        {
+          "id": "377a59ca181d4463936a9c252e04fd62",
+          "at": 1792480279,
+          "item": null
+        },
+        {
+          "id": "a22eae42b28d441a9ac60bfafcb08ec9",
+          "at": 1792480517,
+          "item": "copper"
+        },
+        {
+          "id": "835d3cefaf8647ebb9519905c793168b",
+          "at": 1792481723,
+          "item": "iron"
+        },
+        {
+          "id": "70282459674c4796b850c093bea6a051",
+          "at": 1792491968,
+          "item": null
+        }
+      ],
+      "found_total": 2
+    },
+    "name:ياڪريم↫بالجفى◍ليتڪ↬بخيل": {
+      "username": "ياڪريم↫بالجفى◍ليتڪ↬بخيل",
+      "inventory": {
+        "copper": 5,
+        "iron": 3,
+        "ruby": 7,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792498394.1313813,
+      "mines_count": 25,
+      "found_total": 15,
+      "mine_history": [
+        {
+          "id": "a439d7ede6584742a75aaaffae41e79f",
+          "at": 1792480517,
+          "item": "ruby"
+        },
+        {
+          "id": "6305c1f85e1d4c2590080a2f53187edf",
+          "at": 1792480624,
+          "item": null
+        },
+        {
+          "id": "52c68dcbda5647fcab4d09e9ea779d64",
+          "at": 1792480731,
+          "item": "ruby"
+        },
+        {
+          "id": "eaec3da4f4344eb8847d1a340d5d88bb",
+          "at": 1792481128,
+          "item": "ruby"
+        },
+        {
+          "id": "4ab7864b5df9437ba6ca53f8e3189442",
+          "at": 1792481409,
+          "item": "copper"
+        },
+        {
+          "id": "81e2128109f34de0b4e420beaa4ae9e0",
+          "at": 1792481514,
+          "item": "ruby"
+        },
+        {
+          "id": "a28c3091781f442f8cfe96a6b945270a",
+          "at": 1792482005,
+          "item": null
+        },
+        {
+          "id": "744f1e150d504a95812a57e2194a81d8",
+          "at": 1792482113,
+          "item": "iron"
+        },
+        {
+          "id": "410e61b4ec69461393cf5ba0a8b59150",
+          "at": 1792482237,
+          "item": null
+        },
+        {
+          "id": "e5b07fbb6daf4f0dba299cca4e0dd9f2",
+          "at": 1792482387,
+          "item": null
+        },
+        {
+          "id": "fc9182e9b37b479a819f487ea51a848b",
+          "at": 1792482558,
+          "item": "ruby"
+        },
+        {
+          "id": "d60c48bc1bec427894e05735d675b14d",
+          "at": 1792482632,
+          "item": null
+        },
+        {
+          "id": "ad7e78e9505d40fb883abb9d46009360",
+          "at": 1792482693,
+          "item": null
+        },
+        {
+          "id": "7598f22ad0304f33a20bb97e424fcef7",
+          "at": 1792483094,
+          "item": "copper"
+        },
+        {
+          "id": "10bf0bcf89ce4a93a43f7ebe2e180a33",
+          "at": 1792483167,
+          "item": null
+        },
+        {
+          "id": "8b506c74224741c9914a8e3dcafdd5f6",
+          "at": 1792484136,
+          "item": null
+        },
+        {
+          "id": "cb5a47e1236a42ea9739272a40380d95",
+          "at": 1792485956,
+          "item": null
+        },
+        {
+          "id": "31660ac2bfef4ef1a2842267bda3a2d6",
+          "at": 1792486454,
+          "item": "iron"
+        },
+        {
+          "id": "5f7cf2c24d6842fcbc8ad472d6539823",
+          "at": 1792486705,
+          "item": "copper"
+        },
+        {
+          "id": "58fef196e7c34341a7b42e799b8519e6",
+          "at": 1792486900,
+          "item": "ruby"
+        },
+        {
+          "id": "fc8129d4e1c54dc7ae5c9fed26e1506d",
+          "at": 1792487545,
+          "item": null
+        },
+        {
+          "id": "8f37f16561b84c4f8edb7e7823ed31c7",
+          "at": 1792491925,
+          "item": "copper"
+        },
+        {
+          "id": "e350852d000e43efa46c1cdbd9d9561b",
+          "at": 1792492270,
+          "item": "iron"
+        },
+        {
+          "id": "7e44809ada504a589e5bc101634767e1",
+          "at": 1792494737,
+          "item": "ruby"
+        },
+        {
+          "id": "74f3acc83f80413991613175843060f0",
+          "at": 1792498394,
+          "item": "copper"
+        }
+      ]
+    },
+    "name:مَـهـآ": {
+      "username": "مَـهـآ",
+      "inventory": {
+        "copper": 4,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 1,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792511897.9345374,
+      "mines_count": 11,
+      "found_total": 5,
+      "mine_history": [
+        {
+          "id": "644b5b09ddc9475ab0fea3feb03bf98d",
+          "at": 1792481136,
+          "item": "copper"
+        },
+        {
+          "id": "51dd9de6ef1648239bb3f1febba6d7bd",
+          "at": 1792481521,
+          "item": null
+        },
+        {
+          "id": "f51b40c37cc14675bc205ed66dd68814",
+          "at": 1792483164,
+          "item": null
+        },
+        {
+          "id": "60e78441f1ab4c9192e7945a30011532",
+          "at": 1792485264,
+          "item": null
+        },
+        {
+          "id": "9664a6474f6947739c33b9c116390902",
+          "at": 1792485565,
+          "item": null
+        },
+        {
+          "id": "dab48ffb58104c28a250f362cf08b045",
+          "at": 1792507036,
+          "item": "diamond_clear"
+        },
+        {
+          "id": "2e8c9cf7793e4890a90a4341b6a140df",
+          "at": 1792507279,
+          "item": "copper"
+        },
+        {
+          "id": "291f1d7191a14553b61da9290823257b",
+          "at": 1792507565,
+          "item": null
+        },
+        {
+          "id": "cf12494534d04e9b873563e2facb0050",
+          "at": 1792510213,
+          "item": "copper"
+        },
+        {
+          "id": "e7aabe0355db446b9df9f2434b044b23",
+          "at": 1792511720,
+          "item": "copper"
+        },
+        {
+          "id": "344191b9e26e4e6c83d20abefe771687",
+          "at": 1792511897,
+          "item": null
+        }
+      ],
+      "diamonds_found": 1
+    },
+    "name:ɗơɲʆɯƛƛɲ": {
+      "username": "ƊƠƝʆƜƛƛƝ",
+      "inventory": {
+        "copper": 0,
+        "iron": 1,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792499282.399318,
+      "mines_count": 33,
+      "found_total": 14,
+      "mine_history": [
+        {
+          "id": "ccfddbdb8590401eb771ccca2fc8f1f1",
+          "at": 1792481245,
+          "item": "copper"
+        },
+        {
+          "id": "bf69709988df4a55a56347c93df8adf2",
+          "at": 1792481370,
+          "item": "ruby"
+        },
+        {
+          "id": "2a3ee26d1c984efe840da690d67b4a7b",
+          "at": 1792483370,
+          "item": null
+        },
+        {
+          "id": "8b5ce36abc0c44659021abbe4d0719d0",
+          "at": 1792483603,
+          "item": null
+        },
+        {
+          "id": "685e4e0e95a6451ebd9bf7f6232f82c5",
+          "at": 1792483779,
+          "item": null
+        },
+        {
+          "id": "c4735a2b75444137ae008d0768cc909e",
+          "at": 1792483882,
+          "item": "ruby"
+        },
+        {
+          "id": "d521b7119c40421385363819bbd3a349",
+          "at": 1792484106,
+          "item": "copper"
+        },
+        {
+          "id": "47932e5f866e47ea83f5f2c68f23a5f2",
+          "at": 1792487501,
+          "item": "copper"
+        },
+        {
+          "id": "6d7bdd0e5b26449d8db98e31346becc3",
+          "at": 1792487730,
+          "item": "copper"
+        },
+        {
+          "id": "4dadddada9f64a02815d58825c15bf85",
+          "at": 1792488380,
+          "item": null
+        },
+        {
+          "id": "fd15db20606441549ba19cec958dc54c",
+          "at": 1792488542,
+          "item": "iron"
+        },
+        {
+          "id": "97a742ef04de49509b16bd25fdeb47ca",
+          "at": 1792488653,
+          "item": null
+        },
+        {
+          "id": "ce190e7da3cc43e6ae6dbd7937c465bf",
+          "at": 1792488809,
+          "item": "copper"
+        },
+        {
+          "id": "eb2e1edbff594f5e8f32f15555e1f07a",
+          "at": 1792488906,
+          "item": null
+        },
+        {
+          "id": "f8e12a689e8745e89f10cb003fb25fed",
+          "at": 1792489010,
+          "item": null
+        },
+        {
+          "id": "9e4d050f6387489696faa3097da93968",
+          "at": 1792489092,
+          "item": null
+        },
+        {
+          "id": "0e2f24e6c28041f8a187badca85ed0b7",
+          "at": 1792489307,
+          "item": "copper"
+        },
+        {
+          "id": "9155c267bf37439a95558e5a3a105d16",
+          "at": 1792489558,
+          "item": "copper"
+        },
+        {
+          "id": "8329c9b6ed9e4c5da73624797d25b574",
+          "at": 1792489832,
+          "item": null
+        },
+        {
+          "id": "51df7c76a02d428e87950e32a0170abf",
+          "at": 1792494716,
+          "item": null
+        },
+        {
+          "id": "8b5375998bb74735ad89c15ce50832a6",
+          "at": 1792495036,
+          "item": null
+        },
+        {
+          "id": "d7171fef654b49f7864bffa54f661dce",
+          "at": 1792495266,
+          "item": null
+        },
+        {
+          "id": "55a49d47d1dd4014afa35ab7a5672f4a",
+          "at": 1792495571,
+          "item": null
+        },
+        {
+          "id": "98cfa7192a9f4cc68586db9578d9499a",
+          "at": 1792495673,
+          "item": null
+        },
+        {
+          "id": "d01034c563c54f57b8581f863c402c32",
+          "at": 1792495858,
+          "item": "copper"
+        },
+        {
+          "id": "c928772df06b4e2b97322b5470925348",
+          "at": 1792497454,
+          "item": "iron"
+        },
+        {
+          "id": "35027a9d2e804e628fd32af1f39b5443",
+          "at": 1792497615,
+          "item": null
+        },
+        {
+          "id": "a4ccdebb226d4256bbba50fa642a120c",
+          "at": 1792498193,
+          "item": null
+        },
+        {
+          "id": "6ad1d04a8f17419daa04a9216645472b",
+          "at": 1792498291,
+          "item": null
+        },
+        {
+          "id": "4ee0546dfde64d279d5d43c2d181d54b",
+          "at": 1792498393,
+          "item": "copper"
+        },
+        {
+          "id": "5630be7808a44bc1b31f126f1d783b47",
+          "at": 1792498811,
+          "item": null
+        },
+        {
+          "id": "5743b783e1634df7a25450a9929823d8",
+          "at": 1792498937,
+          "item": "iron"
+        },
+        {
+          "id": "2d5ce01e61d44ed09fc8e4ba60857fa6",
+          "at": 1792499282,
+          "item": null
+        }
+      ],
+      "redemption_history": [
+        {
+          "id": "8ac5ded9ade94ac1954568c253ccc8a7",
+          "username": "ƊƠƝʆƜƛƛƝ",
+          "items": {
+            "copper": 8
+          },
+          "points": 200000,
+          "created_at": 1792496070
+        },
+        {
+          "id": "c4e99f7fed624da1bbb034ee393ffd62",
+          "username": "ƊƠƝʆƜƛƛƝ",
+          "items": {
+            "iron": 1
+          },
+          "points": 75000,
+          "created_at": 1792496095
+        },
+        {
+          "id": "37466e6ad73e467799b048323a12a4b5",
+          "username": "ƊƠƝʆƜƛƛƝ",
+          "items": {
+            "ruby": 2
+          },
+          "points": 400000,
+          "created_at": 1792496116
+        },
+        {
+          "id": "3a64db6b82d94e2c81334175669d3736",
+          "username": "ƊƠƝʆƜƛƛƝ",
+          "items": {
+            "copper": 1
+          },
+          "points": 25000,
+          "created_at": 1792498845
+        },
+        {
+          "id": "8c35aff5005c4bc09a9684d703f96411",
+          "username": "ƊƠƝʆƜƛƛƝ",
+          "items": {
+            "iron": 1
+          },
+          "points": 75000,
+          "created_at": 1792498861
+        }
+      ]
+    },
+    "name:ٰلٱشفټ‹ۅجھڬ‵قلت›للـھم‵بعديڼ": {
+      "username": "ٰلٱشفټ‹ۅجھڬ‵قلت›للـھم‵بعديڼ",
+      "inventory": {
+        "copper": 3,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792512412.3302958,
+      "mines_count": 18,
+      "mine_history": [
+        {
+          "id": "f4ca40c040664b438af4bcb830e50034",
+          "at": 1792482864,
+          "item": null
+        },
+        {
+          "id": "42e7ba66f78f4536a2995433b7f3301e",
+          "at": 1792482984,
+          "item": null
+        },
+        {
+          "id": "9fc961a36e65498c90f9e3c8eb7b6b07",
+          "at": 1792483162,
+          "item": null
+        },
+        {
+          "id": "426b90d25ce247ee8e0a5c20a9cb7a8f",
+          "at": 1792485575,
+          "item": null
+        },
+        {
+          "id": "0fe64f827493411b9391fcd4986c854c",
+          "at": 1792485907,
+          "item": "copper"
+        },
+        {
+          "id": "940208ff8d1c44df9939da131e4024c0",
+          "at": 1792491888,
+          "item": "copper"
+        },
+        {
+          "id": "dc54a163a88a44d187b5aaff55ce7bf7",
+          "at": 1792492012,
+          "item": null
+        },
+        {
+          "id": "2a06f9bde06e4c1a8fda0e08efe8b4ad",
+          "at": 1792498056,
+          "item": null
+        },
+        {
+          "id": "dd95f410f0454d448d4cbdafd94645bf",
+          "at": 1792498357,
+          "item": null
+        },
+        {
+          "id": "60f24de9e13e4a95936f015d2cf669cc",
+          "at": 1792498756,
+          "item": null
+        },
+        {
+          "id": "a84f917d5785406880f26e12e09bd05c",
+          "at": 1792503198,
+          "item": null
+        },
+        {
+          "id": "d9de053513b443fa90cd0339470e5e16",
+          "at": 1792503559,
+          "item": null
+        },
+        {
+          "id": "812772ece3004fb3a96bee573b097337",
+          "at": 1792510221,
+          "item": null
+        },
+        {
+          "id": "d75ef542191a453f96a7b750963ddc82",
+          "at": 1792510647,
+          "item": "copper"
+        },
+        {
+          "id": "e94c95271f144163a93db65d843997cf",
+          "at": 1792511544,
+          "item": null
+        },
+        {
+          "id": "79e49974dd9c4bb2893967ce3967a828",
+          "at": 1792511714,
+          "item": null
+        },
+        {
+          "id": "49af0ce5e5fe4bc59dcf0e9a92fd56d7",
+          "at": 1792511894,
+          "item": null
+        },
+        {
+          "id": "5786d478084b445ca3c5f6e074132da7",
+          "at": 1792512412,
+          "item": null
+        }
+      ],
+      "found_total": 3
+    },
+    "name:ـعَۧـبَـsـق𝅘𝅥𝅮𝄒឵ٱࢦـچَنَّـsـۿِ": {
+      "username": "ـﻊَۧـبَـ𝓼ـق𝅘𝅥𝅮𝄒឵ٱࢦـچَنَّـ𝓼ـۿِ"
+    },
+    "name:الُـمٌـ❤دِلُـ♫◦°☆°◦♫ــوَ❤ـحُـشـش": {
+      "username": "الُـمٌـ❤دِلُـ♫◦°☆°◦♫ــوَ❤ـحُـشـش",
+      "inventory": {
+        "copper": 0,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792513561.1414113,
+      "mines_count": 3,
+      "mine_history": [
+        {
+          "id": "1c4b4e50455a488493ef13b1130bf51f",
+          "at": 1792483526,
+          "item": null
+        },
+        {
+          "id": "fe5ee91645944f10862369faa6b3dacd",
+          "at": 1792489768,
+          "item": null
+        },
+        {
+          "id": "5533f53c12d24b82a2b7f3a1ad7438df",
+          "at": 1792513561,
+          "item": null
+        }
+      ]
+    },
+    "name:تٌـٌـمـنـ✿ــٌـٌيـتـٌْٰٰٰٰهَہ♥️𑁍𝆬⃝": {
+      "username": "تٌـٌـمـنـ✿ــٌـٌيـتـٌْٰٰٰٰهَہ♥️𑁍𝆬⃝",
+      "inventory": {
+        "copper": 4,
+        "iron": 2,
+        "ruby": 3,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515576.5466855,
+      "mines_count": 22,
+      "found_total": 9,
+      "mine_history": [
+        {
+          "id": "537c5dc6e0f849e6a27a8c3a531c5494",
+          "at": 1792483892,
+          "item": "ruby"
+        },
+        {
+          "id": "2c3448e0d2ff492f8c75cfd9e07c1143",
+          "at": 1792484043,
+          "item": null
+        },
+        {
+          "id": "d72badf52cde4d47b9a5bb407fb94b25",
+          "at": 1792484115,
+          "item": null
+        },
+        {
+          "id": "ebb953457dcc4fec98a1174b5cb6e4a0",
+          "at": 1792484677,
+          "item": "copper"
+        },
+        {
+          "id": "c21a9ebf6f424459b6f950a96747a435",
+          "at": 1792484894,
+          "item": "ruby"
+        },
+        {
+          "id": "506caeb37f484c029d81cf9de1887355",
+          "at": 1792487209,
+          "item": null
+        },
+        {
+          "id": "d5b0ad56fbf4415ea7a0888e469b1efb",
+          "at": 1792500073,
+          "item": "copper"
+        },
+        {
+          "id": "1fe3278dad6f477b96b8c65b4f0b7749",
+          "at": 1792500293,
+          "item": "copper"
+        },
+        {
+          "id": "d4ebc301da964871b3a0be837f4ef76d",
+          "at": 1792501469,
+          "item": null
+        },
+        {
+          "id": "8d59c0d8ee7542128aea5c9722c3875c",
+          "at": 1792503180,
+          "item": "iron"
+        },
+        {
+          "id": "200cc9068c8047b6b74e954dee4512c7",
+          "at": 1792503289,
+          "item": null
+        },
+        {
+          "id": "6a7bcaf9525543deaaf97babc7a34eef",
+          "at": 1792503367,
+          "item": null
+        },
+        {
+          "id": "65a92b0886644a89bd0d064ec8daf683",
+          "at": 1792503658,
+          "item": null
+        },
+        {
+          "id": "c92dd4368b1346efa275d0d22d29fae9",
+          "at": 1792503833,
+          "item": "ruby"
+        },
+        {
+          "id": "28d4412444f7480a8521025d9518d6e8",
+          "at": 1792504730,
+          "item": null
+        },
+        {
+          "id": "fd4481b08ad34e3b97695bef63c50f67",
+          "at": 1792506041,
+          "item": "iron"
+        },
+        {
+          "id": "8f7a61cff4d44335981ae9d66ad3e695",
+          "at": 1792513171,
+          "item": null
+        },
+        {
+          "id": "75fa42167d544cebba78a37410dd3982",
+          "at": 1792513531,
+          "item": null
+        },
+        {
+          "id": "fa3620f257e749838c0dd96c880e65e4",
+          "at": 1792513749,
+          "item": null
+        },
+        {
+          "id": "2ff3dd0d3c584877bd1f4b013ae2ce13",
+          "at": 1792513882,
+          "item": null
+        },
+        {
+          "id": "737239ffe0194bce909f50ad67022e96",
+          "at": 1792514502,
+          "item": "copper"
+        },
+        {
+          "id": "43a07d76563e423ea4d9cdf221879e46",
+          "at": 1792515576,
+          "item": null
+        }
+      ]
+    },
+    "name:ڪيدۿـآ𝇄فِـيـ𝆬ے𝇅عينـٰاۿآ𝁤𝅾𔘓": {
+      "username": "ڪيدۿـآ𝇄فِـيـ𝆬ﮯ𝇅عينـٰاۿآ𝁤𝅾𔘓",
+      "inventory": {
+        "copper": 1,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792498039.7203045,
+      "mines_count": 3,
+      "found_total": 1,
+      "mine_history": [
+        {
+          "id": "d508e812074043a68c962ace05ce2135",
+          "at": 1792485285,
+          "item": "copper"
+        },
+        {
+          "id": "e476511d66444d9badbb3e6e782051b1",
+          "at": 1792486175,
+          "item": null
+        },
+        {
+          "id": "ec68f1603ded4fcfbdc92dc9d0f6df29",
+          "at": 1792498039,
+          "item": null
+        }
+      ]
+    },
+    "name:التيفاحه": {
+      "username": "التيفاحه",
+      "inventory": {
+        "copper": 24,
+        "iron": 6,
+        "ruby": 6,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515555.995436,
+      "mines_count": 79,
+      "found_total": 36,
+      "mine_history": [
+        {
+          "id": "adf630a174584e0d8ee0767233dd98c3",
+          "at": 1792494001,
+          "item": "ruby"
+        },
+        {
+          "id": "fc13f86aa72146b5afc3fccbfaa3818e",
+          "at": 1792494125,
+          "item": "ruby"
+        },
+        {
+          "id": "691977f9b30d42abafc0463d8d6ca291",
+          "at": 1792494266,
+          "item": null
+        },
+        {
+          "id": "1b6894ea1019477ca823bb41f675e301",
+          "at": 1792494333,
+          "item": null
+        },
+        {
+          "id": "39ac06cee3474a0695653413b71d176b",
+          "at": 1792494448,
+          "item": null
+        },
+        {
+          "id": "35c22571a0ea4141b35b5abc7e36bc23",
+          "at": 1792494514,
+          "item": null
+        },
+        {
+          "id": "cece19056f52435ba44d980e8a6a4a0e",
+          "at": 1792494619,
+          "item": null
+        },
+        {
+          "id": "53a7bd87e0cd4869a94faac2476739d0",
+          "at": 1792494699,
+          "item": null
+        },
+        {
+          "id": "aaf593641f6847fba7d360bc23227687",
+          "at": 1792494808,
+          "item": null
+        },
+        {
+          "id": "0627440ca86544d7b994cdfd02c23ce6",
+          "at": 1792494936,
+          "item": "copper"
+        },
+        {
+          "id": "40a3635538644a73aa9326a46134b972",
+          "at": 1792495008,
+          "item": "copper"
+        },
+        {
+          "id": "7d3f876e120a4b7c8083e327d16cf6af",
+          "at": 1792495078,
+          "item": null
+        },
+        {
+          "id": "a822957c260c40eb829e689439a69eca",
+          "at": 1792495287,
+          "item": "ruby"
+        },
+        {
+          "id": "036ba02129644d678b1574ecef68b5fd",
+          "at": 1792502717,
+          "item": "iron"
+        },
+        {
+          "id": "d601b70f088444cda08dbc631d6134b5",
+          "at": 1792502796,
+          "item": "ruby"
+        },
+        {
+          "id": "a8c5a88286f74153aa55708a4f843ad1",
+          "at": 1792502876,
+          "item": null
+        },
+        {
+          "id": "0fb8fe1dfef64c3f89ae0e329380d84f",
+          "at": 1792502976,
+          "item": null
+        },
+        {
+          "id": "972fb8e0755a4367a559ce43dd05d293",
+          "at": 1792503148,
+          "item": "copper"
+        },
+        {
+          "id": "348b34dcc4d2448181576c3efabe3e4c",
+          "at": 1792503216,
+          "item": "iron"
+        },
+        {
+          "id": "762c8ac8c32c4f6c8f4e4c1414e97178",
+          "at": 1792503280,
+          "item": "copper"
+        },
+        {
+          "id": "17b05b7fd1ed45ed81e30e78ddc57e6b",
+          "at": 1792503363,
+          "item": null
+        },
+        {
+          "id": "705d8a7cb83c498892a5159c9d254814",
+          "at": 1792503440,
+          "item": null
+        },
+        {
+          "id": "1f1b518bbc0b4b7ea449914a3b39e126",
+          "at": 1792503545,
+          "item": "copper"
+        },
+        {
+          "id": "f47fb44fc8264635956dffb092feb66b",
+          "at": 1792503663,
+          "item": null
+        },
+        {
+          "id": "ff6a36dc4b1c480a8af683f498942c5d",
+          "at": 1792503823,
+          "item": null
+        },
+        {
+          "id": "2ac1456440344a24a2f28b6a3eb4488f",
+          "at": 1792504440,
+          "item": "ruby"
+        },
+        {
+          "id": "7b1d52a51fc047678f260dc853d4b6a2",
+          "at": 1792504556,
+          "item": "copper"
+        },
+        {
+          "id": "21c75a7dc4624904898ff10734ae63a7",
+          "at": 1792504654,
+          "item": "copper"
+        },
+        {
+          "id": "ae7241f80841405caeb58e87831db59b",
+          "at": 1792504877,
+          "item": null
+        },
+        {
+          "id": "074a5c047fd74497bc1e88cc9d4e7b6e",
+          "at": 1792505026,
+          "item": null
+        },
+        {
+          "id": "5431d745f90940aeb7bfb5349a28c368",
+          "at": 1792505101,
+          "item": "copper"
+        },
+        {
+          "id": "5b20dc529bef4f8684c4c0c3d6204435",
+          "at": 1792505623,
+          "item": null
+        },
+        {
+          "id": "af079709708c4658940c30433b02c895",
+          "at": 1792505698,
+          "item": null
+        },
+        {
+          "id": "07a28d60aad74725b546f0e2358aff1e",
+          "at": 1792505778,
+          "item": "copper"
+        },
+        {
+          "id": "21fa643ec88e44e984f96d8b0a782c6a",
+          "at": 1792505960,
+          "item": null
+        },
+        {
+          "id": "8292705be878422e989341a4c26adb1f",
+          "at": 1792506316,
+          "item": "ruby"
+        },
+        {
+          "id": "527320d6b72a43969051df0ba23e643c",
+          "at": 1792506402,
+          "item": null
+        },
+        {
+          "id": "b5d81657d75348f1a9aee7e022550e02",
+          "at": 1792507260,
+          "item": null
+        },
+        {
+          "id": "2bb07404797d47838ab0bcda83ca94fa",
+          "at": 1792508359,
+          "item": null
+        },
+        {
+          "id": "81f8dcd1758c4ae8a2f7525772f5ed95",
+          "at": 1792508419,
+          "item": null
+        },
+        {
+          "id": "4af5c12840f540f2bf2db763b51ad4f6",
+          "at": 1792508758,
+          "item": "copper"
+        },
+        {
+          "id": "8d526d1635c449e2a6746b56efac799d",
+          "at": 1792508864,
+          "item": "copper"
+        },
+        {
+          "id": "ea3cc01bfed04e6786f368fc65cc4c9a",
+          "at": 1792509044,
+          "item": "iron"
+        },
+        {
+          "id": "95e7d87a5cc24579ad1a893836ae2be3",
+          "at": 1792509190,
+          "item": "copper"
+        },
+        {
+          "id": "4fee8191a9934beab1e7b1367c9557b1",
+          "at": 1792509692,
+          "item": null
+        },
+        {
+          "id": "3026a22daf56408982dc870d4aab64df",
+          "at": 1792511641,
+          "item": "copper"
+        },
+        {
+          "id": "450fe8caa1e946bebc2b084f158c8d7a",
+          "at": 1792511885,
+          "item": "copper"
+        },
+        {
+          "id": "c792b89df6324e95abf0cb2c6bc79864",
+          "at": 1792512223,
+          "item": null
+        },
+        {
+          "id": "6bc7c92496994a1b885aa058ed80fbaf",
+          "at": 1792514438,
+          "item": null
+        },
+        {
+          "id": "17162ea410774c42956c07bae52f0d1d",
+          "at": 1792515555,
+          "item": null
+        }
+      ]
+    },
+    "name:مـخـفـي🥷": {
+      "username": "مـخـفـي🥷",
+      "inventory": {
+        "copper": 3,
+        "iron": 2,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792514644.852043,
+      "mines_count": 13,
+      "mine_history": [
+        {
+          "id": "42115b4cd6a64736b20f6c7f1729d7e0",
+          "at": 1792487740,
+          "item": null
+        },
+        {
+          "id": "9976ba59ca584282be9d0119f40eac42",
+          "at": 1792488914,
+          "item": "copper"
+        },
+        {
+          "id": "112b2e0935f6470489c508c53c1e3d44",
+          "at": 1792489920,
+          "item": null
+        },
+        {
+          "id": "cffb00cb4c1f4122976355aeb31429fd",
+          "at": 1792502859,
+          "item": "iron"
+        },
+        {
+          "id": "5487cedef2da489e96641d7ecd6de6e8",
+          "at": 1792504308,
+          "item": null
+        },
+        {
+          "id": "1c1d8bff8a39406ab3f9e51264e3319f",
+          "at": 1792505896,
+          "item": null
+        },
+        {
+          "id": "83623aa6c49e495693691f25aed5a79d",
+          "at": 1792511972,
+          "item": "iron"
+        },
+        {
+          "id": "f50b2445a8bf40a0b9151cac4f67ce3d",
+          "at": 1792512517,
+          "item": null
+        },
+        {
+          "id": "5410400a775d4b0fa3c5958204dcf6a7",
+          "at": 1792512815,
+          "item": null
+        },
+        {
+          "id": "067a481b5a694c6aaccd7a7639315a66",
+          "at": 1792512997,
+          "item": null
+        },
+        {
+          "id": "e93ba2eafbf940da954794f5c616a522",
+          "at": 1792513165,
+          "item": "copper"
+        },
+        {
+          "id": "a8592ef4afa14dec8fc99f7becac1946",
+          "at": 1792514333,
+          "item": "copper"
+        },
+        {
+          "id": "3aff26b3b7084abbbe0d79224c463042",
+          "at": 1792514644,
+          "item": null
+        }
+      ],
+      "found_total": 5
+    },
+    "name:👸឵឵": {
+      "username": "👸឵឵",
+      "inventory": {
+        "copper": 1,
+        "iron": 0,
+        "ruby": 1,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792488874.82173,
+      "mines_count": 4,
+      "mine_history": [
+        {
+          "id": "856c73c7956c4f04be5882993be0cc7f",
+          "at": 1792488296,
+          "item": null
+        },
+        {
+          "id": "4b931eaa5f844feb8c7093f296819e98",
+          "at": 1792488374,
+          "item": "copper"
+        },
+        {
+          "id": "621795275cbf4b9fa1a555896bae3559",
+          "at": 1792488802,
+          "item": "ruby"
+        },
+        {
+          "id": "14780a9650be4f8496dc14fca968f738",
+          "at": 1792488874,
+          "item": null
+        }
+      ],
+      "found_total": 2
+    },
+    "name:i_gamd_i": {
+      "username": "i_gamd_i",
+      "inventory": {
+        "copper": 0,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 1,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792489976.3245218,
+      "mines_count": 1,
+      "found_total": 1,
+      "diamonds_found": 1,
+      "mine_history": [
+        {
+          "id": "2e82f54f9b384f789c209b6b2cdf4623",
+          "at": 1792489976,
+          "item": "diamond_blue"
+        }
+      ]
+    },
+    "name:7alabiaa": {
+      "username": "7alabiaa",
+      "inventory": {
+        "copper": 0,
+        "iron": 0,
+        "ruby": 1,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792494741.9721649,
+      "mines_count": 1,
+      "found_total": 1,
+      "mine_history": [
+        {
+          "id": "5454e6e3e8e840558399ddcaf04480fa",
+          "at": 1792494741,
+          "item": "ruby"
+        }
+      ]
+    },
+    "name:💎⃝ִֶָ.𓂃رّيّہمّہاِسّہهّہִֶָ࣪🦋་༘࿐": {
+      "username": "💎⃝ִֶָ.𓂃رّيّہمّہاِسّہهّہִֶָ࣪🦋་༘࿐",
+      "inventory": {
+        "copper": 3,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515376.4321926,
+      "mines_count": 6,
+      "found_total": 3,
+      "mine_history": [
+        {
+          "id": "234329946042407ea8fe7177a2d9fe7e",
+          "at": 1792498203,
+          "item": "copper"
+        },
+        {
+          "id": "a6b6eadfc0f3495594fec8dc1cbb31e1",
+          "at": 1792498274,
+          "item": null
+        },
+        {
+          "id": "9e1e3f651b2548338cabc6764b60918a",
+          "at": 1792504691,
+          "item": "copper"
+        },
+        {
+          "id": "dd250866ff0a4338b693ecb41e3a43a2",
+          "at": 1792515107,
+          "item": null
+        },
+        {
+          "id": "35adba989c3f49658e1bd4ba6ac7336f",
+          "at": 1792515237,
+          "item": "copper"
+        },
+        {
+          "id": "3566e6ac798940c6ba55cf63f00a0fc7",
+          "at": 1792515376,
+          "item": null
+        }
+      ]
+    },
+    "name:سَمبُوسَايَہٰۦ𖹭ۦ": {
+      "username": "سَمبُوسَايَہٰۦ𖹭ۦ",
+      "inventory": {
+        "copper": 6,
+        "iron": 2,
+        "ruby": 1,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515382.601156,
+      "mines_count": 11,
+      "found_total": 9,
+      "mine_history": [
+        {
+          "id": "124c70a6b2cd43f7ba1eb16321a46faa",
+          "at": 1792498230,
+          "item": "copper"
+        },
+        {
+          "id": "b68f5addf03e4f5a804e8a333c6da958",
+          "at": 1792498816,
+          "item": "iron"
+        },
+        {
+          "id": "6d14c2ce96a14625bba9129f00f00b8c",
+          "at": 1792498928,
+          "item": "copper"
+        },
+        {
+          "id": "7dd9513e239f4783bb21124ff3db7d86",
+          "at": 1792499339,
+          "item": "iron"
+        },
+        {
+          "id": "a62f9cca29ec4b889cf6e9cf92849163",
+          "at": 1792499975,
+          "item": "copper"
+        },
+        {
+          "id": "9645b0bcf651444eb292ac3ed1ae3bef",
+          "at": 1792502255,
+          "item": "copper"
+        },
+        {
+          "id": "4deaa76c26b54348bd80170545fac5ce",
+          "at": 1792504136,
+          "item": "copper"
+        },
+        {
+          "id": "65d94fff71de478b90d740f2c5db9696",
+          "at": 1792504301,
+          "item": "ruby"
+        },
+        {
+          "id": "bfd8894573cf4e1096eabdda1575fae2",
+          "at": 1792504683,
+          "item": null
+        },
+        {
+          "id": "2bd9843506a843c09231b5e1c5a0a3ad",
+          "at": 1792515099,
+          "item": null
+        },
+        {
+          "id": "6b0f9965e603445eac6d0feaa7cca311",
+          "at": 1792515382,
+          "item": "copper"
+        }
+      ]
+    },
+    "name:غرو♡انثي♡ور": {
+      "username": "غرو♡انثي♡ور",
+      "inventory": {
+        "copper": 2,
+        "iron": 1,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792515723.761299,
+      "mines_count": 3,
+      "found_total": 3,
+      "mine_history": [
+        {
+          "id": "14ec5b991d5c43ad97e57dc78ce8619f",
+          "at": 1792501169,
+          "item": "copper"
+        },
+        {
+          "id": "12d2a75fa5ee4340bb9daefc4df3ce3d",
+          "at": 1792506310,
+          "item": "iron"
+        },
+        {
+          "id": "acf3668752a14be389e17b49b26ce05a",
+          "at": 1792515723,
+          "item": "copper"
+        }
+      ]
+    },
+    "name:˹𔘓°lуlу𝆟˼": {
+      "username": "˹𔘓°ℓуℓу𝆟˼",
+      "inventory": {
+        "copper": 10,
+        "iron": 5,
+        "ruby": 2,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792514930.8045516,
+      "mines_count": 38,
+      "mine_history": [
+        {
+          "id": "5686ce69aaea409d8b09cd17267f23b0",
+          "at": 1792501171,
+          "item": null
+        },
+        {
+          "id": "f24662d9ca3f4ab1befd280df757d037",
+          "at": 1792501324,
+          "item": null
+        },
+        {
+          "id": "5bdbdad338104608b81e2092f1649d40",
+          "at": 1792501459,
+          "item": "copper"
+        },
+        {
+          "id": "c6260ccf0c59416b8e529f1552efe65a",
+          "at": 1792501649,
+          "item": "copper"
+        },
+        {
+          "id": "0fd8e646e10541c79766b2a62c118b68",
+          "at": 1792502034,
+          "item": "copper"
+        },
+        {
+          "id": "1a58b68f173e4b5895d5f9ac06ccf9a8",
+          "at": 1792502178,
+          "item": null
+        },
+        {
+          "id": "01e94e9abd744070adc0f616a7245faf",
+          "at": 1792502489,
+          "item": null
+        },
+        {
+          "id": "6cc4a84aa9ae41e991fdad41da948b84",
+          "at": 1792502716,
+          "item": "ruby"
+        },
+        {
+          "id": "946954927a7b4c2bb6aa64a97bbc2744",
+          "at": 1792502839,
+          "item": null
+        },
+        {
+          "id": "fdb9d8c47e714179aec6a0a38ab11def",
+          "at": 1792503110,
+          "item": null
+        },
+        {
+          "id": "05ef8088892d4464ba256a3db882a5ed",
+          "at": 1792503452,
+          "item": null
+        },
+        {
+          "id": "0f66cfd0e3f2435b9a367d514cfe90ca",
+          "at": 1792503599,
+          "item": "iron"
+        },
+        {
+          "id": "f79286d4206e4110896add35485a0155",
+          "at": 1792504314,
+          "item": null
+        },
+        {
+          "id": "fcc997a17b574d70a62b3982590f5e47",
+          "at": 1792504550,
+          "item": null
+        },
+        {
+          "id": "894bf2462cb649c49af2f3774b52af61",
+          "at": 1792504728,
+          "item": "copper"
+        },
+        {
+          "id": "3366cc480d6b4b4f820685223ae29daf",
+          "at": 1792504878,
+          "item": "iron"
+        },
+        {
+          "id": "a88a8fc765834fcf959b2d1e9b8ffe1b",
+          "at": 1792505112,
+          "item": null
+        },
+        {
+          "id": "69ae196252154ec6b5db0a384cd17c5b",
+          "at": 1792505715,
+          "item": "copper"
+        },
+        {
+          "id": "02d890642aff413c969899698631b9d5",
+          "at": 1792506002,
+          "item": "copper"
+        },
+        {
+          "id": "e2ba2488bb1347e4b6595c77b6343b5c",
+          "at": 1792506794,
+          "item": "ruby"
+        },
+        {
+          "id": "098b130d8169446ca6342f0ddc358525",
+          "at": 1792507325,
+          "item": "iron"
+        },
+        {
+          "id": "ab084af18e6544d5811660d04a65549b",
+          "at": 1792508756,
+          "item": "copper"
+        },
+        {
+          "id": "1ba9025ba9f843d99817c4962673569d",
+          "at": 1792508870,
+          "item": null
+        },
+        {
+          "id": "0d5cd7a8deae4143bb22a2456734d4ff",
+          "at": 1792509056,
+          "item": null
+        },
+        {
+          "id": "004aefdb5e2347d09b155b554251fe43",
+          "at": 1792509896,
+          "item": "copper"
+        },
+        {
+          "id": "cb52f9481f0e440297d912fa33c1449a",
+          "at": 1792510536,
+          "item": "iron"
+        },
+        {
+          "id": "aca99daaa40f472392a384a5ad64ce39",
+          "at": 1792510923,
+          "item": null
+        },
+        {
+          "id": "fd8211e26b0749b0872bf099850e7a2b",
+          "at": 1792511037,
+          "item": null
+        },
+        {
+          "id": "c438374df3724d6fa28f39676748adf2",
+          "at": 1792511251,
+          "item": null
+        },
+        {
+          "id": "23a6103808ac4f4bac49345103591114",
+          "at": 1792511431,
+          "item": "iron"
+        },
+        {
+          "id": "1049900548a345989b7c9d766dc8dcab",
+          "at": 1792511887,
+          "item": null
+        },
+        {
+          "id": "a45a926f2ed14613a9e92cd8a71990a8",
+          "at": 1792512118,
+          "item": "copper"
+        },
+        {
+          "id": "ccc185cdbfd94168a7cc4f197ab1a353",
+          "at": 1792513256,
+          "item": null
+        },
+        {
+          "id": "014c0863327d4799a4a39b8097d239ee",
+          "at": 1792514102,
+          "item": "copper"
+        },
+        {
+          "id": "04c56cb6a11442bb910df54ff0ffbab1",
+          "at": 1792514212,
+          "item": null
+        },
+        {
+          "id": "007df1698f8641f1b1da4439598c27e3",
+          "at": 1792514584,
+          "item": null
+        },
+        {
+          "id": "7b512a76f11948d39cde1d3c8145c8bf",
+          "at": 1792514684,
+          "item": null
+        },
+        {
+          "id": "6e60015c0d0a4eedbe07c38a43994cfd",
+          "at": 1792514930,
+          "item": null
+        }
+      ],
+      "found_total": 17
+    },
+    "name:◌͜͡✿wow": {
+      "username": "◌͜͡✿𝒘𝒐𝒘",
+      "inventory": {
+        "copper": 3,
+        "iron": 0,
+        "ruby": 0,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792510837.295194,
+      "mines_count": 4,
+      "found_total": 3,
+      "mine_history": [
+        {
+          "id": "c225dc2c15c94985bf878d87b09a6249",
+          "at": 1792510174,
+          "item": "copper"
+        },
+        {
+          "id": "d3517323f86c4bb8be691cf710437dd8",
+          "at": 1792510326,
+          "item": null
+        },
+        {
+          "id": "43da0cf56fe84949a88785819745b369",
+          "at": 1792510604,
+          "item": "copper"
+        },
+        {
+          "id": "43cc3a86268141a89772bbf335d6589b",
+          "at": 1792510837,
+          "item": "copper"
+        }
+      ]
+    },
+    "name:ضؘؔحڪָ֪تِـִׄي𑱄⭒د֢ۆٱ⭒𑱄ࢦݪـمۡـبتؘؔـָ֢لـִׄي༤ֶָ༡": {
+      "username": "ضؘؔحڪָ֪تِـִׄﻲ𑱄⭒د֢ﯙﭐ⭒𑱄ࢦݪـﻣۡـبتؘؔـָ֢لـִׄﻲ༤ֶָ༡",
+      "inventory": {
+        "copper": 0,
+        "iron": 0,
+        "ruby": 1,
+        "diamond_clear": 0,
+        "diamond_blue": 0,
+        "diamond_purple": 0,
+        "diamond_red": 0,
+        "diamond_black": 0,
+        "diamond_royal": 0
+      },
+      "last_mine_at": 1792513515.9168775,
+      "mines_count": 1,
+      "found_total": 1,
+      "mine_history": [
+        {
+          "id": "8f94948416e94a5897e3f259785accee",
+          "at": 1792513515,
+          "item": "ruby"
+        }
+      ]
+    }
+  },
+  "diamond_schedule": {
+    "cycle_end": 1792535154.7115924,
+    "times": [
+      1792517244.8814924,
+      1792526905.3316057,
+      1792529467.1301253,
+      1792531997.6485255
+    ]
+  },
+  "test_diamond_index": 3
+}

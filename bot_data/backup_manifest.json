@@ -1,1 +1,178 @@
-
+{
+  "version": 1,
+  "generated_at": 1792509669,
+  "files": {
+    "blocked_rooms.json": {
+      "sha256": "10f733765653bec63ce91fb983c8e82f19d9669bfd268baa82dfa3b6ae5b779c",
+      "bytes": 843
+    },
+    "bot_bans.json": {
+      "sha256": "8b0f87ceb47965ff00ebe88681ab11c4fa3e0dbee5553eec5d321474d0d48991",
+      "bytes": 294
+    },
+    "cricket_state.json": {
+      "sha256": "421f9021adde4e97580fcd58072ce9cb88b474988b094cbe8963a14aeb5d4719",
+      "bytes": 146583
+    },
+    "crop_plots.json": {
+      "sha256": "6a31e7bd29e4bfda5ca36c8278a755b8b33c4e37d10a388cc147e905cfa4cf8f",
+      "bytes": 5381
+    },
+    "custom_welcomes.json": {
+      "sha256": "66140ae2f0100d7fc6b7b5f46ec1d3a9f9fc40248ad276be23104a81173b711c",
+      "bytes": 83129
+    },
+    "departure_replies.json": {
+      "sha256": "1724b56280f5657612cf71cbda586daf2f59f9a6fa1627910920c8b66de078a9",
+      "bytes": 48
+    },
+    "dragon_hunters.json": {
+      "sha256": "dbadf4a383d8be3b1f849635611d9f1f1b989457e9b3eb3fa1daaf7896c498d0",
+      "bytes": 20131
+    },
+    "filter_bans.json": {
+      "sha256": "8d743078bbccc069a460b63313dd1f8eec10f21ca2db4023e13de6131c6a3ff4",
+      "bytes": 116169
+    },
+    "filter_exceptions.json": {
+      "sha256": "c44d3b91a4a6a338d66a801409f7d48d53bac8998ab16acf1250a79a24a8dd95",
+      "bytes": 163
+    },
+    "game_control.json": {
+      "sha256": "84e8129a97f8f207ef4b127794fd560932f859feac9fa3a56f23fd565d39d017",
+      "bytes": 52
+    },
+    "game_levels.duplicates-backup.json": {
+      "sha256": "204c71ab8582ce22bbc4f85f24cc5112988aae51a855235c6fbfd2fd7e0f4b4e",
+      "bytes": 96940
+    },
+    "game_levels.json": {
+      "sha256": "208f2f86e3fdc5cc47ec35c87b05354964d947ae52fe47345cbeef467a7e2ef9",
+      "bytes": 88408
+    },
+    "game_stats.duplicates-backup.json": {
+      "sha256": "d5a891d4b367ef80528477bf19bfd4b304d7335d98de4ec1dfb97e23f2083155",
+      "bytes": 143988
+    },
+    "game_stats.json": {
+      "sha256": "2eee0e45e806dd9c0972abe6ef4033b87c1878edd71da12318d39d1a13971a5e",
+      "bytes": 355106
+    },
+    "last_action.json": {
+      "sha256": "03ebf91a182710760192d0a5280ca0d77a6a0ef86327c17410322511e81b1d1c",
+      "bytes": 175
+    },
+    "last_admin_action.json": {
+      "sha256": "81d532667ad571060374f4ae1967e0352b0622340683317637ca7cc84c1d2b97",
+      "bytes": 220
+    },
+    "masters.json": {
+      "sha256": "951e994aaa2394925fa358527507d918abc04b553027db5c16d2fd80715a826f",
+      "bytes": 728
+    },
+    "media_stats.json": {
+      "sha256": "552e43919111199e3015632118e01e95c8a60c6e6661930846def19a6486ef8f",
+      "bytes": 255
+    },
+    "messages.json": {
+      "sha256": "3f25a47e35a881dcbc007a8ca0b2597a2e3b1ae84401bfb35527d993825e41c8",
+      "bytes": 5993
+    },
+    "mf.json": {
+      "sha256": "dfd2bfcd1216286a8480cc1eba3fb101c18bd23dc94b1bfdbcc04d07cd8179a0",
+      "bytes": 4791
+    },
+    "mining_game.json": {
+      "sha256": "2f2114372ff93be5c145a03dbb94f410ea08846c88effaa49a783a82536476fe",
+      "bytes": 105699
+    },
+    "moderation.json": {
+      "sha256": "707331dae21a68c9c5e28dc752e06df1e0523d6b20b1936f7f2b59b4df536424",
+      "bytes": 4918
+    },
+    "money_game_settings.json": {
+      "sha256": "87db6a4ae71e1737c1d93884d21ffacecde9f132b361ef6f3e45ac910a85544a",
+      "bytes": 42
+    },
+    "money_game_win_state.json": {
+      "sha256": "756f492d18c5c6f162b1cd79a14f34529335a5cfdf1c11eed622fbba08b977f8",
+      "bytes": 264
+    },
+    "money_game_winners.json": {
+      "sha256": "3cbd95fa10deb04bcfe9bfe5ee76902c809aa8a9bcfd580f1627ffdf027cace1",
+      "bytes": 154536
+    },
+    "mvip_masters.json": {
+      "sha256": "603e917884d09cb9eedd53b6ae209dc841e0c4cfae97fffc0ed41142b2c6bc90",
+      "bytes": 775
+    },
+    "payroll.json": {
+      "sha256": "230ac448c07565aea2e1432ce76922b29cd937f4c27466873e7e1647fb148ded",
+      "bytes": 6173
+    },
+    "points.json": {
+      "sha256": "7b6fc7d5b4a198c0a4a03b1a9d405aa5dbedbd9ff2e8cf91dd3a6e5e1822beab",
+      "bytes": 511305
+    },
+    "publish_bans.json": {
+      "sha256": "937c5b6d68efd7d20ee96fb0f613496044e7c91decb07cfe84213b496b0d5206",
+      "bytes": 635
+    },
+    "published_posts.json": {
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "bytes": 3
+    },
+    "replies.json": {
+      "sha256": "ea6c8cc0a270572a085324640c161f1edf0952e20153ff4b0fe324add5cb49fa",
+      "bytes": 13061
+    },
+    "room_creators.json": {
+      "sha256": "209fc25d747d2a65e5e7e9ca7d6049c7e22d8b99d850a3876f0c094f9906c572",
+      "bytes": 207
+    },
+    "room_languages.json": {
+      "sha256": "fa7c844c301f347103ccdce62df14302a5d4e7a87ac007f4d38b6c4af59ed883",
+      "bytes": 2507
+    },
+    "room_protection.json": {
+      "sha256": "eb57ab44a2d153e00719d76a3ebb912c5ae0fe136422f78af0e4f5a05afa8759",
+      "bytes": 1324
+    },
+    "room_users.json": {
+      "sha256": "7c39c659dc9b3216d87ef23a20e0bd74bc6e943722c99763fecf37e14edd25b1",
+      "bytes": 395375
+    },
+    "shop_data.json": {
+      "sha256": "acf1f07a75cc9ab2dd07eedee8648477546ef897e38d5e3a4cdcf0427b5545d8",
+      "bytes": 279
+    },
+    "stock_market_history.json": {
+      "sha256": "91919a124038c35ce8b45a661c8c7aed6372b19f96885c706b52b4f58529cf08",
+      "bytes": 1056407
+    },
+    "stock_market_investments.json": {
+      "sha256": "1b5e469fa586b1f8a16dc61696b2639d224b9e99c260bf422da133f97b095175",
+      "bytes": 996
+    },
+    "telegram_chat_id.json": {
+      "sha256": "32d6fae4cbfb8e5a2d9606f23db429222b91994a76d41fb1c0ef6ed1fb88525e",
+      "bytes": 67
+    },
+    "tracked_rooms.json": {
+      "sha256": "ec1aff21ba8188d323bab884307e6a2b2cc0411aec5efc1c2aebcd21dba0e110",
+      "bytes": 910
+    },
+    "verified_users.json": {
+      "sha256": "60674e29e688003f0f2147214247e049f7a8371053c4a5feb04fe47bf52458bf",
+      "bytes": 287581
+    },
+    "vip_users.json": {
+      "sha256": "3607df6bfc1b5dc46a828adad5214870f03e3e20839673833656cf47744765f9",
+      "bytes": 95363
+    },
+    "wager_state.json": {
+      "sha256": "c96c64ff050cc289a516e56b97c1bde4f759c655c03a804dd71bab462b137122",
+      "bytes": 23
+    }
+  }
+}

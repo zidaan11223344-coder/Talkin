@@ -1,0 +1,3463 @@
+{
+  "version": 1,
+  "players": {
+    "اݪۿيبۃ": {
+      "username": "∫♚∫اݪـــۛــ⃮ـۿــ𓏺𓏺ـيّـــّٰـبــۃ∫♚∫",
+      "level": 6,
+      "label": "ذهبي",
+      "plays": 2917,
+      "star_rank": null
+    },
+    "سمبوسايہۦ𖹭ۦ": {
+      "username": "سَمبُوسَايَہٰۦ𖹭ۦ",
+      "level": 6,
+      "label": "ذهبي",
+      "plays": 2549,
+      "star_rank": null
+    },
+    "ملڪۿۿہ": {
+      "username": "مٰۛــلُْـڪـٰۿۿہ.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 14,
+      "star_rank": null
+    },
+    "gawharaaljana": {
+      "username": "gawhara-aljana",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 841,
+      "star_rank": null
+    },
+    "ࢪيم": {
+      "username": "ࢪيــــــــــ፝֯֟͢ــــــــــم",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 63,
+      "star_rank": null
+    },
+    "الساحر": {
+      "username": ".•°♢السـ✬ـا☠حـ✬ــر♢°•.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 108,
+      "star_rank": null
+    },
+    "مشاعربارڊه": {
+      "username": "مـْـْْـْشُـُـُُـُاعٌـِـِِـِـر♤بـٌـٌٌـٌٌٌـٌٌـٌارڊه",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 99,
+      "star_rank": null
+    },
+    "ۦتۄٿʾ": {
+      "username": "ۦتـ🦋ـۄِٰﭢ𓂃᥀ʾ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "alsfeer": {
+      "username": "al-sfeer",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 24,
+      "star_rank": null
+    },
+    "឵🌃": {
+      "username": "឵🌃",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "ᅠ": {
+      "username": "឵឵ㅤ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 252,
+      "star_rank": null
+    },
+    "moali": {
+      "username": "mo.ali",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "hoor": {
+      "username": "••𝓗𝒪𝒪𝓡••",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "تشيزڪيك": {
+      "username": "تـشــ۫يـۛـز𑁍𝅮𝃛𝃛˛ڪَެــ۫يـۛـك𝁤𝆬",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 13,
+      "star_rank": null
+    },
+    "ayaa3": {
+      "username": "𝓐𝓎𝒂𝒂⊀³",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 330,
+      "star_rank": null
+    },
+    "ࡅߺ𐬠ܭᘓɹᒪ": {
+      "username": "ࡅٜߺ𐬠ܭ.ᘓɹ̇ᒪ",
+      "level": 8,
+      "label": "خبير",
+      "plays": 3505,
+      "star_rank": 8
+    },
+    "m": {
+      "username": "⇡⁽ℳ₎⇣",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 27,
+      "star_rank": null
+    },
+    "rafi81": {
+      "username": "rafi81",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 816,
+      "star_rank": null
+    },
+    "عمږهٱڷڣږحمٱعٱڜٻڍٱڅڷيڷحضه": {
+      "username": "عُمُږهْ،ٱڷڣږـح،مُٱعُٱڜ،ٻڍٱڅڷﻲ،ڷـحضٍهْ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "آآۦۦآبۦۦوۦۦسۦۦيۦۦفۦۦآآ": {
+      "username": "آآ♔ۦ•ۦآبـۦٰـۦٰـٍوًۦ♔ۦسـۦـۦٰـيـۦـۦٰـفۦ•ۦ♔آآ",
+      "level": 17,
+      "label": "فارس الذهب",
+      "plays": 8083,
+      "star_rank": 2
+    },
+    "حمۄيهۂۉمآينݪۉيذرآعي": {
+      "username": "حـֶָؕـمـۄِٰيـᷱ᪳ـهۂ𝆕ۉمآينـݪۉﻱَِ𝆕ذرآعـᷱ᪳ـﻱَِ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 269,
+      "star_rank": null
+    },
+    "ɱ": {
+      "username": "ɱ",
+      "level": 13,
+      "label": "ذهبي محترف",
+      "plays": 6154,
+      "star_rank": 3
+    },
+    "دࢦۄعۃنفسي": {
+      "username": "دࢦـ⃮ـَٰۄِٰعـ⃮ـَٰـۃ˛឵឵឵឵𝃛𐇵𝅮˹نـ⃮ـَٰفـ⃮ـَٰسـي𝅘𝅥𝅮𝆞ִֶָ𝆞₎",
+      "level": 5,
+      "label": "فضي",
+      "plays": 2033,
+      "star_rank": null
+    },
+    "مزاجيه": {
+      "username": "مزاجيه",
+      "level": 4,
+      "label": "برونزي",
+      "plays": 1685,
+      "star_rank": null
+    },
+    "ااهادياا": {
+      "username": "اا♥☼هـــــ☼ـــادي☼♥اا",
+      "level": 9,
+      "label": "أسطورة",
+      "plays": 4110,
+      "star_rank": 4
+    },
+    "الثرياء": {
+      "username": "الثرياء",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "nickname": {
+      "username": "__________nickname__________",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 324,
+      "star_rank": null
+    },
+    "noor": {
+      "username": "𝐍𝐎𝐎𝐑",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 225,
+      "star_rank": null
+    },
+    "𖠷الۦسبۦع𖠷": {
+      "username": "•𖠷الـۦٰـسـ♚ـبـۦٰـع𖠷•",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 19,
+      "star_rank": null
+    },
+    "🔥🐆ٰ": {
+      "username": "🔥🐆ٰ",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 635,
+      "star_rank": null
+    },
+    "6fla": {
+      "username": "_6fla.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 27,
+      "star_rank": null
+    },
+    "جوليا": {
+      "username": "جوليا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 21,
+      "star_rank": null
+    },
+    "قصيۦدةݪمتجدشٱعۦرهٱ": {
+      "username": "قـﺼﻴۦـدة𝆕ݪـمۛ◗♥️◖ﺗـجـد𝆕ﺷﭑﻋـۦـﺭﻫﭑ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 90,
+      "star_rank": null
+    },
+    "رآمي": {
+      "username": "رآمـِِـِـِِـِ✮ـــ℘ـِـِِـِـِِـي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 48,
+      "star_rank": null
+    },
+    "آلليreemدي": {
+      "username": "آلَلَيّــʳᵉᵉᵐـــدُيّ⃝𓆞",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1245,
+      "star_rank": null
+    },
+    "o2": {
+      "username": "𝗢²",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 435,
+      "star_rank": null
+    },
+    "stop": {
+      "username": "s..t..o..p",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 15,
+      "star_rank": null
+    },
+    "حمودۓ": {
+      "username": "حمودـۓ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 65,
+      "star_rank": null
+    },
+    "تمنيتهہ": {
+      "username": "تٌـٌـمـنـ✿ــٌـٌيـتـٌْٰٰٰٰهَہ♥️𑁍𝆬⃝",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 911,
+      "star_rank": null
+    },
+    "zatir": {
+      "username": "zatir",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "فآرس": {
+      "username": "فــٖ፝֯֟͢͡͡͡ـ◗🦅◖ــٖ፝֯֟͢͡͡͡ـــآرس",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 39,
+      "star_rank": null
+    },
+    "farss": {
+      "username": "f.a.r.ss",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "لبنانيهہ": {
+      "username": "لبـ🇱🇧⑅⃝🕊ـنــٓانيهہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 30,
+      "star_rank": null
+    },
+    "perfecto": {
+      "username": "perfecto.",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 604,
+      "star_rank": null
+    },
+    "محمد": {
+      "username": "مٍِـحـ♛ـمٍِـد",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 30,
+      "star_rank": null
+    },
+    "d7a": {
+      "username": "ᵈ᭄♡⁷ᵃ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 27,
+      "star_rank": null
+    },
+    "فارسفخرالعرب": {
+      "username": "فارس❤فخر❤العرب",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "اابنتالريساا": {
+      "username": "اا.◦°بـ«●ـنت↨«☆»↨الريـ●»ـس°◦.اا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
+      "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 39,
+      "star_rank": null
+    },
+    "ْْ": {
+      "username": "ْْ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "الجوهره": {
+      "username": "𝄠°𝆔الجـ✨ـوهـــره𝆔°𝄠",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 352,
+      "star_rank": null
+    },
+    "basel94": {
+      "username": "basel94",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1426,
+      "star_rank": null
+    },
+    "engy": {
+      "username": "engy",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 18,
+      "star_rank": null
+    },
+    "z444": {
+      "username": "𝓩.₄₄₄",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 43,
+      "star_rank": null
+    },
+    "makzomehmade94": {
+      "username": "makzom.ehmade94",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "عمار": {
+      "username": "عـــمـــ♪ــــار",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3246,
+      "star_rank": 11
+    },
+    "aboali": {
+      "username": "aboali",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "لآيڵيقبقڵبʊآلاسم૭ڪہ": {
+      "username": "لآ•يـڵيق♪بـٓقڵبـ𓄹♡ʊ̤آلا•سـٰمُــ૭ڪہٰ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "öȷɹɹɹჺɺĩgɹlב": {
+      "username": "öȷɹํɹํɹํ᎗ჺ᎗ɺĨ.g᎗ɹํL᎗ْב",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "المدلوحشش": {
+      "username": "الُـمٌـ❤دِلُـ♫◦°☆°◦♫ــوَ❤ـحُـشـش",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 763,
+      "star_rank": null
+    },
+    "ٱلجنرآل": {
+      "username": "ـ✦ٱلجِِـِِـِِۧنـ✦ـِِ∫♠∫ـِ✦ـِِـِِۧـِِرآل✦ـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "ڊلعꗃ": {
+      "username": "❥͜͡ڊلُـِـِِـِِِـِِـِـͫـͬـ̈ـــــــــعٌ𓇢˚𝆺𝅥⃝ꗃـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 39,
+      "star_rank": null
+    },
+    "skndr": {
+      "username": "..skndr..",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 189,
+      "star_rank": null
+    },
+    "اسطورهرجللنتتكرر": {
+      "username": "اسـطوره•°رجـل∫.☆.∫لـن°•تـتـكـرر",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 23,
+      "star_rank": null
+    },
+    "فانا": {
+      "username": "فـ⃝🧚🏻ـانــ†ــا",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1340,
+      "star_rank": null
+    },
+    "اسد": {
+      "username": "اســِٰ۪ـِٰٰـِٰٰـ°•♥•°ـــِٰ۪ـِٰٰـِٰٰد",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 91,
+      "star_rank": null
+    },
+    "تامر": {
+      "username": "تـ★ـامـر",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 927,
+      "star_rank": null
+    },
+    "amertalehsas": {
+      "username": "amert_alehsas",
+      "level": 6,
+      "label": "ذهبي",
+      "plays": 2524,
+      "star_rank": null
+    },
+    "امال": {
+      "username": "امال",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 253,
+      "star_rank": null
+    },
+    "alalmi94": {
+      "username": "alalmi_94",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 38,
+      "star_rank": null
+    },
+    "ۦآلہمہلگۦ": {
+      "username": "ۦ☬.آلـٓـہۣۗــمــَ«☠»ـہـٓـلَـگ.☬ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 31,
+      "star_rank": null
+    },
+    "أإݪقيصۦࢪ": {
+      "username": "أإݪــقـ͢ـ̐ـيـصـٰٰۦ𓄂ـــ͢ـࢪ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 23,
+      "star_rank": null
+    },
+    "indifferent": {
+      "username": "indifferent",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "األج𖢲𖢲و୭ڪر": {
+      "username": "🃏اﺄلجـٖـــ𖢲͜͡🐲ـ𖢲͜͡ـ͜ـــو̲୭ڪر🃏",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 87,
+      "star_rank": null
+    },
+    "igamdi": {
+      "username": "i_gamd_i",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 145,
+      "star_rank": null
+    },
+    "منصور": {
+      "username": "̨منــــصــــــــــور",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 36,
+      "star_rank": null
+    },
+    "december": {
+      "username": "december...",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "مايا": {
+      "username": "مــــايــــــا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "ۦمحمۦدالقیݪۦوشيےۦ": {
+      "username": "ۦ•ﻣﺣﻣـِٰـ͢ۦَد◗🇱🇾◖اﻟﻗﯿݪـِٰـ͢ۦَوشـٚيے🦅ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 124,
+      "star_rank": null
+    },
+    "iiii": {
+      "username": "iiii.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "تيم": {
+      "username": "تيم",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "ᴠɪᴘᅠⲓᅠʟɾʅᓗіjᓄ": {
+      "username": "ᴠɪᴘ˼ㅤⲓㅤʟ̤ɾʅᓗฺІjᓄ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 137,
+      "star_rank": null
+    },
+    "الفآخر": {
+      "username": "الْـــــفَـــــآخِــــ✦ـر",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 87,
+      "star_rank": null
+    },
+    "maichael900": {
+      "username": "maichael.900",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "taghreeda": {
+      "username": "taghreeda",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 382,
+      "star_rank": null
+    },
+    "memo7oooda": {
+      "username": "memo_7oooda",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "◕‿឵◕": {
+      "username": "◕‿឵◕",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "دميہ": {
+      "username": "دميـہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ۥۥڵٱٱتۦثقۦۦڪڵۿمۦۦٱذێۥۥ": {
+      "username": "『ۥۥڵٱٱ•تــۦٰـثـقۦۘۘۘۦۘۘۘڪـڵـ❥̚͢ـۿـمۦۘۘۘۦۘۘۘ•ٱذێۥۥ』",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "اللورڊالڛوري": {
+      "username": "☆اِلِـِـِـِلـِـِـِ♬ـِـِـِوِرِڊِ☆اِلِـِـِڛـِـِ♬ـِـِوِرِي☆",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 591,
+      "star_rank": null
+    },
+    "ටun": {
+      "username": "☀⃝͢˚༘𝆺𝅥ටි𝑢𝑛°",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3157,
+      "star_rank": 12
+    },
+    "aaa": {
+      "username": "aaa",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "لاتغرگالضحگہترےگلےاحزان": {
+      "username": "لاتغرگ♫الضحگہ♫ترےگلے♫احزانـ♫",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 258,
+      "star_rank": null
+    },
+    "🍯َ": {
+      "username": "🍯َ",
+      "level": 6,
+      "label": "ذهبي",
+      "plays": 2550,
+      "star_rank": null
+    },
+    "معزوفہ": {
+      "username": "مـعَــ🎻ـًـزوُفــہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 196,
+      "star_rank": null
+    },
+    "ۦاݪسۦفير": {
+      "username": "ۦاݪــۛـسـ𓆩♛𓆪ـۧۦـ۫فـيــ۫ـۧر𝁤𝆬𝃛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 174,
+      "star_rank": null
+    },
+    "ادم": {
+      "username": "ادم",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "ʀɛʍǟռ": {
+      "username": "឵⇠𓆩〭〬🌸⃝ʀɛʍǟռ🥂⸼꯭᪳⃕🖇〭〬𓆪",
+      "level": 6,
+      "label": "ذهبي",
+      "plays": 2542,
+      "star_rank": null
+    },
+    "رشوعلۍقبريمטدموععينه": {
+      "username": "رشـو★علۍ★قـبـري★مـטּ★دمـوع★عـينـه",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 98,
+      "star_rank": null
+    },
+    "ڸحاڷېدۅڵہ": {
+      "username": "〝ڸحــ̝̚ـاڷــې⇜دﯡڵــ̝̚ــــہ〞",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 8,
+      "star_rank": null
+    },
+    "آلطلقۂrالشآميۂ": {
+      "username": "༺✿آلــطــلُــقــــۂ›Ⓡ‹الــشــﺂمّـ͜يـــۂ✿༻",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 124,
+      "star_rank": null
+    },
+    "عزٱإهہۦيٱإچرحقۦلپمٱإپرٱإهہۦضمآإدهہ": {
+      "username": "عـزٱإهہۦيٱإچـرح»قـۦـلپ«مـٱإپرٱإهہۦضمـآإدهہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 319,
+      "star_rank": null
+    },
+    "سيدهے𒀭الحࢪفے": {
+      "username": "✥سًـــــيّدُهے𒀭⑅⃝ـالــحًࢪ⃪فُـے✥",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3080,
+      "star_rank": 14
+    },
+    "ᴚ": {
+      "username": "ᴚ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 24,
+      "star_rank": null
+    },
+    "خيال": {
+      "username": "خيال❥♪",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 48,
+      "star_rank": null
+    },
+    "rjllibe": {
+      "username": "rjl_libe",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 13,
+      "star_rank": null
+    },
+    "ۦنيفينۦ": {
+      "username": "ۦ♡نِيِّفُـ❣يِّن♡ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "arta1234": {
+      "username": "arta1234",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 447,
+      "star_rank": null
+    },
+    "gold24": {
+      "username": "gold-_24",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 125,
+      "star_rank": null
+    },
+    "بيبي": {
+      "username": "بِيبِي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "samer": {
+      "username": "._samer_.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "ملس୭ڼ": {
+      "username": "ﻣلـﺳ୭ڼ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 11,
+      "star_rank": null
+    },
+    "waleed": {
+      "username": "𝐖𝒂𝒍𝒆𝒆𝒅",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "كآتي": {
+      "username": "♔كُآتُيَ♔",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 88,
+      "star_rank": null
+    },
+    "឵឵឵឵឵឵឵឵឵឵឵឵឵឵𓆗": {
+      "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵𓆗",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "احسالآدلبيينا": {
+      "username": "ا∫حسـ▪♥☻↕الآدلبـي↕☻♥▪ـين∫ا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 21,
+      "star_rank": null
+    },
+    "فخٱمةوحشٱلعنزي": {
+      "username": "فـخـٱمـة√♥▒√وحــــش√▒♥√ٱلـ~ـعـنـزي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "هتلر": {
+      "username": "هـتــلـــ⃜͢ـــر",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "مہيهمنيحبڪممہ": {
+      "username": "مہ،يُهَمِنِيُ،حِبُڪمِمہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "ᵴᴇᴍᴏ": {
+      "username": "ᵴᴇᴍᴏ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ǥᕱทʝ": {
+      "username": "᭄𓄼᜔⃔Ǥᕱท♡♡ʝ𓄹᭄໋",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ᅠᅠᅠ١": {
+      "username": "ᅠᅠᅠ١",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 13,
+      "star_rank": null
+    },
+    "الفرعونالمصري": {
+      "username": "الفرعون𓁈المصـٌـٌٌـٌٌٌـٌٌـٌـري𓄂ᬼ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ڭڕہاڸڙنٿٱنې": {
+      "username": "؏ــﯖــڕہ♾️ا̍ڸــڙنۨــٿــٰٱ̍نۨــېْۧ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "𔘓ʀᴇᴍιʏۦ": {
+      "username": "𓆩〭〬◖𔘓ꪲʀᴇᴍ︩֟፝𝝸̶̶ʏۦ۬˛឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵‹𝆕🥂♩",
+      "level": 4,
+      "label": "برونزي",
+      "plays": 1721,
+      "star_rank": null
+    },
+    "سيدھہٱلنسٱء": {
+      "username": "˼سِۣ֯ــָ֢ـִׄـيدھٛہ𝂅𓍼𝂅ٱلـنِــָ֢ـִׄسَٱء឵឵឵឵឵◞",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "8dr": {
+      "username": "-8dr_",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 63,
+      "star_rank": null
+    },
+    "آمےيرهآلصےمت": {
+      "username": "آمِےـيّــــره♪❤♪آلَصِےـمِـــت",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3419,
+      "star_rank": 10
+    },
+    "قمہࢪيہمہانۍ": {
+      "username": "قــمہٰ۪۫ﹷٰٰﹷــࢪ•᯽̸᜔᮫•يہٰ۪۫ﹷمہٰ۪۫ﹷٰـاެنۍٔ𝄢",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 31,
+      "star_rank": null
+    },
+    "آنثىꜜبࢪآئحہꜜالقهوهہ": {
+      "username": "❀⃔ൢ᭄آَنثىꜜبࢪآئحہꜜالقَـهوهہ☕⑅⃝.🎀",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 15,
+      "star_rank": null
+    },
+    "proƒєsioηal": {
+      "username": "✦➤𝐩𝐑𝕆ƒє🅢ˢ𝐈𝕆η𝐀𝐋•𝆺𝅥⃝🐉",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 71,
+      "star_rank": null
+    },
+    "𔔀𖹭tabahi𔔁": {
+      "username": "𔔀˛឵឵𖹭ᵗᵃ𝕓ᵃᴴ𝕚𔔁",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "شہيہخہهہٱلبہنہأت": {
+      "username": "شہيہٰخہٰهہ•.♚.•ٱلبہۣنہۣۗأت",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 77,
+      "star_rank": null
+    },
+    "النایڤھہ": {
+      "username": "اﻟـﻧـاﯾـﭬـھَہّ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 160,
+      "star_rank": null
+    },
+    "نعلوأولأيعلىعلينأ": {
+      "username": "نٌٌـعَـ⋆ـلَـوُأِ°وُلَأِ↫يّعَـ♔ـلَىٰٓ↬°عَـلَـ♕ـيّّـنٌـأِ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 18,
+      "star_rank": null
+    },
+    "وطۦۦن": {
+      "username": "وطـۦٰـــ❥ـــۦٰـن",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 229,
+      "star_rank": null
+    },
+    "ٱلشٱمي": {
+      "username": "ﭑلــــشــــﭑمــــي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 39,
+      "star_rank": null
+    },
+    "تפٱمٱلرפح": {
+      "username": "ـ•▓░تـפٱم♥️ٱلـرפح░▓•ـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "иәxт": {
+      "username": "иәxт",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "zhra2020": {
+      "username": "zhra2020",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "ٱݪمڪحۦݪ": {
+      "username": "ٱݪمۘڪحـۦ͎ــۛݪ↬♛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "amanee": {
+      "username": "amane_e",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 30,
+      "star_rank": null
+    },
+    "𖥨أميࢪة𖥨": {
+      "username": "❀𖥨👑أمـ֟፝֯يـࢪة👑𖥨❀",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "sham12": {
+      "username": "sham12",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 74,
+      "star_rank": null
+    },
+    "ياسمينة": {
+      "username": "يــاســــ❥ـــمـيـنة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 26,
+      "star_rank": null
+    },
+    "ۦآآعېڜۦآآنآآۦۥۈۥۦۑثښقطآآڵعآآڵۦ": {
+      "username": "ۦآآعِـۧېۧــۧـڜُۦآآِنـۧــۧآـآۦۥۈُۥۦۑـَۛثښۧـ»ـقُـط.آآڵـعَـآآڵـۧ۾ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 26,
+      "star_rank": null
+    },
+    "ˬklaus": {
+      "username": "ˬ⭒̸໋⃬࣪𝑲𝒍𝒂𝒖𝒔♞⭒",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 565,
+      "star_rank": null
+    },
+    "ۦوأثألخطوهيمشيملگآقۦ": {
+      "username": "ۦ♚وِأّثّـ°•.أّلَخَطّوِهِ♪يِّمَشٍيِّ♪مَلَگآ.•°ـقِ♚ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "𝄟➠": {
+      "username": "𝄟➠",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3153,
+      "star_rank": 13
+    },
+    "ماذالو୭": {
+      "username": "م͜͡ــاذ͜͡الـو͜͡୭",
+      "level": 6,
+      "label": "ذهبي",
+      "plays": 2645,
+      "star_rank": null
+    },
+    "mohmed": {
+      "username": ".._m-oh-me-d_..",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 20,
+      "star_rank": null
+    },
+    "loures": {
+      "username": "loures",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 81,
+      "star_rank": null
+    },
+    "حراميبنات": {
+      "username": "حــرامـي❦بـنــات",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 24,
+      "star_rank": null
+    },
+    "ۦآلزگۦۦرتۦۦيۦ": {
+      "username": "ۦ༺آلَــــزٍگــۦ♔ۦـــرتٌــۦۦـي༻ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 174,
+      "star_rank": null
+    },
+    "ۦڪلۦۿذهالصلابۃۦڪذبةۦ": {
+      "username": "ۦ𝆠›ڪ⃯ـٚلۦۿـ͢ذه«الصَ٘ـلابـۃۦڪ⃯ذبؔـة‹𝆠ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ଓ": {
+      "username": "꣸ଓ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "alfox": {
+      "username": "alfox",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "القائد": {
+      "username": "القــ͢ـائــ͢ـد",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 79,
+      "star_rank": null
+    },
+    "ڛمᡴꪫݪذیذ": {
+      "username": "؍ڛـ⃮ـَٰمۘᤳᡴ⃘ꪫ𝄒ݪْذﯾ𓏺ـ۫ذ𝂅𝂅",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "قطة": {
+      "username": "قـــــــــ𓃠ـــــــطة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "taya": {
+      "username": "_taya_",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "مجد": {
+      "username": "♤☆↫مّٰـ✰ـجّٰـ✰ـدّٰ↬☆♤",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 44,
+      "star_rank": null
+    },
+    "mjd": {
+      "username": ".mjd.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 27,
+      "star_rank": null
+    },
+    "sammi": {
+      "username": "sammi",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 22,
+      "star_rank": null
+    },
+    "حورآء": {
+      "username": "ﺣــۧـورآء•❥𝆕",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "تفاصيࢦناعمۃ𐚁": {
+      "username": "تـۧـٖفـا𝅮صـيّـࢦ𝃛𓏺نـا𝅮عـ֔مـ⃪𐇵ــۃ.𐚁̸",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 360,
+      "star_rank": null
+    },
+    "بنتاصࢦآࢦعرب": {
+      "username": "༺✿بـنـّٰت»اެصــ⃮ـّٰـࢦ«آࢦـ⃪عــٰٜرب✿༻",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "взтнян𑁤": {
+      "username": "взтнян𑁤",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 49,
+      "star_rank": null
+    },
+    "samer12": {
+      "username": "samer-12",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 31,
+      "star_rank": null
+    },
+    "3saf88": {
+      "username": "3saf.88",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "مهند": {
+      "username": "⇡مهͩــͤــᷠــͣــͪ͢ــͦــͫــند⇣",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "ݪهافتنةꞌꞌتࢪبڪۦاݪيقيט": {
+      "username": "ݪـ⃪ها⋆݈فـ⃪تنة𝄒ꞌꞋتُـࢪبڪ⃯ۦ𝂅𐇵⃪ꥇᜒاݪـيقيـ⃪טּ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "vᵎp": {
+      "username": "🪷ᵛ͢ᵎᵖ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "anaaab": {
+      "username": "anaaab",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "karim": {
+      "username": "𝑲𝒂𝒓𝒊𝒎",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 79,
+      "star_rank": null
+    },
+    "👸឵឵": {
+      "username": "👸឵឵",
+      "level": 8,
+      "label": "خبير",
+      "plays": 3619,
+      "star_rank": 7
+    },
+    "گيفگےيےوچعيے": {
+      "username": "گيَــْْــفَگـے.يَـے.وَچــــْْعيَـے",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 73,
+      "star_rank": null
+    },
+    "هہوآجيےسبدويےهہ": {
+      "username": "هہ‏‏وآجيـﮯسـ.بدويـﮯهہ‏‏",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 20,
+      "star_rank": null
+    },
+    "آلۦخۦتۦhۦيۦآآڕ": {
+      "username": "آلــۦـخـۦـتــۦℋۦــيـۦــآآڕ",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 770,
+      "star_rank": null
+    },
+    "evilメ": {
+      "username": "♜ᴱᵛⁱˡメ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "alasmrab": {
+      "username": "alasmr.ab",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1082,
+      "star_rank": null
+    },
+    "آلخآل": {
+      "username": "آ̱لَ̠خ̣ـ̞𓃗ــ̭آل",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1188,
+      "star_rank": null
+    },
+    "𔒝": {
+      "username": "​​​​𔒝",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "nescafe": {
+      "username": "𓆩⃖𓈒›᯽̸᜔᮫𝗡𝗲̤͠𝘀𝗰̷𝗮̷𝗙𝗲♩̸᤻͢𓆪𓈒𓈒",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 107,
+      "star_rank": null
+    },
+    "δpίcy": {
+      "username": "𓂃⃪ֶ𓆩〭〬𝛅𝐏͚𝛊́ؔ𝐜͢𝐘⇢⃨〭̽",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 125,
+      "star_rank": null
+    },
+    "ϻissyou𔘓": {
+      "username": "𝂎𓏺َϻ𝐢⃪͢𝘀s𝄒឵឵឵𝂅𝐲𝐨𝐮˹឵឵𔘓ᤳ𝃛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 129,
+      "star_rank": null
+    },
+    "ﹳٱنو𐬛ثتۿاجࢪعۃجنو𐬛𐬚": {
+      "username": "ﹳٱ̷نـو𐬛ثتـۿـا𓄹໋𓏲̸࣪جࢪعــٖۃ𓄹໋𓏲̸࣪جنو𐬛𐬚𝁤𝄒",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 188,
+      "star_rank": null
+    },
+    "🎻°": {
+      "username": "🎻°",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 98,
+      "star_rank": null
+    },
+    "𝅘𝅥𝅲": {
+      "username": "𝅘𝅥𝅲",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 90,
+      "star_rank": null
+    },
+    "تركتالناسللناس": {
+      "username": "تــركــــت𓄂الــنــاس𓄂لـلــنــاس✘",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "عقوبه": {
+      "username": "عـــــــ🐞ــــــقوبه",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "منافقييטۦ": {
+      "username": "مـنـِྀ»ـِٓافــِۧقـيـ.ِྀ.̃ٓـٰٰ۪يـِۧטּ❥ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "ઊɹljȷ丂": {
+      "username": "『🍒➻ઊɹ̤ljȷ᎗̐͜丂』",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "𖦔": {
+      "username": "𖦔",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 10,
+      "star_rank": null
+    },
+    "اࡋߺغزاࡋߺܘ𐂂اࡋߺ𐬠أايܦߺܘ𐎓": {
+      "username": "اެࡋߺغزاެࡋߺܘ߳𐂂اެࡋߺ𐬠أاެيܦ߳ߺܘ߳𝇄𝇃ٜ𐎓",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "1": {
+      "username": "₁",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "mazagangy": {
+      "username": "mazagangy",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 52,
+      "star_rank": null
+    },
+    "اڶفتۑاڵذهبې": {
+      "username": "⚜ا̍ڶـفَـتۑْۧ☻ا̍ڵـذَهبېْۧ⚜",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 196,
+      "star_rank": null
+    },
+    "rawan": {
+      "username": "𝐑𝐀𝐖𝐀𝐍",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "rojana": {
+      "username": "rojana",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "shahd": {
+      "username": "..-shahd-..",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 144,
+      "star_rank": null
+    },
+    "al7lwa": {
+      "username": "al7lwa",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 21,
+      "star_rank": null
+    },
+    "moabdellatif": {
+      "username": "mo-abdellatif",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 160,
+      "star_rank": null
+    },
+    "262": {
+      "username": "2_6_2",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "التيفاحه": {
+      "username": "التيفاحه",
+      "level": 8,
+      "label": "خبير",
+      "plays": 3653,
+      "star_rank": 6
+    },
+    "ملاڪ": {
+      "username": "ملُِاڪ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 273,
+      "star_rank": null
+    },
+    "ۦآستثنآئيهلاتۦۦليقبےآلمقآرنآتۦ": {
+      "username": "ۦآسـتثـ♚ــنآئيه❀لاتـۦـۦـليق♥بّے❀ـآلَمِقَآرَنـــآتْۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 32,
+      "star_rank": null
+    },
+    "ناتاشأٱلرۉۈح": {
+      "username": "نْاتاشَـ♬ـْأ.٭♔٭.ٱلــٰ♬ـ̣̃ـرۉۈح",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 10,
+      "star_rank": null
+    },
+    "metnrfz": {
+      "username": ".metnrfz.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 46,
+      "star_rank": null
+    },
+    "myssoon": {
+      "username": "myssoon",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ص۶بتقݪيدմ": {
+      "username": "صَــ۶ـ⃪ـꤪꤨꤪـب˼♚˹ᤳتـقـݪـꤪꤨꤪيــد𝂅ᤳմ̤︕",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ٱࢦقيٱدهہٱلعࢦيہ": {
+      "username": "ٰٱࢦقيـ⃜͢ــــٱدهہَ•️🏴‍☠️•ٱلعࢦيـــ⃜͢ــــہَ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 30,
+      "star_rank": null
+    },
+    "amira": {
+      "username": ".-_amira_-.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "ymkdroobi": {
+      "username": "ymk_droobi",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "العۦۦيونالسۦۦوداء": {
+      "username": "العُـོۦ٭ۦـيون♡السـོۦ٭ۦــوداء",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "مخفي": {
+      "username": "مـخـفـي🥷",
+      "level": 5,
+      "label": "فضي",
+      "plays": 2115,
+      "star_rank": null
+    },
+    "γειιοω": {
+      "username": "˹💛𝃊𝛾𝛜ᷧ𝜄ᷞ𝜄ᷟ𝜊ᷧ᷼𝝎˖˚⋆",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 115,
+      "star_rank": null
+    },
+    "لٱشفټۅجھڬقلتللھمبعديڼ": {
+      "username": "ٰلٱشفټ‹ۅجھڬ‵قلت›للـھم‵بعديڼ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 338,
+      "star_rank": null
+    },
+    "a7lam": {
+      "username": "a7lam_",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "ۦالماسهالذهبيهۦ": {
+      "username": "ۦ❥•الـمــ͡✦ـ͡ــاســِٰ۪ـِٰٰـِٰٰه↟♦↡الــ͡ـ✦ـ͡ــذهبيـِـِِـِِِـِِه•❥ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "خياࢦٱنثۍ": {
+      "username": "خيـᷱ᪳ـــاࢦᤳ𐫱⃪𝃛𓏺ٱنـ⃪ثـᤨـــۍٔ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 267,
+      "star_rank": null
+    },
+    "قار": {
+      "username": "قـــــار",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 125,
+      "star_rank": null
+    },
+    "ٴالراقصةعقبورالرجالٴ": {
+      "username": "ٴ♪الـراقـصة♥ع♡قــبــور♥الــرجـال♪ٴ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "sa7eer3lql0o0p": {
+      "username": "sa7eer...3lql0o0p",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "bedo2000": {
+      "username": "bedo2000",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 15,
+      "star_rank": null
+    },
+    "queenofflowers": {
+      "username": "queenofflowers",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ألعلاتقربقرب": {
+      "username": "ألـعـ◄₪°•.【لاتـقـ☻ـرب】.•°₪►ـقـرب",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "off": {
+      "username": "-off_",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 68,
+      "star_rank": null
+    },
+    "onthamenelgana": {
+      "username": "ontha.men.elgana",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ٱلعظمٱءلٱيسقطوפنٱلٱبٱلخيٱنھہ": {
+      "username": "ٱلعُظَـ♥ـمَٱء•لٱ•يَسْقُـ♚ـطُوפنَ•ٱلٱ•بِٱلخِـ♪ـيَٱنَھہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 276,
+      "star_rank": null
+    },
+    "ٺٺٺلقاآنيۓءعبtm": {
+      "username": "ِٺٺـ≈∫ٺـلقــ˚♫˚ـاآنـيۓء∫≈ــعـب™َ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 20,
+      "star_rank": null
+    },
+    "عس0ل": {
+      "username": "عســِٰ۪ـِٰٰـِٰٰـ°•◑0◐•°ـــِٰ۪ـِٰٰـِٰٰـل",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 817,
+      "star_rank": null
+    },
+    "21": {
+      "username": "21",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 675,
+      "star_rank": null
+    },
+    "alaaahmed": {
+      "username": "alaa.ahmed",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "صمتيكبرياء": {
+      "username": "صَمْتـِــــــي𓅗كِبْرِيــــٓـــاء",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 248,
+      "star_rank": null
+    },
+    "قلبلايرحم": {
+      "username": "قًلْبّْ♥لُايَرَحَمْ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "ۉ୭تيט𐏓آالقلب": {
+      "username": "ﯢٰ୭̯تـٌـٌٌيـטּ❥͜͡𐏓⃪꯭ﺂاެلـقلُـِـِِب𓄹ٜ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "علۈيہۈڪليفخر": {
+      "username": "عـ‘ـُلُـ‘ـُۈٌيُـ‘ـُہّ♔ۈٌڪُـ‘ـُلُـ‘ـُيُ♔فُـ‘ـُخُـ‘ـُر",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 22,
+      "star_rank": null
+    },
+    "̨̨̥̬̩̥̬̩": {
+      "username": "̨̨̥̬̩̥̬̩",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "غروانثيور": {
+      "username": "غرو♡انثي♡ور",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 483,
+      "star_rank": null
+    },
+    "hams": {
+      "username": ".hams",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 37,
+      "star_rank": null
+    },
+    "7zn": {
+      "username": "7-z.n",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 13,
+      "star_rank": null
+    },
+    "hunter11": {
+      "username": "hunter11",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 102,
+      "star_rank": null
+    },
+    "𔘐basoom༣": {
+      "username": "ׅ࣪𓏲ּ۫𔘐ּ𝑩፝֟֯𝑎𝑠𝑂𝑜𝑚𓄹᮫ֺ໋༣",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "ƈҽȥα": {
+      "username": "ƈҽȥα",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "زويا": {
+      "username": "زويــ͢ــ᭄ـ͜ــا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 165,
+      "star_rank": null
+    },
+    "malekelmasry": {
+      "username": "malekelmasry",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 15,
+      "star_rank": null
+    },
+    "56eer": {
+      "username": "56eer..",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 82,
+      "star_rank": null
+    },
+    "⚽ْ": {
+      "username": "⚽ْ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "samra": {
+      "username": "sa-._.-mra",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "ܤߺࡅߺࡅߺܘࡅߺܩߺוࡅߺي": {
+      "username": "ܤߺࡅ࡙ߺࡅٜߺܘ߳🇾🇪ࡅ࡙ߺܩߺוࡅ࠭ߺي",
+      "level": 8,
+      "label": "خبير",
+      "plays": 3767,
+      "star_rank": 5
+    },
+    "amira113p": {
+      "username": "amira113p",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 52,
+      "star_rank": null
+    },
+    "الإمبراطور": {
+      "username": "♛الإمبــــــــرَاطــــــــور♛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 157,
+      "star_rank": null
+    },
+    "8lm": {
+      "username": ".8lm.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 336,
+      "star_rank": null
+    },
+    "ٱحۂمدالفلسۂطۂيني": {
+      "username": ":༅｡ٱحۂٰۣ۫ﹻ۬مدོالفلسۂٰۣ۫ﹻ۬طۂٰۣ۫ﹻـيني｡༅:ﾟ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 49,
+      "star_rank": null
+    },
+    "ismaeel": {
+      "username": "ismaeel",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "القيصر": {
+      "username": "القيصر",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 163,
+      "star_rank": null
+    },
+    "اجوديا": {
+      "username": "ا✿جـــــــ❤ــــــودي✿ا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 21,
+      "star_rank": null
+    },
+    "girlromantic": {
+      "username": "girl_romantic",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 170,
+      "star_rank": null
+    },
+    "ٱمبࢪٱطۦوࢪٱݪعشۦق": {
+      "username": "⌯ٱمٰــبـࢪٱطـۦـوࢪ∫♕ٌ∫ٱݪـعـشــۦـق⌯",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 297,
+      "star_rank": null
+    },
+    "ιlραяιиσ": {
+      "username": "ιℓ●ρα∂яιиσ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "king": {
+      "username": "𝐤𝐢𝐧𝐠",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1057,
+      "star_rank": null
+    },
+    "إن𖹭جي": {
+      "username": "◞إنـــ𖹭𝅮ــجــي◜",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 887,
+      "star_rank": null
+    },
+    "ريہمہاسہهہ": {
+      "username": "💎⃝ִֶָ.𓂃رّيّہمّہاِسّہهّہִֶָ࣪🦋་༘࿐",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 654,
+      "star_rank": null
+    },
+    "queenજ": {
+      "username": "—͟͟͞͞★𝐐𝐮𝐞𝐞ꤪꤨꤪ𝐧જ⁀➴.☘︎",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 209,
+      "star_rank": null
+    },
+    "الوصيه": {
+      "username": "⊹˚.الوصيه.˚⊹",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 177,
+      "star_rank": null
+    },
+    "rakan198": {
+      "username": "rakan198",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 84,
+      "star_rank": null
+    },
+    "maaha8": {
+      "username": "maaha8",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 20,
+      "star_rank": null
+    },
+    "فستئھہ": {
+      "username": "فٌستئھِہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 25,
+      "star_rank": null
+    },
+    "yones": {
+      "username": "yones",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "الڊبور": {
+      "username": "♛『الُـِـِِـِِِـِِـِـڊبـٌـٌٌـٌٌٌـٌٌـٌوُر』♛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 112,
+      "star_rank": null
+    },
+    "سايكو": {
+      "username": "سايكو",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 22,
+      "star_rank": null
+    },
+    "w0w": {
+      "username": ".w0w.",
+      "level": 5,
+      "label": "فضي",
+      "plays": 2075,
+      "star_rank": null
+    },
+    "ᘓᓆgggↄ": {
+      "username": "ᘓ❀⃔ᓆgggↄ̇",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 533,
+      "star_rank": null
+    },
+    "jod": {
+      "username": "ᴶᵒᵈ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 8,
+      "star_rank": null
+    },
+    "lolaabd18": {
+      "username": "lolaabd18",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 27,
+      "star_rank": null
+    },
+    "هذيٱن": {
+      "username": "˼هـ♪ـذيـ°◦ـﭑن˹┆♡",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 669,
+      "star_rank": null
+    },
+    "ghr8": {
+      "username": "-ghr8",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "مטٱݪولهہفيخٱفقيݪڪۆݪٱيٱت": {
+      "username": "˺مـ⃪טּ•ٱݪـولهٓہ˛឵឵឵឵឵឵឵឵឵឵឵឵឵឵في.خـٱفقي𝂅ݪڪ.ﯙݪٱيٱت˼",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "shksber": {
+      "username": "shksber",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "مہولآنہآ": {
+      "username": "مـ❣ـہولَآنـ❣ـہآ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 19,
+      "star_rank": null
+    },
+    "أبرآآهيم": {
+      "username": "أب̀́ر̀́آ̀́آ̀́ه̀́ي̀́م̀́",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "لواحظہ": {
+      "username": "❥❀لـــوٌاحــ❁ཻ͜͡ـــظہ❥❀",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "waleedd": {
+      "username": "waleedd",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 192,
+      "star_rank": null
+    },
+    "يآحسآفھہتصیڔجمعتناۇؤدآع": {
+      "username": "يآﺣﺳآفھہ•تـﺻﯿڔ•جمعتنا•ﯗؤدآﻉ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 26,
+      "star_rank": null
+    },
+    "آۄڪسجي𐬚𖹭": {
+      "username": "آۄِٰڪَެســـ⃪ـ⃮جـيـ⃪ـ⃮𐬚˛឵឵឵឵឵𖹭𝅮",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 80,
+      "star_rank": null
+    },
+    "ʚɞ": {
+      "username": "ʚ༏ɞ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 152,
+      "star_rank": null
+    },
+    "رۆيدأ": {
+      "username": "رٍۆيَـ✵ۣۘـدأ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 19,
+      "star_rank": null
+    },
+    "ملكالخيانه": {
+      "username": "ملك🩶الخيانه",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "ansam": {
+      "username": "ansam__",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 40,
+      "star_rank": null
+    },
+    "حنواناحن": {
+      "username": "حـــن❣وانــا❣حـــن",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 591,
+      "star_rank": null
+    },
+    "alkoooory": {
+      "username": ".alkoo._.oory.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 126,
+      "star_rank": null
+    },
+    "ٴصرخہۃندمٴ": {
+      "username": "ٴ◗صـرخـ✾ـہۃ°•♡•°نـــ✾ــدم◖ٴ",
+      "level": 5,
+      "label": "فضي",
+      "plays": 2400,
+      "star_rank": null
+    },
+    "ret0o": {
+      "username": "_ret0o",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3063,
+      "star_rank": 15
+    },
+    "ااجنگيزخآناا": {
+      "username": "اا▒▓█جـنـگيـ°♠°ـزخآن█▓▒اا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 28,
+      "star_rank": null
+    },
+    "mthestrᥫ": {
+      "username": "💃⃟༏𝓶𝓣𝓱𝓮𝙎𝙏🌟𝙍ᥫ᭡፝֟፝֟˙͏͏",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 990,
+      "star_rank": null
+    },
+    "carbon": {
+      "username": ".carbon.",
+      "level": 7,
+      "label": "محترف",
+      "plays": 3497,
+      "star_rank": 9
+    },
+    "جمال": {
+      "username": "جمال",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ڪيدۿآفيےعيناۿآ𔘓": {
+      "username": "ڪيدۿـآ𝇄فِـيـ𝆬ﮯ𝇅عينـٰاۿآ𝁤𝅾𔘓",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 231,
+      "star_rank": null
+    },
+    "a7τємαla7вєĸ": {
+      "username": "𝐀𝟳τємαℓ✨❤✨𝐀𝟳вєĸ𝆕",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "ellessarr": {
+      "username": "ellessarr",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 14,
+      "star_rank": null
+    },
+    "moon": {
+      "username": "moon.....",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 62,
+      "star_rank": null
+    },
+    "منى": {
+      "username": "مـنىَ",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 652,
+      "star_rank": null
+    },
+    "ضمأآۓˇۦ": {
+      "username": "ضـِٰـِٰمأآۓˇ♪ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "mona": {
+      "username": "𝓜𝓸𝓷𝓪",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "ミdr𔑿μ": {
+      "username": "ミ𝐃𝐫𝅰𔑿𝚳•‴",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ᅠᅠᅠᅠᅠ": {
+      "username": "ㅤㅤㅤㅤㅤ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "درهہ": {
+      "username": "درهہ",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1347,
+      "star_rank": null
+    },
+    "الع𑣲گيدة": {
+      "username": "العــ̨̥𑣲𝅮.𝅘𝅥𝅮ـگيَدة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 49,
+      "star_rank": null
+    },
+    "hulm": {
+      "username": "h-ulm",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 55,
+      "star_rank": null
+    },
+    "112021": {
+      "username": "1.1.2021",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "مآيهمنيےۦخسآرةۦمخلۉقۦخلقۆۦاللهہ": {
+      "username": "مآيهمنيےۦٰخسآرةۦٰمخلـۉقۦٰخلقـۆۦٰاللـهہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "سندرلا": {
+      "username": "سنــ𝄠ۛـدرلا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 85,
+      "star_rank": null
+    },
+    "شيار": {
+      "username": "⇡شــيـــ…ͬ.ͣ…ͥ…ͪـᷤـــــ♪ـــار⇣",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 168,
+      "star_rank": null
+    },
+    "آلمآآآ": {
+      "username": "آلمـಿـآآآ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 227,
+      "star_rank": null
+    },
+    "ٱناڪۇٴندا": {
+      "username": "ٱﻧـاڪَެ𓆗ــ፝֯֟ــﯝﻧﺪا𝂅𝂅𝂅𓄹♩͢𓆪𓈒",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "zahra": {
+      "username": "zahr.a.",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 511,
+      "star_rank": null
+    },
+    "ڪبرتۅڪڵحڶمفٱتۈدعتھہ": {
+      "username": "`ڪبرت✧ۅڪڵ◈حڶم◈فٱت✧ۈدعتھہ√",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 64,
+      "star_rank": null
+    },
+    "مخأويألليل": {
+      "username": "ـ✦۪۫•مًخِـــــأّوٌي----❥----أّلَلَـــــيِّلَ•✦ـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "najwa82": {
+      "username": "najwa82",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 15,
+      "star_rank": null
+    },
+    "نےۦۦور": {
+      "username": "نٌےــۦـ♔ـۦـوٌر",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1023,
+      "star_rank": null
+    },
+    "شjاميه": {
+      "username": "شـͣـــͥـــᷞــــͦــــ𝓙ـاميه",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "nargsia": {
+      "username": "nargsia",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "e3tna8": {
+      "username": "e3tna8",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "strα᭙bꫀrrყ": {
+      "username": "𓄹ٜ❥︎ִֶָ˹𝐒𝐭𝐫α֟᭙𝐛ꫀ፝֟፝֟𝐫𝐫ყ˹🍓",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "taem": {
+      "username": "_taem_",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 18,
+      "star_rank": null
+    },
+    "علوشالكرخي": {
+      "username": "عـلـوش•°🇮🇶°•الـٌكـرخي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 74,
+      "star_rank": null
+    },
+    "zawia": {
+      "username": "zawia",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 12,
+      "star_rank": null
+    },
+    "ᚲséclluded": {
+      "username": "．ᚲ𝐒é𝐜𝐥𝐥𝐮𝐝𝐞𝐝឵឵឵឵឵឵឵឵឵឵឵឵឵𓏺᠈",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "سلالوفاطان": {
+      "username": "سـلـ♔الوفا♔ـطان",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 41,
+      "star_rank": null
+    },
+    "helmi": {
+      "username": "'❥𝐻𝑒𝓁𝓂𝒾࿐",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 484,
+      "star_rank": null
+    },
+    "wow": {
+      "username": "◌͜͡✿𝒘𝒐𝒘",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 144,
+      "star_rank": null
+    },
+    "darrkman": {
+      "username": "darrk.-.man",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 19,
+      "star_rank": null
+    },
+    "q": {
+      "username": "𝓆",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 201,
+      "star_rank": null
+    },
+    "طيحةشۦۦموخولاوقفةمذلة": {
+      "username": "طـْ͜ـيحة∫♚∫شـۦٰ۬•♕•ۦٰ۬ـمـوخ𓅃ولاوقـْ͜ـفة∫♚∫مۧـْ͜ـذلة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 257,
+      "star_rank": null
+    },
+    "طݪتߺيھيۦبۿۃ": {
+      "username": "♕¦طݪتـߺي➢ھيـۦٰ۬ـبۿۃ𓄂𝆔⃪₎",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "ليتقلبيےقدعصانيے": {
+      "username": "ليت⤸قلبيـﮯ❦قد⤹عصانيـﮯ",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 919,
+      "star_rank": null
+    },
+    "قۦۥۦاھرةالرجۦۥۦال": {
+      "username": "قـۦ۬ۥٰ۬ۦ۬ـاھرة♕الرجـۦ۬ۥٰ۬ۦ۬ـال",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 331,
+      "star_rank": null
+    },
+    "أمameerير": {
+      "username": "أمـ♡𝓐𝓜𝓔𝓔𝓡♡ـير",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ymani": {
+      "username": "ymani",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "مآيگلقببرنيے": {
+      "username": "مـآيـگـ√♔.◦°لـقـ°◦.♥̉.◦°ـب°◦.♔√ـبرنـيـے",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "..-..-.": {
+      "username": "..-..-.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 67,
+      "star_rank": null
+    },
+    "njraan360": {
+      "username": "njraan360",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "الاميرة": {
+      "username": "الاميرة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "sᏯeetիeᤂrt": {
+      "username": "❛𝘴Ꮿ𝗲𝗲𝐭🎀ի𝒆ᤂ֟፝ؖ۬𝘳𝐭❜",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 115,
+      "star_rank": null
+    },
+    "queenmshjasmin": {
+      "username": "queen.msh.jasmin",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "اسمرٱنيۓكشخۓ": {
+      "username": "اسمرٱنيـۓ☆كشخـۓ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "ۦألذهبۦ": {
+      "username": "ۦ←♪أّلَذّهِبِ♪→ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "ٱݪسيۦآݪمصرآتيۦطرهۂٴ": {
+      "username": "ﭑݪــسـيـۦْٰ𓆪ﺂݪمصـرآتـي𓆩ۦْٰـطـرهۂٴ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "cσȍkiés": {
+      "username": "𓂃⃪꯭𝆺꯭𝅥ᷢ𝗖⃪꯭𝆭𝞂⃪꯭፝֟𝗼̴꯭̏𝐊̶꯭𝐢𝗲⃪꯭́s꯭❀",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 46,
+      "star_rank": null
+    },
+    "يستاۿلۦالبࢪدۦمטضيۦدفاه": {
+      "username": "يستـ⃪اۿ̣لۦֶָ֢الـ⃪بࢪدۦֶָ֢⋆̸مۘـטּ𝅘𝅥𝅮ضيـ؏ۦֶָ֢دفـ⃪اه",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "اأحت𖥡ۅاء": {
+      "username": "اެٓأحـ⃪⃐ــتـ𖥡ـ͜ـ⃪⃐ـﯡاެء𝆞ִֶָ𝆞❥₎",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 37,
+      "star_rank": null
+    },
+    "0zero0": {
+      "username": "0zero0",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "døηтρłαyωιтнмє": {
+      "username": ".↳døηт↛ρłαy♔ωιтн↚мє↲.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 89,
+      "star_rank": null
+    },
+    "رجہلآبہكہآهہآلزمہآن": {
+      "username": "رجہॆل❥❥َآبہॆكॆہآهہ❥❥آلَزمॆہآن",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "beryyy": {
+      "username": ".beryyy.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "khalid2005": {
+      "username": "khalid2005",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "اسدالحب": {
+      "username": "اسد❤الحب",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 93,
+      "star_rank": null
+    },
+    "اࢦڣاڔڛاࢦمࢦثم": {
+      "username": "ا̍ࢦـڣٰــۘ⇣ۘـ๋͜ا̍ڔڛۜ•⋅★⋅•اࢦمـࢦثــّْْ❈ـم",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "elrasheedy": {
+      "username": "el-rasheedy",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "0j0": {
+      "username": ".0j0.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 30,
+      "star_rank": null
+    },
+    "νοgaꪻ𖹭": {
+      "username": "𝂆ꨶ̌𝚴𝜊ꤪꤨꤪ⃪𝑔⃯𝐚ꠦ𝁦𝂘ꪻꨶ𖹭",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 78,
+      "star_rank": null
+    },
+    "أنؤثہطأغيہ": {
+      "username": "ـ↲أنـ❃ـؤثہ∫♥∫طـ❃ـأغيہ↳ـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "محمډكومنډٱ": {
+      "username": "؛♦☠مُـ‘ـُحُـ‘ـُمُـ‘ـُډ♚كُـ‘ـُوٌمُـ‘ـُنُـ‘ـُډٱ☠♦؛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ʂმlἶძմომբբεʂէմʂ": {
+      "username": "ʂმlἶძմო🔵⚫მբբεʂէմʂ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 72,
+      "star_rank": null
+    },
+    "barcelona": {
+      "username": "𝑩𝒂𝒓𝒄𝒆𝒍𝒐𝒏𝒂🇪🇸",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "رۈ୭حہجسدۿآآلشم୭خ": {
+      "username": "◈رﯛ୭حﮧ•جـِـٰسِـٰـِ✦ـٰـِدۿـآ•آلـٰـِْشـٰـِْ✦ـٰـِمـٰـ୭خ◈",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "عذرآيآبشرڪڷصفآتآڷڪلآبفيڪمإلآوفآئهآ": {
+      "username": "عذرآ-يآبشر-ڪۧڷ-صفآت-آڷڪۧلآب-فيڪۧم-إلآ-وفآئهآ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 19,
+      "star_rank": null
+    },
+    "ᥣ᥆ᤁ𔖳𖹭": {
+      "username": "𝂅ᥣ᥆ᤁ𔖳𖹭˼",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 96,
+      "star_rank": null
+    },
+    "3ↄȋᓄȷ": {
+      "username": "↳³🩶༅ↄȊᓄȷ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "نآدرهہڪحجرقديمولؤلؤهہثمينهہ": {
+      "username": "نآدِرٍهہ❀ڪحٍجٍرٍ❀قٌدِيـ♥ـــم❀وُلُِؤلُِؤهہ❀ثمينهہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "hdoa11": {
+      "username": "hdoa11",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "رچؤلہطأغيہ": {
+      "username": "ـ↲رچـ❃ـؤلہ∫♥∫طـ❃ـأغيہ↳ـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 108,
+      "star_rank": null
+    },
+    "0noor": {
+      "username": "0noor",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 68,
+      "star_rank": null
+    },
+    "lyne": {
+      "username": "︵✰𝙇𝙮𝙣𝙚࿐",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 22,
+      "star_rank": null
+    },
+    "طز": {
+      "username": "طز",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "classic": {
+      "username": "‏̅‏𝐶̵̩͜𝑙𝑎̅𝑠̅𝑠̅𝑖̅𝑐",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 129,
+      "star_rank": null
+    },
+    "مصطفيالسويسي": {
+      "username": "مصطفي♤《☠》♤السويسي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "heka": {
+      "username": "heka.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 363,
+      "star_rank": null
+    },
+    "موسيقارهہ": {
+      "username": "موسـيٰــقـارهہٰ🎻",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 20,
+      "star_rank": null
+    },
+    "a": {
+      "username": "❤a",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 24,
+      "star_rank": null
+    },
+    "اٱلشيٱلگرديےطانا": {
+      "username": "ا▒ٱلـشـيـ☼ـ▒°ٱلگـ°•.ـرديے°▒ـ☼ـطـان▒ا",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 21,
+      "star_rank": null
+    },
+    "رۆح": {
+      "username": "رۆح",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "فارس": {
+      "username": "فــ͡ـ✮๋ــارس",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 9,
+      "star_rank": null
+    },
+    "praa": {
+      "username": "praa.-",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 80,
+      "star_rank": null
+    },
+    "lina5": {
+      "username": "lina--5",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 42,
+      "star_rank": null
+    },
+    "kolzar": {
+      "username": "kolzar",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "آلنور": {
+      "username": "⭒آلَنـــ⸙ــــوُر͓݊͜𝆺𝅥",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
+      "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 12,
+      "star_rank": null
+    },
+    "halaz": {
+      "username": "halaz",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "5iba": {
+      "username": "5iba..",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "darkprince": {
+      "username": "dark_prince",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 11,
+      "star_rank": null
+    },
+    "areesha": {
+      "username": "areesha.",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1388,
+      "star_rank": null
+    },
+    "ۦۦ": {
+      "username": "ۦ❤ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "ifi": {
+      "username": "ifi",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 220,
+      "star_rank": null
+    },
+    "hamed": {
+      "username": "hamed",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "sukun": {
+      "username": ".sukun.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ۦآلۦۦۦۦرايقۦ": {
+      "username": "ۦْٰ𓆪☕آلـۦـَٰـَٰۦـَٰـ🚬ـَٰـۦۦـرايـق☕𓆩ۦْٰ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "آلآمبرااللبنانيهطورة": {
+      "username": "آلآمـ♛ـبـرا◦°الـلـ♕ـبــنـ♕ـانـيـه°◦ـطـ♛ـورة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 35,
+      "star_rank": null
+    },
+    "h": {
+      "username": "឵ℋ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "حنا𐬚": {
+      "username": "حـــــִֶָٰـــنـا𐬚﹒𝃛𝅮✿﮷",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "឵឵឵឵✿": {
+      "username": "឵឵឵឵✿",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "230": {
+      "username": "-230-",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 10,
+      "star_rank": null
+    },
+    "سعود": {
+      "username": "سعود",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 51,
+      "star_rank": null
+    },
+    "𑣲زينب𑣲": {
+      "username": "𑣲𝃛𝅮زِيــͦــᷠـͥــᷦـــــنـب𝃛𝅮𑣲𝃛",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "🅸🅺🅴": {
+      "username": "🅸🅺🅴",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 119,
+      "star_rank": null
+    },
+    "ᅠsara𖹭ᅠ": {
+      "username": "ᅠ﹒𝚜𝚊𝚛͢𝚊𖹭𑩑ᅠ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "🌬𓂃𓂃🏄𓂃𓂃🏝": {
+      "username": "🌬𓂃𓂃🏄𓂃𓂃🏝",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 64,
+      "star_rank": null
+    },
+    "3nwh": {
+      "username": "3nwh-",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "ضحڪتيدۆٱࢦݪمبتلي༤༡": {
+      "username": "ضؘؔحڪָ֪تِـִׄﻲ𑱄⭒د֢ﯙﭐ⭒𑱄ࢦݪـﻣۡـبتؘؔـָ֢لـִׄﻲ༤ֶָ༡",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 33,
+      "star_rank": null
+    },
+    "ليےفیےغيابʊʅھیبھ୪تملڪھاأنتفیےحضꪆرڪ": {
+      "username": "ﻟيـے∫ﻓﯾـے⋅غيابـʊ̤ʅ•ھﯾﺑـھ♕୪تملڪھـا•أﻧـت⋅ﻓﯾـے∫ﺣﺿـꪆرڪ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 18,
+      "star_rank": null
+    },
+    "sandrella": {
+      "username": ".sandrella",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "يטتظمٱڪ": {
+      "username": "؏ـ͜يـטּ♪تـظـمۘـٱڪ⃯",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 108,
+      "star_rank": null
+    },
+    "مهآ": {
+      "username": "مَـهـآ",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 762,
+      "star_rank": null
+    },
+    "Ꭾяɪɴᴄεsᅠ": {
+      "username": "𝃛𝅮✿𝆺𝅥⃝Ꭾяɪ፝֟ɴᴄεsㅤ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 379,
+      "star_rank": null
+    },
+    "panadolextra": {
+      "username": "panadol-extra",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 92,
+      "star_rank": null
+    },
+    "ᨳଓ": {
+      "username": "ᨳଓ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 18,
+      "star_rank": null
+    },
+    "ຣꪋꪶꩊꪋ": {
+      "username": "ຣ⃪ꪋꪶꩊꪋ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 26,
+      "star_rank": null
+    },
+    "ᴄᴏᴍᴍɪᴛᴛᴇᴅ": {
+      "username": "ᴄᴏᴍᴍɪᴛᴛᴇᴅ📿",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "卂": {
+      "username": "卂ْْْْْ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 31,
+      "star_rank": null
+    },
+    "صدىالناي": {
+      "username": "صــدى♥الــنــاي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 17,
+      "star_rank": null
+    },
+    "karthhkonehh": {
+      "username": "karthh.konehh",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "عدوالشيطان": {
+      "username": "عدوالشيطان",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 18,
+      "star_rank": null
+    },
+    "ɗơɲʆɯƛƛɲ": {
+      "username": "ƊƠƝʆƜƛƛƝ",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1077,
+      "star_rank": null
+    },
+    "أميہرهہ": {
+      "username": "أَمِــيـ❥ـہرَّهہ◌༘◦˚",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 11,
+      "star_rank": null
+    },
+    "retag0": {
+      "username": "retag.0",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 146,
+      "star_rank": null
+    },
+    "ڪسړةۦعۅډ": {
+      "username": "ڪسړةۦﻋﯠډ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "marwan94": {
+      "username": "marwan_94",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "orkida": {
+      "username": ".orkida.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 13,
+      "star_rank": null
+    },
+    "روحۦيتحبگ": {
+      "username": "روحــۦٰ۬ـِٰٰــي↯❥⫷⫸❥↯تـحــ͡ــٍُِِـ␢ــبـگ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "حفنة𔘓سکر": {
+      "username": "حَفْـنَــ♪ــة𔘓سُـکَــ♪ــر",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "ďαяκηєśş۰۰κηϊģђτ": {
+      "username": "🔥ďαяκηєśş۰⚚🐉⚚۰κηϊģђτ🔥",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "឵឵឵឵឵឵឵឵឵឵឵឵឵឵": {
+      "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "عبsقٱࢦچنsۿ": {
+      "username": "ـﻊَۧـبَـ𝓼ـق𝅘𝅥𝅮𝄒឵ٱࢦـچَنَّـ𝓼ـۿِ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 145,
+      "star_rank": null
+    },
+    "نيجرvᵎpالكردي": {
+      "username": "نيـ𓄂ᬼــجرᵛ͢ᵎᵖالــــكـــٰٰ͢❃፝͜͡✬ـــردي✬🇸🇾⍣",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "وحشrالغربيہ": {
+      "username": "وحــش฿🇮🇶ℛالـغـربـيـہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 8,
+      "star_rank": null
+    },
+    "βadr": {
+      "username": "ᵦₐDᵣ✌︎",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 141,
+      "star_rank": null
+    },
+    "rudy": {
+      "username": "ᴿᵘᵈʸ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "jan": {
+      "username": "jan",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 725,
+      "star_rank": null
+    },
+    "شيرين": {
+      "username": "شـــــــيرين",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 8,
+      "star_rank": null
+    },
+    "adam1": {
+      "username": ".adam.-1",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ahmedc0nan": {
+      "username": "ahmed..c0nan",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "dragonbrown": {
+      "username": "dragon_brown",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "sbara": {
+      "username": "sbara.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "ܢ꯱𐐫ɩîᛋ": {
+      "username": "𓇬᮫๋໋ํ๎ܢ꯱ັ𐐫໊ໍƖîᛋ໋˳⊹",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "گلمازآدغرؤرگقلآهتماميے": {
+      "username": "گـل∫♥∫مازآد♚غـ☼ـرؤرگ♚قل∫♥∫آهتـمامـيے",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "sam": {
+      "username": "𝔰𝔞𝔪",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "5tr": {
+      "username": "5tr",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "waell555": {
+      "username": "waell555",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "r8ih": {
+      "username": "-r8ih-",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 30,
+      "star_rank": null
+    },
+    "zozazh": {
+      "username": "zoza.zh",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 278,
+      "star_rank": null
+    },
+    "2": {
+      "username": ".-_2_-.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "🀦": {
+      "username": "🀦",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "ياڪريمبالجفىليتڪبخيل": {
+      "username": "ياڪريم↫بالجفى◍ليتڪ↬بخيل",
+      "level": 2,
+      "label": "لاعب ناشئ",
+      "plays": 563,
+      "star_rank": null
+    },
+    "mlk": {
+      "username": "...mlk",
+      "level": 3,
+      "label": "مقاتل",
+      "plays": 1130,
+      "star_rank": null
+    },
+    "taha": {
+      "username": ".taha.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "roz": {
+      "username": "r__oz",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "littleswallow": {
+      "username": "little-swallow",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 29,
+      "star_rank": null
+    },
+    "fuad": {
+      "username": "__fuad__",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 73,
+      "star_rank": null
+    },
+    "ليٺقلبيقدعصاني": {
+      "username": "ليٺ⌯♩قلبـ❥ـي•قد⌯♩عصانـي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "5refomar": {
+      "username": "5ref-omar",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 25,
+      "star_rank": null
+    },
+    "ٱݪمتغطرںںں": {
+      "username": "ﭑݪـ֔ـم̷ـتـغـ͢ـطـرںںں",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 17,
+      "star_rank": null
+    },
+    "мαšячαвηвαlđ": {
+      "username": "мαšяч.αвη.вαℓđ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "fᏪɩɩαʾʿ𔕬": {
+      "username": "ׂׄׄ𝐅ּׂꮺּׄƖ͚Ɩׂ𝛂ּʾʿׄ𝆆𔕬𝁺ָ݆݆",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 10,
+      "star_rank": null
+    },
+    "ll": {
+      "username": ".l--l.",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 34,
+      "star_rank": null
+    },
+    "خيبهقوتےفيہوطعني": {
+      "username": "خيب♪هقـوتے♪فيہ♪وطـ↓ـعني",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 4,
+      "star_rank": null
+    },
+    "tajalmas": {
+      "username": "_taj.almas_",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "سحلبيدة": {
+      "username": "سـ♀∫♥∫♂°◦.حلــب.◦°♂∫♥∫♀ــيدة",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "theowl": {
+      "username": "the.owl",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 19,
+      "star_rank": null
+    },
+    "7alabiaa": {
+      "username": "7alabiaa",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 94,
+      "star_rank": null
+    },
+    "حکمألهوى": {
+      "username": "حًکْمً🍂أّلَهّـوٌى",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "bigbang1": {
+      "username": "bigbang1",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 7,
+      "star_rank": null
+    },
+    "مجدي": {
+      "username": "مجدي",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 6,
+      "star_rank": null
+    },
+    "003": {
+      "username": "003..",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "s": {
+      "username": "឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵឵ˢ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "𔘓lуlу": {
+      "username": "˹𔘓°ℓуℓу𝆟˼",
+      "level": 4,
+      "label": "برونزي",
+      "plays": 1745,
+      "star_rank": null
+    },
+    "سۦۦاره": {
+      "username": "ـ❀سـۦـ❀ـۦـاره❀ـ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 26,
+      "star_rank": null
+    },
+    "sourea": {
+      "username": "𝐒𝐎𝐔☀𝐑𝐄𝐀",
+      "level": 25,
+      "label": "الماسي النادر",
+      "plays": 12365,
+      "star_rank": 1
+    },
+    "نآعمهہ𖹭ﹳ": {
+      "username": "نٰٕآﻋ⃪ٰﻤـִ۫۫ـٰـه҅ہᷓ𓈒⃪𖹭ﹳ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "الڤہمٱژنرأتہيہے": {
+      "username": "الـڤــٓـہۣۗــــ.⋰مٱژن⋱.ــــرأتہۣۗيہے",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 11,
+      "star_rank": null
+    },
+    "zmrdh2007": {
+      "username": "zmrdh2007",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "ۦريآنۦ": {
+      "username": "ۦ♡رٍيّآنِ♡ۦ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "mhmmhmm": {
+      "username": "mhmmhmm",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 274,
+      "star_rank": null
+    },
+    "ࢪڪآم": {
+      "username": "ࢪּڪـآمۘ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "3zlll": {
+      "username": "3zlll",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "انثىالملامحوالمفاعلمرجلهہ": {
+      "username": "انَــثُى♡الـمـلُامـ❥ـحُ☆وَالُـمـ❥ـفَاْعلُ♡مـرَجْلهہ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "✪‿✪": {
+      "username": "✪‿✪",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "sboot": {
+      "username": "s-boot",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 2,
+      "star_rank": null
+    },
+    "👑឵": {
+      "username": "👑឵",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 23,
+      "star_rank": null
+    },
+    "ٱلھہلاگالمقدس": {
+      "username": "ٱلـ͢ـ፝֯ـٖ፝֯֟͡͡͡ـھہـلاگ≀≀الـمـقــ͢ـ፝֯ـٖ፝֯֟͡͡͡ـدس",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "✞": {
+      "username": "✞",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    },
+    "឵឵឵឵🦋": {
+      "username": "឵឵឵឵🦋",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 5,
+      "star_rank": null
+    },
+    "亗": {
+      "username": "亗",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 3,
+      "star_rank": null
+    },
+    "شھࢪيآࢪ": {
+      "username": "شَـھــࢪيَـآࢪ",
+      "level": 1,
+      "label": "مبتدئ",
+      "plays": 1,
+      "star_rank": null
+    }
+  }
+}

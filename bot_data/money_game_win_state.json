@@ -1,0 +1,14 @@
+{
+  "billion": {
+    "forced_losses_remaining": 0,
+    "last_result": "loss",
+    "rounds": 27340,
+    "updated_at": 1792515975
+  },
+  "million": {
+    "forced_losses_remaining": 0,
+    "last_result": "loss",
+    "rounds": 20557,
+    "updated_at": 1792515972
+  }
+}
