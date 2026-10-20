@@ -1,7 +1,10 @@
 .env
 .env.*
 !.env.example
+!.env.master.example
 __pycache__/
-*.pyc
-media_state.json
-*.log
+*.py[cod]
+media/
+data/
+generated_games/
+generated_music/
